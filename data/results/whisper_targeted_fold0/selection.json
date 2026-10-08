@@ -1,0 +1,71 @@
+{
+  "fold": 0,
+  "train_pool_count": 2992,
+  "validation_count": 60,
+  "steps": 600,
+  "sampled_unique_training_clips": 476,
+  "best_step": 300,
+  "best_multiword_errors": 59,
+  "best_multiword_words": 248,
+  "selection_rule": "minimum multiword validation WER, prior adapter wins ties",
+  "source_adapter": "data/results/whisper_full_prompt_fold0/adapter",
+  "selected_adapter": "data/results/whisper_targeted_fold0/adapter",
+  "sampling": "75% dysarthric; 60% targets with at least four words; speaker balanced",
+  "training_seconds": 144.73964491602965,
+  "history": [
+    {
+      "step": 0,
+      "validation": {
+        "all": {
+          "clips": 60,
+          "words": 279,
+          "errors": 76,
+          "wer": 0.2724014336917563
+        },
+        "multiword": {
+          "clips": 29,
+          "words": 248,
+          "errors": 60,
+          "wer": 0.24193548387096775
+        }
+      }
+    },
+    {
+      "step": 300,
+      "validation": {
+        "all": {
+          "clips": 60,
+          "words": 279,
+          "errors": 73,
+          "wer": 0.2616487455197133
+        },
+        "multiword": {
+          "clips": 29,
+          "words": 248,
+          "errors": 59,
+          "wer": 0.23790322580645162
+        }
+      },
+      "train_loss_recent": 0.4435684290382778
+    },
+    {
+      "step": 600,
+      "validation": {
+        "all": {
+          "clips": 60,
+          "words": 279,
+          "errors": 75,
+          "wer": 0.26881720430107525
+        },
+        "multiword": {
+          "clips": 29,
+          "words": 248,
+          "errors": 59,
+          "wer": 0.23790322580645162
+        }
+      },
+      "train_loss_recent": 0.5516021911270218
+    }
+  ],
+  "fresh_test_used": false
+}

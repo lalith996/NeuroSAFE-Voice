@@ -1,0 +1,38 @@
+[
+  {
+    "train_speaker": "fsew0",
+    "test_speaker": "fsew0",
+    "scope": "within_speaker_test",
+    "utterances": 30,
+    "frames": 10578,
+    "mean_channel_r": 0.5805070107225673,
+    "median_channel_r": 0.6269528817465366
+  },
+  {
+    "train_speaker": "fsew0",
+    "test_speaker": "msak0",
+    "scope": "unseen_speaker_swap",
+    "utterances": 459,
+    "frames": 164025,
+    "mean_channel_r": 0.31654787883320673,
+    "median_channel_r": 0.30283102176174614
+  },
+  {
+    "train_speaker": "msak0",
+    "test_speaker": "msak0",
+    "scope": "within_speaker_test",
+    "utterances": 30,
+    "frames": 10617,
+    "mean_channel_r": 0.5975661625002074,
+    "median_channel_r": 0.6150216988892743
+  },
+  {
+    "train_speaker": "msak0",
+    "test_speaker": "fsew0",
+    "scope": "unseen_speaker_swap",
+    "utterances": 460,
+    "frames": 166889,
+    "mean_channel_r": 0.31260660967350956,
+    "median_channel_r": 0.31037709041880335
+  }
+]

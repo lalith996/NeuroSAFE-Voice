@@ -1,0 +1,187 @@
+{
+  "all": {
+    "prior_m1": {
+      "clips": 187,
+      "reference_words": 1567,
+      "word_errors": 786,
+      "prompt_wer": 0.5015954052329291
+    },
+    "full_prompt_m1": {
+      "clips": 187,
+      "reference_words": 1567,
+      "word_errors": 624,
+      "prompt_wer": 0.39821314613911934
+    }
+  },
+  "by_speaker": {
+    "F01": {
+      "prior_m1": {
+        "clips": 8,
+        "reference_words": 94,
+        "word_errors": 62,
+        "prompt_wer": 0.6595744680851063
+      },
+      "full_prompt_m1": {
+        "clips": 8,
+        "reference_words": 94,
+        "word_errors": 55,
+        "prompt_wer": 0.5851063829787234
+      }
+    },
+    "F03": {
+      "prior_m1": {
+        "clips": 25,
+        "reference_words": 236,
+        "word_errors": 30,
+        "prompt_wer": 0.1271186440677966
+      },
+      "full_prompt_m1": {
+        "clips": 25,
+        "reference_words": 236,
+        "word_errors": 27,
+        "prompt_wer": 0.11440677966101695
+      }
+    },
+    "F04": {
+      "prior_m1": {
+        "clips": 9,
+        "reference_words": 100,
+        "word_errors": 2,
+        "prompt_wer": 0.02
+      },
+      "full_prompt_m1": {
+        "clips": 9,
+        "reference_words": 100,
+        "word_errors": 2,
+        "prompt_wer": 0.02
+      }
+    },
+    "M01": {
+      "prior_m1": {
+        "clips": 35,
+        "reference_words": 254,
+        "word_errors": 147,
+        "prompt_wer": 0.5787401574803149
+      },
+      "full_prompt_m1": {
+        "clips": 35,
+        "reference_words": 254,
+        "word_errors": 136,
+        "prompt_wer": 0.5354330708661418
+      }
+    },
+    "M02": {
+      "prior_m1": {
+        "clips": 33,
+        "reference_words": 279,
+        "word_errors": 106,
+        "prompt_wer": 0.37992831541218636
+      },
+      "full_prompt_m1": {
+        "clips": 33,
+        "reference_words": 279,
+        "word_errors": 115,
+        "prompt_wer": 0.4121863799283154
+      }
+    },
+    "M03": {
+      "prior_m1": {
+        "clips": 7,
+        "reference_words": 86,
+        "word_errors": 2,
+        "prompt_wer": 0.023255813953488372
+      },
+      "full_prompt_m1": {
+        "clips": 7,
+        "reference_words": 86,
+        "word_errors": 2,
+        "prompt_wer": 0.023255813953488372
+      }
+    },
+    "M04": {
+      "prior_m1": {
+        "clips": 35,
+        "reference_words": 283,
+        "word_errors": 360,
+        "prompt_wer": 1.2720848056537102
+      },
+      "full_prompt_m1": {
+        "clips": 35,
+        "reference_words": 283,
+        "word_errors": 203,
+        "prompt_wer": 0.7173144876325088
+      }
+    },
+    "M05": {
+      "prior_m1": {
+        "clips": 35,
+        "reference_words": 235,
+        "word_errors": 77,
+        "prompt_wer": 0.3276595744680851
+      },
+      "full_prompt_m1": {
+        "clips": 35,
+        "reference_words": 235,
+        "word_errors": 84,
+        "prompt_wer": 0.3574468085106383
+      }
+    }
+  },
+  "fold_training": {
+    "0": {
+      "best_step": 600,
+      "best_validation_mean_loss": 0.7125668358639814,
+      "unique_training_clips_sampled": 738,
+      "training_seconds": 197.89444729103707
+    },
+    "1": {
+      "best_step": 900,
+      "best_validation_mean_loss": 0.2766520751631885,
+      "unique_training_clips_sampled": 780,
+      "training_seconds": 200.6137451659888
+    },
+    "2": {
+      "best_step": 900,
+      "best_validation_mean_loss": 1.1256342159661774,
+      "unique_training_clips_sampled": 757,
+      "training_seconds": 206.98786512506194
+    },
+    "3": {
+      "best_step": 900,
+      "best_validation_mean_loss": 1.4294451425023573,
+      "unique_training_clips_sampled": 723,
+      "training_seconds": 204.81055129203014
+    }
+  },
+  "reference_note": "user-designated written TORGO prompts; same frozen test clips and decoding",
+  "paired_delta_wer_full_minus_prior": -0.10338225909380977,
+  "hierarchical_bootstrap_95pct": [
+    -0.4455634638196916,
+    0.023937695653456194
+  ],
+  "largest_single_clip_gain": {
+    "speaker": "M04",
+    "session": "Session2",
+    "utterance_id": "0291",
+    "reference_words": 12,
+    "prior_errors": 157,
+    "full_prompt_errors": 7,
+    "errors_saved": 150,
+    "prior_insertions": 148,
+    "full_prompt_insertions": 0
+  },
+  "excluding_largest_gain": {
+    "prior_m1": {
+      "clips": 186,
+      "reference_words": 1555,
+      "word_errors": 629,
+      "prompt_wer": 0.4045016077170418
+    },
+    "full_prompt_m1": {
+      "clips": 186,
+      "reference_words": 1555,
+      "word_errors": 617,
+      "prompt_wer": 0.3967845659163987
+    }
+  }
+}

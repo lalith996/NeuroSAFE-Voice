@@ -1,0 +1,664 @@
+workbook_row_1based,source_subject_label,speaker,trial_spec,channel_spec,channels_1based,comment,scope,match_status,matched_candidate_rows
+2,MC01,MC01,14.0,7.0,7,No movement until half trial,numeric_or_range,ambiguous,2
+3,MC01,MC01,15.0,7.0,7,No movement,numeric_or_range,ambiguous,2
+4,MC01,MC01,17.0,7.0,7,Looks like a step,numeric_or_range,ambiguous,2
+5,MC01,MC01,18.0,7.0,7,Looks like a step,numeric_or_range,ambiguous,2
+6,MC01,MC01,33.0,7.0,7,Check spike,numeric_or_range,ambiguous,2
+7,MC01,MC01,39.0,7.0,7,Check spike,numeric_or_range,ambiguous,2
+8,MC01,MC01,71.0,2.0,2,Check spike,numeric_or_range,ambiguous,2
+9,MC01,MC01,97.0,7.0,7,Check spike,numeric_or_range,ambiguous,2
+10,MC01,MC01,117.0,7.0,7,Check spike,numeric_or_range,ambiguous,2
+11,MC01,MC01,125.0,3.0,3,Check spike,numeric_or_range,ambiguous,2
+12,MC01,MC01,136.0,3.0,3,Check spike,numeric_or_range,ambiguous,2
+13,MC01,MC01,178.0,,,Coils flat,numeric_or_range,unique,1
+14,MC01,MC01,314.0,,,blank trial?,numeric_or_range,unmatched,0
+15,MC01,MC01,323.0,,,blank trial?,numeric_or_range,unmatched,0
+16,MC01,MC01,324.0,,,blank trial?,numeric_or_range,unmatched,0
+17,MC01,MC01,332.0,,,blank trial?,numeric_or_range,unmatched,0
+19,MC01s2,MC01,1 to 150,4.0,4,squarish waves,numeric_or_range,range_review,300
+20,MC01s2,MC01,128.0,1.0,1,large spike,numeric_or_range,ambiguous,2
+21,MC01s2,MC01,156.0,,,blank trial?,numeric_or_range,ambiguous,2
+22,MC01s2,MC01,175.0,,,blank trial?,numeric_or_range,unique,1
+23,MC01s2,MC01,176.0,,,blank trial?,numeric_or_range,unique,1
+24,MC01s2,MC01,210.0,1.0,1,large spike,numeric_or_range,unique,1
+25,MC01s2,MC01,243.0,,,blank trial?,numeric_or_range,unique,1
+26,MC01s2,MC01,244.0,1.0,1,large spike,numeric_or_range,unique,1
+27,MC01s2,MC01,251.0,9.0,9,large spike,numeric_or_range,unique,1
+28,MC01s2,MC01,280.0,9.0,9,large spike,numeric_or_range,unique,1
+29,MC01s2,MC01,295.0,9.0,9,large spike,numeric_or_range,unique,1
+30,MC01s2,MC01,296.0,9.0,9,large spike,numeric_or_range,unique,1
+31,MC01s2,MC01,297.0,9.0,9,large spike,numeric_or_range,unique,1
+32,MC01s2,MC01,300.0,9.0,9,large spike,numeric_or_range,unique,1
+33,MC01s2,MC01,301.0,9.0,9,large spike,numeric_or_range,unique,1
+34,MC01s2,MC01,359.0,9.0,9,large spike,numeric_or_range,unmatched,0
+36,MC02,MC02,5.0,12.0,12,large spike,numeric_or_range,ambiguous,2
+37,MC02,MC02,6.0,12.0,12,large spike,numeric_or_range,ambiguous,2
+38,MC02,MC02,45.0,,,blank trial?,numeric_or_range,ambiguous,2
+39,MC02,MC02,151.0,10.0,10,large spike,numeric_or_range,unique,1
+40,MC02,MC02,247.0,,,blank trial?,numeric_or_range,unique,1
+41,MC02,MC02,266.0,3.0,3,check spike,numeric_or_range,unique,1
+42,MC02,MC02,294.0,2.0,2,large spike,numeric_or_range,unique,1
+43,MC02,MC02,363.0,2.0,2,large spike,numeric_or_range,unique,1
+44,MC02,MC02,371.0,,,blank trial?,numeric_or_range,unique,1
+45,MC02,MC02,376.0,3.0,3,check spike,numeric_or_range,unique,1
+46,MC02,MC02,377.0,3.0,3,check spike,numeric_or_range,unique,1
+47,MC02,MC02,380.0,2.0,2,check spike,numeric_or_range,unique,1
+48,MC02,MC02,386.0,2.0,2,check spike,numeric_or_range,unique,1
+50,MC02s2,MC02,9.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+51,MC02s2,MC02,11.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+52,MC02s2,MC02,28.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+53,MC02s2,MC02,37.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+54,MC02s2,MC02,40.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+55,MC02s2,MC02,48.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+56,MC02s2,MC02,51.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+57,MC02s2,MC02,57.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+58,MC02s2,MC02,58.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+59,MC02s2,MC02,60.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+60,MC02s2,MC02,62.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+61,MC02s2,MC02,84.0,,,blank trial?,numeric_or_range,unique,1
+62,MC02s2,MC02,89.0,1.0,1,spikes,numeric_or_range,unique,1
+63,MC02s2,MC02,110.0,1.0,1,spikes,numeric_or_range,unique,1
+64,MC02s2,MC02,111.0,1.0,1,spikes,numeric_or_range,unique,1
+65,MC02s2,MC02,116.0,1.0,1,spikes,numeric_or_range,unique,1
+66,MC02s2,MC02,117.0,1.0,1,spikes,numeric_or_range,unique,1
+67,MC02s2,MC02,122.0,1.0,1,spikes,numeric_or_range,unique,1
+68,MC02s2,MC02,129.0,1.0,1,spikes,numeric_or_range,unique,1
+69,MC02s2,MC02,133.0,1.0,1,spikes,numeric_or_range,unique,1
+70,MC02s2,MC02,136.0,1.0,1,spikes,numeric_or_range,unique,1
+71,MC02s2,MC02,167.0,1.0,1,spikes,numeric_or_range,unique,1
+72,MC02s2,MC02,168.0,1.0,1,spikes,numeric_or_range,unique,1
+73,MC02s2,MC02,169.0,1.0,1,spikes,numeric_or_range,unique,1
+74,MC02s2,MC02,217.0,1.0,1,spikes,numeric_or_range,unique,1
+75,MC02s2,MC02,222.0,1.0,1,spikes,numeric_or_range,unique,1
+76,MC02s2,MC02,224.0,1.0,1,spikes,numeric_or_range,unique,1
+77,MC02s2,MC02,226.0,1.0,1,spikes,numeric_or_range,unique,1
+78,MC02s2,MC02,309.0,1.0,1,spikes,numeric_or_range,unique,1
+79,MC02s2,MC02,311.0,1.0,1,spikes,numeric_or_range,unique,1
+80,MC02s2,MC02,239.0,,,blank trial?,numeric_or_range,unique,1
+81,MC02s2,MC02,255.0,,,blank trial?,numeric_or_range,unique,1
+83,MC03s1s2,MC03,21.0,,,blank trial?,numeric_or_range,unique,1
+84,MC03s1s2,MC03,47.0,,,blank trial?,numeric_or_range,unique,1
+85,MC03s1s2,MC03,61.0,,,blank trial?,numeric_or_range,unique,1
+86,MC03s1s2,MC03,119.0,,,blank trial?,numeric_or_range,unique,1
+87,MC03s1s2,MC03,181.0,,,blank trial?,numeric_or_range,unique,1
+88,MC03s1s2,MC03,182.0,,,blank trial?,numeric_or_range,unique,1
+89,MC03s1s2,MC03,321.0,,,blank trial?,numeric_or_range,unique,1
+90,MC03s1s2,MC03,472.0,,,blank trial?,numeric_or_range,unique,1
+91,MC03s1s2,MC03,544.0,9.0,9,large spike,numeric_or_range,unique,1
+92,MC03s1s2,MC03,548.0,9.0,9,large spike,numeric_or_range,unique,1
+93,MC03s1s2,MC03,550.0,9.0,9,large spike,numeric_or_range,unique,1
+94,MC03s1s2,MC03,552.0,,,blank trial?,numeric_or_range,unique,1
+95,MC03s1s2,MC03,563.0,9.0,9,large spike,numeric_or_range,unique,1
+97,FC01,FC01,all trials,10.0,10,spikes,all_trials_label,speaker_wide_single_session,164
+98,FC01,FC01,59.0,,,blank trial,numeric_or_range,unique,1
+99,FC01,FC01,103.0,9.0,9,large spike,numeric_or_range,unique,1
+100,FC01,FC01,151.0,9.0,9,large spike,numeric_or_range,unique,1
+101,FC01,FC01,176.0,2.0,2,large spike,numeric_or_range,unmatched,0
+102,FC01,FC01,187.0,2.0,2,spikes,numeric_or_range,unmatched,0
+103,FC01,FC01,189.0,2.0,2,spikes,numeric_or_range,unmatched,0
+104,FC01,FC01,192.0,2.0,2,spikes,numeric_or_range,unmatched,0
+105,FC01,FC01,193.0,2.0,2,spikes,numeric_or_range,unmatched,0
+106,FC01,FC01,202.0,,,blank trial,numeric_or_range,unmatched,0
+107,FC01,FC01,209.0,2.0,2,spikes,numeric_or_range,unmatched,0
+109,FC01s2,FC01,1.0,7.0,7,trial starts late,numeric_or_range,unique,1
+110,FC01s2,FC01,50.0,9.0,9,large movement,numeric_or_range,unique,1
+111,FC01s2,FC01,53.0,,,blank trial,numeric_or_range,unique,1
+112,FC01s2,FC01,218.0,,,blank trial,numeric_or_range,unmatched,0
+113,FC01s2,FC01,246.0,7.0,7,artefacts,numeric_or_range,unmatched,0
+114,FC01s2,FC01,261.0,,,blank trial,numeric_or_range,unmatched,0
+115,FC01s2,FC01,273.0,9.0,9,large spike,numeric_or_range,unmatched,0
+116,FC01s2,FC01,all trials,10.0,10,coil acting strange,all_trials_label,speaker_wide_single_session,164
+118,FC02,FC02,12.0,,,blank trial,numeric_or_range,unique,1
+119,FC02,FC02,17.0,1.0,1,bad coil,numeric_or_range,unique,1
+120,FC02,FC02,23.0,,,blank trial,numeric_or_range,unique,1
+121,FC02,FC02,24.0,,,blank trial,numeric_or_range,unique,1
+122,FC02,FC02,28.0,3.0,3,large spikes,numeric_or_range,unique,1
+123,FC02,FC02,29.0,7.0,7,artefacts,numeric_or_range,unique,1
+124,FC02,FC02,36.0,10.0,10,large spikes,numeric_or_range,unique,1
+125,FC02,FC02,40.0,10.0,10,large spikes,numeric_or_range,unique,1
+126,FC02,FC02,41.0,10.0,10,spikes,numeric_or_range,unique,1
+127,FC02,FC02,42.0,7.0,7,spikes,numeric_or_range,unique,1
+128,FC02,FC02,45.0,7.0,7,spikes,numeric_or_range,unique,1
+129,FC02,FC02,48.0,7.0,7,spikes,numeric_or_range,unique,1
+130,FC02,FC02,49.0,10.0,10,spikes,numeric_or_range,unique,1
+131,FC02,FC02,51.0,3.0,3,spikes,numeric_or_range,unique,1
+132,FC02,FC02,53.0,"3,1",3|1,spikes,numeric_or_range,unique,1
+133,FC02,FC02,54.0,"3,1",3|1,spikes,numeric_or_range,unique,1
+134,FC02,FC02,55.0,3.0,3,spikes,numeric_or_range,unique,1
+135,FC02,FC02,56.0,"3,1",3|1,spikes,numeric_or_range,unique,1
+136,FC02,FC02,57.0,"3,1",3|1,check,numeric_or_range,unique,1
+137,FC02,FC02,59.0,"1,3,5,7",1|3|5|7,spikes,numeric_or_range,unique,1
+138,FC02,FC02,60.0,3.0,3,spikes,numeric_or_range,unique,1
+139,FC02,FC02,61.0,1.0,1,spikes,numeric_or_range,unique,1
+140,FC02,FC02,62.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+141,FC02,FC02,66.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+142,FC02,FC02,68.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+143,FC02,FC02,69.0,"7,3",7|3,artefacts/spikes,numeric_or_range,unique,1
+144,FC02,FC02,70.0,"7,3",7|3,artefacts/spikes,numeric_or_range,unique,1
+145,FC02,FC02,72.0,7.0,7,artefacts/spikes,numeric_or_range,unique,1
+146,FC02,FC02,74.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+147,FC02,FC02,75.0,7.0,7,artefacts/spikes,numeric_or_range,unique,1
+148,FC02,FC02,77.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+149,FC02,FC02,78.0,"2,7,3",2|7|3,artefacts/spikes,numeric_or_range,unique,1
+150,FC02,FC02,79.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+151,FC02,FC02,91.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+152,FC02,FC02,93.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+153,FC02,FC02,95.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+154,FC02,FC02,96.0,"1,3",1|3,artefacts/spikes,numeric_or_range,unique,1
+155,FC02,FC02,98.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+156,FC02,FC02,102.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+157,FC02,FC02,111.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+158,FC02,FC02,114.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+159,FC02,FC02,115.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+160,FC02,FC02,118.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+161,FC02,FC02,121.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+162,FC02,FC02,123.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+163,FC02,FC02,126.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+164,FC02,FC02,130.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+165,FC02,FC02,137.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+166,FC02,FC02,139.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+167,FC02,FC02,141.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+168,FC02,FC02,148.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+169,FC02,FC02,150.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+170,FC02,FC02,152.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+171,FC02,FC02,158.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+172,FC02,FC02,162.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+173,FC02,FC02,165.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+174,FC02,FC02,171.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+175,FC02,FC02,181.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+176,FC02,FC02,191.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+177,FC02,FC02,192.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+178,FC02,FC02,196.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+179,FC02,FC02,197.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+180,FC02,FC02,206.0,1.0,1,artefacts/spikes,numeric_or_range,unique,1
+181,FC02,FC02,225.0,,,blank trial,numeric_or_range,unique,1
+182,FC02,FC02,231.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+183,FC02,FC02,260.0,3.0,3,artefacts/spikes,numeric_or_range,unique,1
+184,FC02,FC02,all trials,10.0,10,do not use 10,all_trials_label,speaker_wide_single_session,999
+186,FC02s2,FC02,33.0,,,blank trial,numeric_or_range,unique,1
+187,FC02s2,FC02,34.0,,,blank trial,numeric_or_range,unique,1
+188,FC02s2,FC02,41.0,3.0,3,large spike,numeric_or_range,unique,1
+189,FC02s2,FC02,65.0,4.0,4,noisy,numeric_or_range,unique,1
+190,FC02s2,FC02,73.0,4.0,4,spike,numeric_or_range,unique,1
+191,FC02s2,FC02,103.0,3.0,3,spike,numeric_or_range,unique,1
+192,FC02s2,FC02,140.0,,,blank trial,numeric_or_range,unique,1
+193,FC02s2,FC02,146.0,4.0,4,spike,numeric_or_range,unique,1
+194,FC02s2,FC02,155.0,4.0,4,spike,numeric_or_range,unique,1
+195,FC02s2,FC02,163.0,1.0,1,spikes,numeric_or_range,unique,1
+196,FC02s2,FC02,175.0,1.0,1,spike,numeric_or_range,unique,1
+197,FC02s2,FC02,225.0,,,blank trial,numeric_or_range,unique,1
+198,FC02s2,FC02,226.0,,,blank trial?,numeric_or_range,unique,1
+199,FC02s2,FC02,227.0,1.0,1,spike,numeric_or_range,unique,1
+200,FC02s2,FC02,236.0,1.0,1,spike,numeric_or_range,unique,1
+201,FC02s2,FC02,270.0,4.0,4,spike,numeric_or_range,unique,1
+202,FC02s2,FC02,273.0,1.0,1,spikes,numeric_or_range,unique,1
+203,FC02s2,FC02,281.0,3.0,3,spike,numeric_or_range,unique,1
+204,FC02s2,FC02,293.0,1.0,1,spikes,numeric_or_range,unique,1
+205,FC02s2,FC02,298.0,1.0,1,spike,numeric_or_range,unique,1
+206,FC02s2,FC02,311.0,4.0,4,spike,numeric_or_range,unique,1
+207,FC02s2,FC02,312.0,4.0,4,spike,numeric_or_range,unique,1
+208,FC02s2,FC02,317.0,1.0,1,spikes,numeric_or_range,unique,1
+209,FC02s2,FC02,327.0,1.0,1,spike,numeric_or_range,unique,1
+210,FC02s2,FC02,356.0,1.0,1,spikes,numeric_or_range,unique,1
+211,FC02s2,FC02,383.0,,,blank trial,numeric_or_range,unique,1
+212,FC02s2,FC02,386-438,12.0,12,spikes/noisy,numeric_or_range,unmatched,0
+213,FC02s2,FC02,399.0,,,blank trial,numeric_or_range,unique,1
+214,FC02s2,FC02,418.0,4.0,4,spike,numeric_or_range,unique,1
+215,FC02s2,FC02,477.0,1.0,1,spike,numeric_or_range,unique,1
+216,FC02s2,FC02,482.0,,,blank trial,numeric_or_range,unique,1
+217,FC02s2,FC02,498.0,12.0,12,spike,numeric_or_range,unique,1
+218,FC02s2,FC02,505.0,4.0,4,spike,numeric_or_range,unique,1
+219,FC02s2,FC02,506.0,4.0,4,spike,numeric_or_range,unique,1
+220,FC02s2,FC02,516.0,12.0,12,noisy,numeric_or_range,unique,1
+221,FC02s2,FC02,529.0,4.0,4,spikes,numeric_or_range,unique,1
+222,FC02s2,FC02,549.0,4.0,4,spikes,numeric_or_range,unique,1
+223,FC02s2,FC02,554.0,,,blank trial?,numeric_or_range,unique,1
+224,FC02s2,FC02,556.0,12.0,12,missing,numeric_or_range,unmatched,0
+225,FC02s2,FC02,557.0,4.0,4,spikes,numeric_or_range,unique,1
+226,FC02s2,FC02,562.0,4.0,4,spikes,numeric_or_range,unique,1
+227,FC02s2,FC02,564.0,3.0,3,spike,numeric_or_range,unique,1
+228,FC02s2,FC02,573.0,1.0,1,spikes,numeric_or_range,unique,1
+229,FC02s2,FC02,577.0,4.0,4,spikes,numeric_or_range,unique,1
+230,FC02s2,FC02,598.0,,,blank trial,numeric_or_range,unique,1
+231,FC02s2,FC02,643.0,3.0,3,large spike,numeric_or_range,unique,1
+232,FC02s2,FC02,659.0,1.0,1,large spike,numeric_or_range,unique,1
+233,FC02s2,FC02,664.0,,,blank trial,numeric_or_range,unique,1
+234,FC02s2,FC02,684.0,3.0,3,check coil,numeric_or_range,unique,1
+235,FC02s2,FC02,697.0,3.0,3,spike,numeric_or_range,unique,1
+236,FC02s2,FC02,704.0,3.0,3,check coil,numeric_or_range,unique,1
+237,FC02s2,FC02,707.0,3.0,3,check coil,numeric_or_range,unique,1
+238,FC02s2,FC02,743.0,,,blank trial,numeric_or_range,unique,1
+239,FC02s2,FC02,782.0,,,blank trial,numeric_or_range,unique,1
+240,FC02s2,FC02,787.0,2.0,2,spikes,numeric_or_range,unique,1
+241,FC02s2,FC02,789.0,2.0,2,large spike,numeric_or_range,unique,1
+242,FC02s2,FC02,794.0,3.0,3,large spike,numeric_or_range,unique,1
+243,FC02s2,FC02,795.0,2.0,2,noisy,numeric_or_range,unique,1
+244,FC02s2,FC02,821.0,"2,3",2|3,spikes,numeric_or_range,unique,1
+245,FC02s2,FC02,822.0,3.0,3,spikes,numeric_or_range,unique,1
+246,FC02s2,FC02,836.0,3.0,3,check coil,numeric_or_range,unique,1
+247,FC02s2,FC02,844.0,3.0,3,large spike,numeric_or_range,unique,1
+248,FC02s2,FC02,877.0,2.0,2,spikes,numeric_or_range,unique,1
+249,FC02s2,FC02,887.0,2.0,2,spikes,numeric_or_range,unique,1
+250,FC02s2,FC02,888.0,,,blank trial,numeric_or_range,unique,1
+251,FC02s2,FC02,889-1000,2.0,2,spikes,numeric_or_range,unmatched,0
+252,FC02s2,FC02,923.0,"1,3",1|3,spikes,numeric_or_range,unique,1
+253,FC02s2,FC02,951.0,,,blank trial,numeric_or_range,unique,1
+255,FC03s1,FC03,2.0,3.0,3,spikes,numeric_or_range,ambiguous,2
+256,FC03s1,FC03,7.0,1.0,1,check coil,numeric_or_range,ambiguous,2
+257,FC03s1,FC03,2 to 54,9.0,9,spikes,numeric_or_range,range_review,106
+258,FC03s1,FC03,26.0,1.0,1,large spike,numeric_or_range,ambiguous,2
+259,FC03s1,FC03,27.0,3.0,3,check coil,numeric_or_range,ambiguous,2
+260,FC03s1,FC03,68.0,1.0,1,spikes,numeric_or_range,ambiguous,2
+261,FC03s1,FC03,118.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+262,FC03s1,FC03,160.0,,,blank trial?,numeric_or_range,ambiguous,2
+263,FC03s1,FC03,162.0,3.0,3,check coil,numeric_or_range,ambiguous,2
+264,FC03s1,FC03,202.0,,,blank trial,numeric_or_range,ambiguous,2
+265,FC03s1,FC03,203.0,,,blank trial,numeric_or_range,ambiguous,2
+266,FC03s1,FC03,206.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+267,FC03s1,FC03,208.0,1.0,1,large spike,numeric_or_range,ambiguous,2
+268,FC03s1,FC03,230.0,,,blank trial,numeric_or_range,ambiguous,2
+269,FC03s1,FC03,255.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+270,FC03s1,FC03,281.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+271,FC03s1,FC03,286.0,1.0,1,large spike,numeric_or_range,ambiguous,2
+272,FC03s1,FC03,308.0,1.0,1,check spike,numeric_or_range,ambiguous,2
+273,FC03s1,FC03,317.0,10.0,10,spikes,numeric_or_range,ambiguous,2
+274,FC03s1,FC03,319.0,1.0,1,large spikes,numeric_or_range,ambiguous,2
+275,FC03s1,FC03,344.0,,,blank trial,numeric_or_range,ambiguous,2
+276,FC03s1,FC03,360.0,,,blank trial,numeric_or_range,ambiguous,2
+277,FC03s1,FC03,361.0,10.0,10,spikes,numeric_or_range,ambiguous,2
+278,FC03s1,FC03,369.0,1.0,1,large spike,numeric_or_range,ambiguous,2
+279,FC03s1,FC03,384.0,10.0,10,spikes,numeric_or_range,ambiguous,2
+280,FC03s1,FC03,389.0,10.0,10,spikes,numeric_or_range,ambiguous,2
+281,FC03s1,FC03,399.0,10.0,10,spike,numeric_or_range,unique,1
+283,FC03s2,FC03,10.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+284,FC03s2,FC03,11.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+285,FC03s2,FC03,12.0,9.0,9,check coil,numeric_or_range,ambiguous,2
+286,FC03s2,FC03,28.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+287,FC03s2,FC03,31.0,9.0,9,check spikes,numeric_or_range,ambiguous,2
+288,FC03s2,FC03,36.0,9.0,9,check spikes,numeric_or_range,ambiguous,2
+289,FC03s2,FC03,41.0,9.0,9,check spikes,numeric_or_range,ambiguous,2
+290,FC03s2,FC03,46.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+291,FC03s2,FC03,48.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+292,FC03s2,FC03,49.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+293,FC03s2,FC03,55.0,9.0,9,check coil,numeric_or_range,ambiguous,2
+294,FC03s2,FC03,100.0,,,blank trial,numeric_or_range,ambiguous,2
+295,FC03s2,FC03,107.0,1.0,1,large spike,numeric_or_range,ambiguous,2
+296,FC03s2,FC03,117.0,9.0,9,large spike,numeric_or_range,ambiguous,2
+297,FC03s2,FC03,142.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+298,FC03s2,FC03,146.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+299,FC03s2,FC03,164.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+300,FC03s2,FC03,168.0,9.0,9,large spike,numeric_or_range,ambiguous,2
+301,FC03s2,FC03,169.0,9.0,9,check coil,numeric_or_range,ambiguous,2
+302,FC03s2,FC03,179.0,9.0,9,large spike,numeric_or_range,ambiguous,2
+303,FC03s2,FC03,181.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+304,FC03s2,FC03,190.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+305,FC03s2,FC03,227.0,,,blank trial?,numeric_or_range,ambiguous,2
+306,FC03s2,FC03,254.0,10.0,10,large spike,numeric_or_range,ambiguous,2
+307,FC03s2,FC03,296.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+308,FC03s2,FC03,302.0,9.0,9,large spike,numeric_or_range,ambiguous,2
+309,FC03s2,FC03,303.0,9.0,9,large spike,numeric_or_range,ambiguous,2
+310,FC03s2,FC03,306.0,,,blank trial?,numeric_or_range,ambiguous,2
+311,FC03s2,FC03,312.0,9.0,9,check coil,numeric_or_range,ambiguous,2
+312,FC03s2,FC03,327.0,9.0,9,large spike,numeric_or_range,ambiguous,2
+315,M01,M01,1.0,10.0,10,check coil,numeric_or_range,unique,1
+316,M01,M01,6.0,10.0,10,spikes,numeric_or_range,unique,1
+317,M01,M01,8.0,1.0,1,large spikes,numeric_or_range,unique,1
+318,M01,M01,11.0,1.0,1,bad coil,numeric_or_range,unique,1
+319,M01,M01,13.0,"2,6",2|6,no movement,numeric_or_range,unique,1
+320,M01,M01,14.0,"2,6",2|6,no movement,numeric_or_range,unique,1
+321,M01,M01,15.0,"2,6",2|6,no movement,numeric_or_range,unique,1
+322,M01,M01,16.0,"2,6",2|6,no movement,numeric_or_range,unique,1
+323,M01,M01,17.0,"2,6",2|6,no movement,numeric_or_range,unique,1
+324,M01,M01,18.0,"2,6",2|6,no movement,numeric_or_range,unique,1
+325,M01,M01,19.0,"2,6",2|6,no movement,numeric_or_range,unique,1
+326,M01,M01,20.0,2.0,2,no movement,numeric_or_range,unique,1
+327,M01,M01,21.0,2.0,2,no movement,numeric_or_range,unique,1
+328,M01,M01,22.0,2.0,2,no movement,numeric_or_range,unique,1
+329,M01,M01,23.0,2.0,2,no movement,numeric_or_range,unique,1
+330,M01,M01,24.0,"2, 10",2|10,"no movement, large spike",numeric_or_range,unique,1
+331,M01,M01,25.0,2.0,2,large spike,numeric_or_range,unique,1
+332,M01,M01,26.0,2.0,2,large spikes,numeric_or_range,unique,1
+333,M01,M01,28.0,10.0,10,spikes,numeric_or_range,unique,1
+334,M01,M01,29.0,"2,10",2|10,"bad coil, spikes",numeric_or_range,unique,1
+335,M01,M01,30.0,"2,3",2|3,"bad coil, spikes",numeric_or_range,unique,1
+336,M01,M01,31.0,"1,2",1|2,large spikes,numeric_or_range,unique,1
+337,M01,M01,32.0,2.0,2,large spikes,numeric_or_range,unique,1
+338,M01,M01,33.0,"1,2",1|2,large spikes,numeric_or_range,unique,1
+339,M01,M01,34.0,"1,2",1|2,bad coils,numeric_or_range,unique,1
+340,M01,M01,35.0,"1,2",1|2,bad coils,numeric_or_range,unique,1
+341,M01,M01,36.0,"1,2",1|2,bad coils,numeric_or_range,unique,1
+342,M01,M01,37.0,"1,2,10",1|2|10,"bad coils, spikes",numeric_or_range,unique,1
+343,M01,M01,38.0,"1,2,3,9",1|2|3|9,"bad coils, spikes",numeric_or_range,unique,1
+344,M01,M01,39.0,"1,2,3",1|2|3,missing,numeric_or_range,unique,1
+345,M01,M01,40.0,"1,2,11",1|2|11,"bad coils, spikes",numeric_or_range,unique,1
+346,M01,M01,41.0,"1,2",1|2,bad coils,numeric_or_range,unique,1
+347,M01,M01,42.0,"1,2",1|2,bad coils,numeric_or_range,unique,1
+348,M01,M01,43.0,2.0,2,bad coil,numeric_or_range,unique,1
+349,M01,M01,44.0,"2,3",2|3,bad coils,numeric_or_range,unique,1
+350,M01,M01,45.0,"2,6",2|6,no movement,numeric_or_range,unique,1
+351,M01,M01,46.0,2.0,2,no movement,numeric_or_range,unique,1
+352,M01,M01,47 to 50,"2,6",2|6,no movement,numeric_or_range,range_review,4
+353,M01,M01,51.0,"7,10",7|10,spikes,numeric_or_range,unique,1
+354,M01,M01,54.0,9.0,9,large spike,numeric_or_range,unique,1
+355,M01,M01,58.0,6.0,6,no movement,numeric_or_range,unique,1
+356,M01,M01,59.0,"6,10",6|10,no movement/spikes,numeric_or_range,unique,1
+357,M01,M01,61.0,6.0,6,no movement,numeric_or_range,unique,1
+358,M01,M01,63.0,,,blank trial,numeric_or_range,unique,1
+359,M01,M01,64.0,"7,10",7|10,large spikes,numeric_or_range,unique,1
+360,M01,M01,66.0,10.0,10,check coil,numeric_or_range,unique,1
+361,M01,M01,72.0,"6,7",6|7,spikes,numeric_or_range,unique,1
+362,M01,M01,73.0,2.0,2,spikes/bad coil,numeric_or_range,unique,1
+363,M01,M01,74.0,6.0,6,no movement,numeric_or_range,unique,1
+364,M01,M01,75.0,6.0,6,no movement,numeric_or_range,unique,1
+365,M01,M01,76.0,"6,7",6|7,"spikes, no movement",numeric_or_range,unique,1
+366,M01,M01,77.0,"6,10",6|10,spikes,numeric_or_range,unique,1
+367,M01,M01,78.0,"3,6",3|6,spikes,numeric_or_range,unique,1
+368,M01,M01,79 to 84,6.0,6,no movement,numeric_or_range,range_review,6
+369,M01,M01,83.0,7.0,7,large spike,numeric_or_range,unique,1
+370,M01,M01,84.0,7.0,7,large spike,numeric_or_range,unique,1
+371,M01,M01,85.0,8.0,8,check coil,numeric_or_range,unique,1
+372,M01,M01,86.0,7.0,7,check coil,numeric_or_range,unique,1
+373,M01,M01,87.0,7.0,7,check coil,numeric_or_range,unique,1
+374,M01,M01,92.0,7.0,7,large spike,numeric_or_range,unique,1
+375,M01,M01,97.0,11.0,11,spikes,numeric_or_range,unique,1
+376,M01,M01,98.0,11.0,11,spikes,numeric_or_range,unique,1
+377,M01,M01,99.0,8.0,8,no movement,numeric_or_range,unique,1
+378,M01,M01,100.0,"2,11",2|11,spikes,numeric_or_range,unique,1
+380,M02,M02,74.0,9.0,9,off,numeric_or_range,unique,1
+381,M02,M02,75.0,,,blank trial,numeric_or_range,unique,1
+382,M02,M02,76.0,12.0,12,spikes,numeric_or_range,unique,1
+383,M02,M02,77.0,12.0,12,spikes,numeric_or_range,unique,1
+384,M02,M02,78.0,12.0,12,spikes,numeric_or_range,unique,1
+385,M02,M02,79.0,10.0,10,check coil,numeric_or_range,unique,1
+386,M02,M02,80.0,12.0,12,spikes,numeric_or_range,unique,1
+387,M02,M02,81.0,11.0,11,looks like steps,numeric_or_range,unique,1
+388,M02,M02,84.0,7.0,7,check spike,numeric_or_range,unique,1
+389,M02,M02,85.0,12.0,12,check coil,numeric_or_range,unique,1
+390,M02,M02,86.0,11.0,11,no movement,numeric_or_range,unique,1
+391,M02,M02,88.0,11.0,11,spikes,numeric_or_range,unique,1
+392,M02,M02,89.0,12.0,12,spike,numeric_or_range,unique,1
+393,M02,M02,90.0,11.0,11,check coil,numeric_or_range,unique,1
+394,M02,M02,91.0,11.0,11,large spike,numeric_or_range,unique,1
+395,M02,M02,92.0,11.0,11,spikes,numeric_or_range,unique,1
+396,M02,M02,96.0,11.0,11,spikes,numeric_or_range,unique,1
+397,M02,M02,97.0,12.0,12,spike,numeric_or_range,unique,1
+398,M02,M02,98.0,12.0,12,spike,numeric_or_range,unique,1
+399,M02,M02,101.0,12.0,12,spike,numeric_or_range,unique,1
+400,M02,M02,103.0,12.0,12,spike,numeric_or_range,unique,1
+401,M02,M02,105.0,12.0,12,spike,numeric_or_range,unique,1
+402,M02,M02,115.0,12.0,12,spike,numeric_or_range,unique,1
+403,M02,M02,123.0,12.0,12,spike,numeric_or_range,unique,1
+404,M02,M02,125.0,12.0,12,spike,numeric_or_range,unique,1
+405,M02,M02,131.0,9.0,9,spike,numeric_or_range,unique,1
+406,M02,M02,140.0,9.0,9,spike,numeric_or_range,unique,1
+407,M02,M02,163.0,7.0,7,spike,numeric_or_range,unique,1
+408,M02,M02,175.0,,,blank trial,numeric_or_range,unique,1
+409,M02,M02,188.0,7.0,7,spike,numeric_or_range,unique,1
+410,M02,M02,212.0,7.0,7,"spike, no movement",numeric_or_range,unique,1
+411,M02,M02,215.0,9.0,9,check spike,numeric_or_range,unique,1
+412,M02,M02,219.0,2.0,2,looks like square,numeric_or_range,unique,1
+413,M02,M02,222.0,9.0,9,check spike,numeric_or_range,unique,1
+414,M02,M02,224.0,,,blank trial,numeric_or_range,unique,1
+415,M02,M02,226.0,9.0,9,spikes,numeric_or_range,unique,1
+416,M02,M02,227.0,9.0,9,check spike,numeric_or_range,unique,1
+417,M02,M02,228.0,7.0,7,spikes,numeric_or_range,unique,1
+418,M02,M02,232.0,3.0,3,large spike,numeric_or_range,unique,1
+419,M02,M02,235.0,2.0,2,large spike,numeric_or_range,unique,1
+420,M02,M02,all trials,"11,12",11|12,coils acting strange,all_trials_label,speaker_wide_single_session,169
+422,M03,M03,19.0,,,blank trial,numeric_or_range,unique,1
+423,M03,M03,109.0,1.0,1,large spike,numeric_or_range,unique,1
+424,M03,M03,150.0,1.0,1,spike,numeric_or_range,unique,1
+425,M03,M03,247.0,9.0,9,check spike,numeric_or_range,unique,1
+426,M03,M03,262.0,,,blank trial,numeric_or_range,unique,1
+427,M03,M03,263.0,,,blank trial,numeric_or_range,unique,1
+428,M03,M03,274.0,,,blank trial?,numeric_or_range,unique,1
+429,M03,M03,367.0,9.0,9,noisy,numeric_or_range,unique,1
+430,M03,M03,373.0,9.0,9,noisy,numeric_or_range,unique,1
+431,M03,M03,374.0,9.0,9,noisy/spikes,numeric_or_range,unique,1
+433,M04,M04,1.0,9.0,9,check spike,numeric_or_range,unique,1
+434,M04,M04,3.0,6.0,6,spikes,numeric_or_range,unique,1
+435,M04,M04,11.0,10.0,10,check spikes,numeric_or_range,unique,1
+436,M04,M04,12.0,10.0,10,check spikes,numeric_or_range,unique,1
+437,M04,M04,14.0,"9,10,11",9|10|11,check spikes,numeric_or_range,unique,1
+438,M04,M04,15.0,11.0,11,large spike,numeric_or_range,unique,1
+439,M04,M04,16.0,10.0,10,spikes,numeric_or_range,unique,1
+440,M04,M04,17.0,10.0,10,spikes,numeric_or_range,unique,1
+441,M04,M04,18.0,10.0,10,spikes,numeric_or_range,unique,1
+442,M04,M04,19.0,10.0,10,check spikes,numeric_or_range,unique,1
+443,M04,M04,27.0,"10, 12",10|12,spikes,numeric_or_range,unique,1
+444,M04,M04,28.0,"10,12",10|12,spikes,numeric_or_range,unique,1
+445,M04,M04,30.0,10.0,10,check spikes,numeric_or_range,unique,1
+446,M04,M04,31.0,"6,10",6|10,spikes,numeric_or_range,unique,1
+447,M04,M04,32.0,"10,12",10|12,spikes,numeric_or_range,unique,1
+448,M04,M04,33.0,10.0,10,spikes,numeric_or_range,unique,1
+449,M04,M04,37.0,10.0,10,spikes,numeric_or_range,unique,1
+450,M04,M04,39.0,11.0,11,spike,numeric_or_range,unique,1
+451,M04,M04,43.0,"10,11",10|11,check spikes,numeric_or_range,unique,1
+452,M04,M04,44.0,7.0,7,spikes,numeric_or_range,unique,1
+453,M04,M04,46.0,10.0,10,spikes,numeric_or_range,unique,1
+454,M04,M04,47.0,10.0,10,check spike,numeric_or_range,unique,1
+455,M04,M04,48.0,10.0,10,spike,numeric_or_range,unique,1
+456,M04,M04,49.0,10.0,10,spike,numeric_or_range,unique,1
+457,M04,M04,51.0,10.0,10,spike,numeric_or_range,unique,1
+458,M04,M04,53.0,10.0,10,spike,numeric_or_range,unique,1
+459,M04,M04,55.0,10.0,10,check spike,numeric_or_range,unique,1
+460,M04,M04,56.0,10.0,10,spike,numeric_or_range,unique,1
+461,M04,M04,57.0,"9,10",9|10,spike,numeric_or_range,unique,1
+462,M04,M04,64.0,"9,10",9|10,check spikes,numeric_or_range,unique,1
+463,M04,M04,65.0,7.0,7,check spike,numeric_or_range,unique,1
+464,M04,M04,66.0,"4,6,9,10",4|6|9|10,check spikes,numeric_or_range,unique,1
+465,M04,M04,68.0,9.0,9,spikes,numeric_or_range,unique,1
+466,M04,M04,69.0,9.0,9,spikes,numeric_or_range,unique,1
+467,M04,M04,72.0,10.0,10,check spike,numeric_or_range,unique,1
+468,M04,M04,73.0,10.0,10,check coil,numeric_or_range,unique,1
+469,M04,M04,75.0,"10,12",10|12,spikes,numeric_or_range,unique,1
+470,M04,M04,77.0,10.0,10,spike,numeric_or_range,unique,1
+471,M04,M04,78.0,10.0,10,check spikes,numeric_or_range,unique,1
+472,M04,M04,79.0,10.0,10,spike,numeric_or_range,unique,1
+473,M04,M04,81.0,11.0,11,looks like a step,numeric_or_range,unique,1
+474,M04,M04,82.0,10.0,10,spikes,numeric_or_range,unique,1
+475,M04,M04,83.0,10.0,10,spikes,numeric_or_range,unique,1
+476,M04,M04,85.0,10.0,10,noisy/spike,numeric_or_range,unique,1
+477,M04,M04,86 to 88,10.0,10,spikes,numeric_or_range,range_review,3
+478,M04,M04,91.0,10.0,10,spikes,numeric_or_range,unique,1
+479,M04,M04,92.0,"9,10",9|10,spikes,numeric_or_range,unique,1
+480,M04,M04,93.0,"9,10",9|10,check spikes,numeric_or_range,unique,1
+481,M04,M04,94.0,"9,10",9|10,spikes,numeric_or_range,unique,1
+482,M04,M04,101.0,11.0,11,spike,numeric_or_range,unique,1
+483,M04,M04,106.0,6.0,6,spike,numeric_or_range,unique,1
+484,M04,M04,114.0,9.0,9,spikes,numeric_or_range,unique,1
+485,M04,M04,118.0,10.0,10,spikes,numeric_or_range,unique,1
+486,M04,M04,119.0,10.0,10,spikes,numeric_or_range,unique,1
+487,M04,M04,123.0,10.0,10,spikes,numeric_or_range,unique,1
+488,M04,M04,125.0,10.0,10,spikes,numeric_or_range,unique,1
+489,M04,M04,127.0,10.0,10,large spike,numeric_or_range,unique,1
+490,M04,M04,132.0,10.0,10,spikes,numeric_or_range,unique,1
+491,M04,M04,133.0,10.0,10,spikes,numeric_or_range,unique,1
+492,M04,M04,136.0,"9,10",9|10,spikes,numeric_or_range,unique,1
+493,M04,M04,142.0,9.0,9,spike,numeric_or_range,unique,1
+494,M04,M04,144.0,9.0,9,spike,numeric_or_range,unique,1
+495,M04,M04,146.0,11.0,11,spike,numeric_or_range,unique,1
+496,M04,M04,147.0,"11,12",11|12,"no movement, spike",numeric_or_range,unique,1
+497,M04,M04,148.0,9.0,9,spikes,numeric_or_range,unique,1
+498,M04,M04,153.0,10.0,10,spikes,numeric_or_range,unique,1
+499,M04,M04,168.0,9.0,9,check spikes,numeric_or_range,unique,1
+500,M04,M04,174.0,10.0,10,check spikes,numeric_or_range,unique,1
+501,M04,M04,178.0,9.0,9,check spike,numeric_or_range,unique,1
+502,M04,M04,181.0,,,blank trial,numeric_or_range,unique,1
+503,M04,M04,183.0,7.0,7,check spike,numeric_or_range,unique,1
+504,M04,M04,191.0,"7,9",7|9,spikes,numeric_or_range,unique,1
+505,M04,M04,193.0,7.0,7,spikes,numeric_or_range,unique,1
+506,M04,M04,194.0,10.0,10,spike,numeric_or_range,unique,1
+507,M04,M04,203.0,12.0,12,spike,numeric_or_range,unique,1
+508,M04,M04,204.0,10.0,10,check spike,numeric_or_range,unique,1
+509,M04,M04,205-217,10.0,10,spikes,numeric_or_range,unmatched,0
+510,M04,M04,218.0,9.0,9,spike,numeric_or_range,unique,1
+511,M04,M04,219.0,"9,10",9|10,spikes,numeric_or_range,unique,1
+512,M04,M04,223.0,11.0,11,noisy,numeric_or_range,unique,1
+513,M04,M04,228.0,"10,11",10|11,spikes,numeric_or_range,unique,1
+514,M04,M04,230.0,10.0,10,spikes,numeric_or_range,unique,1
+515,M04,M04,231.0,10.0,10,spikes,numeric_or_range,unique,1
+516,M04,M04,239.0,9.0,9,spike,numeric_or_range,unique,1
+517,M04,M04,240.0,9.0,9,spikes,numeric_or_range,unique,1
+518,M04,M04,241.0,9.0,9,spike,numeric_or_range,unique,1
+519,M04,M04,242.0,"10,11",10|11,spikes,numeric_or_range,unique,1
+520,M04,M04,248.0,9.0,9,spikes/noisy,numeric_or_range,unique,1
+521,M04,M04,258.0,,,blank trial,numeric_or_range,unique,1
+522,M04,M04,259.0,,,blank trial,numeric_or_range,unique,1
+523,M04,M04,273.0,10.0,10,spikes,numeric_or_range,unique,1
+524,M04,M04,275.0,,,blank trial,numeric_or_range,unique,1
+525,M04,M04,276.0,"9,10",9|10,spikes,numeric_or_range,unique,1
+526,M04,M04,283.0,10.0,10,spikes,numeric_or_range,unique,1
+527,M04,M04,284.0,10.0,10,spikes,numeric_or_range,unique,1
+528,M04,M04,285.0,10.0,10,spikes,numeric_or_range,unique,1
+529,M04,M04,287.0,10.0,10,spikes,numeric_or_range,unique,1
+530,M04,M04,294.0,10.0,10,spike,numeric_or_range,unique,1
+531,M04,M04,297.0,10.0,10,spike,numeric_or_range,unique,1
+532,M04,M04,all trials,"1,2,3,8",1|2|3|8,turned off,all_trials_label,speaker_wide_single_session,298
+534,F04,F04,7.0,10.0,10,large spike,numeric_or_range,unique,1
+535,F04,F04,9.0,2.0,2,spike,numeric_or_range,unique,1
+536,F04,F04,14.0,10.0,10,check spike,numeric_or_range,unique,1
+537,F04,F04,15.0,10.0,10,check coil,numeric_or_range,unique,1
+538,F04,F04,20.0,2.0,2,spike,numeric_or_range,unique,1
+539,F04,F04,24.0,1.0,1,check coil,numeric_or_range,unique,1
+540,F04,F04,37.0,1.0,1,spike,numeric_or_range,unique,1
+541,F04,F04,45.0,1.0,1,spike,numeric_or_range,unique,1
+542,F04,F04,47.0,3.0,3,spikes,numeric_or_range,unique,1
+543,F04,F04,52.0,"1,3",1|3,spikes,numeric_or_range,unique,1
+544,F04,F04,53.0,"1,3",1|3,spikes,numeric_or_range,unique,1
+545,F04,F04,54.0,3.0,3,spike,numeric_or_range,unique,1
+546,F04,F04,58.0,"2,3",2|3,spikes,numeric_or_range,unique,1
+547,F04,F04,59.0,3.0,3,spike,numeric_or_range,unique,1
+548,F04,F04,61.0,"1,2",1|2,spikes,numeric_or_range,unique,1
+549,F04,F04,62.0,3.0,3,check spikes,numeric_or_range,unique,1
+550,F04,F04,65.0,3.0,3,spikes,numeric_or_range,unique,1
+551,F04,F04,67.0,2.0,2,spikes,numeric_or_range,unique,1
+552,F04,F04,68.0,,,blank trial?,numeric_or_range,unique,1
+553,F04,F04,75.0,10.0,10,spikes,numeric_or_range,unique,1
+554,F04,F04,79.0,10.0,10,spike,numeric_or_range,unique,1
+555,F04,F04,80.0,10.0,10,large spike,numeric_or_range,unique,1
+556,F04,F04,81.0,10.0,10,large spike,numeric_or_range,unique,1
+557,F04,F04,83.0,10.0,10,spike,numeric_or_range,unique,1
+558,F04,F04,84.0,10.0,10,spike,numeric_or_range,unique,1
+559,F04,F04,87.0,10.0,10,spike,numeric_or_range,unique,1
+560,F04,F04,88.0,"1,10",1|10,spikes,numeric_or_range,unique,1
+561,F04,F04,89.0,10.0,10,check coil,numeric_or_range,unique,1
+562,F04,F04,90.0,10.0,10,spike,numeric_or_range,unique,1
+563,F04,F04,95.0,10.0,10,spike,numeric_or_range,unique,1
+564,F04,F04,104.0,10.0,10,large spike,numeric_or_range,unique,1
+565,F04,F04,114.0,10.0,10,spikes,numeric_or_range,unique,1
+566,F04,F04,117-120,10.0,10,spikes,numeric_or_range,unmatched,0
+567,F04,F04,129.0,2.0,2,check spikes,numeric_or_range,unique,1
+568,F04,F04,134.0,2.0,2,check spikes,numeric_or_range,unique,1
+569,F04,F04,139.0,3.0,3,large spike,numeric_or_range,unique,1
+570,F04,F04,140.0,"1,2",1|2,spikes,numeric_or_range,unique,1
+571,F04,F04,141.0,3.0,3,check coil,numeric_or_range,unique,1
+572,F04,F04,143.0,6.0,6,spikes,numeric_or_range,unique,1
+573,F04,F04,144.0,"1,2",1|2,spikes,numeric_or_range,unique,1
+574,F04,F04,147.0,"1,2",1|2,spikes,numeric_or_range,unique,1
+575,F04,F04,148.0,3.0,3,large spike,numeric_or_range,unique,1
+576,F04,F04,157.0,"1,2",1|2,spikes,numeric_or_range,unique,1
+577,F04,F04,165.0,,,blank trial?,numeric_or_range,unique,1
+578,F04,F04,166.0,2.0,2,spikes,numeric_or_range,unique,1
+579,F04,F04,170.0,2.0,2,spike,numeric_or_range,unique,1
+580,F04,F04,173.0,2.0,2,spike,numeric_or_range,unique,1
+581,F04,F04,182.0,2.0,2,check spike,numeric_or_range,unique,1
+582,F04,F04,225.0,1.0,1,noisy/spike,numeric_or_range,unique,1
+583,F04,F04,226.0,"1,2",1|2,check spikes,numeric_or_range,unique,1
+584,F04,F04,227.0,"2,3",2|3,spikes,numeric_or_range,unique,1
+585,F04,F04,232.0,2.0,2,spike,numeric_or_range,unique,1
+586,F04,F04,233.0,"2,7",2|7,spikes,numeric_or_range,unique,1
+587,F04,F04,238.0,1.0,1,spike,numeric_or_range,unique,1
+588,F04,F04,240.0,2.0,2,spikes,numeric_or_range,unique,1
+589,F04,F04,all trials,10.0,10,coil acting strange,all_trials_label,speaker_wide_single_session,250
+591,F03,F03,27.0,2.0,2,spikes,numeric_or_range,ambiguous,2
+592,F03,F03,33.0,2.0,2,spikes,numeric_or_range,ambiguous,2
+593,F03,F03,36.0,2.0,2,check spike,numeric_or_range,ambiguous,2
+594,F03,F03,44.0,"1,4",1|4,spikes,numeric_or_range,ambiguous,2
+595,F03,F03,59.0,,,blank trial,numeric_or_range,ambiguous,2
+596,F03,F03,74.0,4.0,4,noisy,numeric_or_range,ambiguous,2
+597,F03,F03,110.0,3.0,3,large spike,numeric_or_range,ambiguous,2
+598,F03,F03,119.0,3.0,3,spikes,numeric_or_range,ambiguous,2
+599,F03,F03,131.0,3.0,3,spikes,numeric_or_range,ambiguous,2
+600,F03,F03,162.0,10.0,10,no movement,numeric_or_range,unique,1
+601,F03,F03,163.0,7.0,7,no movement,numeric_or_range,unique,1
+602,F03,F03,166.0,10.0,10,spikes,numeric_or_range,unique,1
+603,F03,F03,169.0,9.0,9,spikes,numeric_or_range,unique,1
+604,F03,F03,170.0,9.0,9,spike,numeric_or_range,unique,1
+605,F03,F03,171.0,6.0,6,spike,numeric_or_range,unique,1
+606,F03,F03,198.0,10.0,10,spike,numeric_or_range,unique,1
+607,F03,F03,202.0,,,blank trial,numeric_or_range,unique,1
+608,F03,F03,207.0,,,blank trial?,numeric_or_range,unique,1
+609,F03,F03,225.0,,,blank trial?,numeric_or_range,unmatched,0
+610,F03,F03,263.0,9.0,9,check spike,numeric_or_range,unmatched,0
+611,F03,F03,289.0,,,blank trial?,numeric_or_range,unmatched,0
+612,F03,F03,320.0,3.0,3,check spike,numeric_or_range,unmatched,0
+613,F03,F03,327.0,8.0,8,check spike,numeric_or_range,unmatched,0
+614,F03,F03,349.0,,,blank trial?,numeric_or_range,unmatched,0
+615,F03,F03,375.0,,,blank trial,numeric_or_range,unmatched,0
+616,F03,F03,377.0,,,blank trial?,numeric_or_range,unmatched,0
+617,F03,F03,383.0,3.0,3,check spike,numeric_or_range,unmatched,0
+618,F03,F03,437.0,,,blank trial,numeric_or_range,unmatched,0
+619,F03,F03,439.0,,,blank trial,numeric_or_range,unmatched,0
+620,F03,F03,445.0,1.0,1,spikes,numeric_or_range,unmatched,0
+621,F03,F03,446.0,1.0,1,spikes,numeric_or_range,unmatched,0
+622,F03,F03,447.0,1.0,1,spikes,numeric_or_range,unmatched,0
+624,FC03s2,FC03,2.0,,,blank trial,numeric_or_range,ambiguous,2
+625,FC03s2,FC03,23.0,9.0,9,check spike,numeric_or_range,ambiguous,2
+626,FC03s2,FC03,24.0,11.0,11,noisy,numeric_or_range,ambiguous,2
+627,FC03s2,FC03,26.0,7.0,7,spikes,numeric_or_range,ambiguous,2
+628,FC03s2,FC03,28.0,9.0,9,"spike, no movement",numeric_or_range,ambiguous,2
+629,FC03s2,FC03,29.0,9.0,9,coil acting strange,numeric_or_range,ambiguous,2
+630,FC03s2,FC03,30.0,7.0,7,spikes,numeric_or_range,ambiguous,2
+631,FC03s2,FC03,34.0,3.0,3,spike,numeric_or_range,ambiguous,2
+632,FC03s2,FC03,36.0,8.0,8,check coil,numeric_or_range,ambiguous,2
+633,FC03s2,FC03,42.0,9.0,9,spike,numeric_or_range,ambiguous,2
+634,FC03s2,FC03,47.0,9.0,9,spike,numeric_or_range,ambiguous,2
+635,FC03s2,FC03,48.0,9.0,9,spike,numeric_or_range,ambiguous,2
+636,FC03s2,FC03,55.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+637,FC03s2,FC03,56.0,7.0,7,spike,numeric_or_range,ambiguous,2
+638,FC03s2,FC03,60.0,7.0,7,spike,numeric_or_range,ambiguous,2
+639,FC03s2,FC03,64.0,11.0,11,spikes/noise,numeric_or_range,ambiguous,2
+640,FC03s2,FC03,65.0,11.0,11,spikes,numeric_or_range,ambiguous,2
+641,FC03s2,FC03,66.0,11.0,11,spikes,numeric_or_range,ambiguous,2
+642,FC03s2,FC03,68.0,,,spikes,numeric_or_range,ambiguous,2
+643,FC03s2,FC03,73.0,"4,11",4|11,spikes,numeric_or_range,ambiguous,2
+644,FC03s2,FC03,80.0,9.0,9,spike,numeric_or_range,ambiguous,2
+645,FC03s2,FC03,81.0,9.0,9,spike,numeric_or_range,ambiguous,2
+646,FC03s2,FC03,82.0,9.0,9,spike,numeric_or_range,ambiguous,2
+647,FC03s2,FC03,84.0,"9,11",9|11,spike,numeric_or_range,ambiguous,2
+648,FC03s2,FC03,85.0,11.0,11,spikes,numeric_or_range,ambiguous,2
+649,FC03s2,FC03,86.0,11.0,11,spikes,numeric_or_range,ambiguous,2
+650,FC03s2,FC03,89.0,7.0,7,large spike,numeric_or_range,ambiguous,2
+651,FC03s2,FC03,90.0,7.0,7,large spike,numeric_or_range,ambiguous,2
+652,FC03s2,FC03,92.0,7.0,7,check spikes,numeric_or_range,ambiguous,2
+653,FC03s2,FC03,97.0,7.0,7,spikes,numeric_or_range,ambiguous,2
+654,FC03s2,FC03,99.0,"3,9",3|9,spikes,numeric_or_range,ambiguous,2
+655,FC03s2,FC03,125.0,3.0,3,spike,numeric_or_range,ambiguous,2
+656,FC03s2,FC03,127.0,7.0,7,spike,numeric_or_range,ambiguous,2
+657,FC03s2,FC03,131.0,3.0,3,spike,numeric_or_range,ambiguous,2
+658,FC03s2,FC03,134.0,"7,9",7|9,spikes,numeric_or_range,ambiguous,2
+659,FC03s2,FC03,135.0,7.0,7,spikes,numeric_or_range,ambiguous,2
+660,FC03s2,FC03,142.0,7.0,7,check coil,numeric_or_range,ambiguous,2
+661,FC03s2,FC03,150.0,6.0,6,spikes,numeric_or_range,ambiguous,2
+662,FC03s2,FC03,152.0,"7,9",7|9,spikes,numeric_or_range,ambiguous,2
+663,FC03s2,FC03,158.0,9.0,9,check spike,numeric_or_range,ambiguous,2
+664,FC03s2,FC03,159.0,9.0,9,check spike,numeric_or_range,ambiguous,2
+665,FC03s2,FC03,164.0,7.0,7,spike,numeric_or_range,ambiguous,2
+666,FC03s2,FC03,165.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+667,FC03s2,FC03,171.0,3.0,3,spike,numeric_or_range,ambiguous,2
+668,FC03s2,FC03,172.0,3.0,3,spike,numeric_or_range,ambiguous,2
+669,FC03s2,FC03,173.0,7.0,7,spike,numeric_or_range,ambiguous,2
+670,FC03s2,FC03,175.0,,,blank trial,numeric_or_range,ambiguous,2
+671,FC03s2,FC03,176.0,9.0,9,spike,numeric_or_range,ambiguous,2
+672,FC03s2,FC03,177.0,,,blank trial,numeric_or_range,ambiguous,2
+673,FC03s2,FC03,183.0,9.0,9,spike,numeric_or_range,ambiguous,2
+674,FC03s2,FC03,189.0,9.0,9,spikes,numeric_or_range,ambiguous,2
+675,FC03s2,FC03,191.0,7.0,7,spikes,numeric_or_range,ambiguous,2
+676,FC03s2,FC03,192.0,7.0,7,spikes,numeric_or_range,ambiguous,2
+677,FC03s2,FC03,197.0,9.0,9,spike,numeric_or_range,ambiguous,2
+678,FC03s2,FC03,198.0,,,blank trial,numeric_or_range,ambiguous,2
+679,FC03s2,FC03,200.0,"3,7",3|7,check coil,numeric_or_range,ambiguous,2
+680,FC03s2,FC03,201.0,7.0,7,spike,numeric_or_range,ambiguous,2
+681,FC03s2,FC03,213.0,7.0,7,spikes,numeric_or_range,ambiguous,2
+682,FC03s2,FC03,214.0,"3,9,10",3|9|10,"spikes, coil 7 missing",numeric_or_range,ambiguous,2

@@ -1,0 +1,151 @@
+{
+  "test_csv_sha256": "50533cbd13f786a5c05d903182d87fead22ac2375622a5556e38f6308ef01589",
+  "fold_selection_steps": {
+    "0": 300,
+    "1": 0,
+    "2": 300,
+    "3": 600
+  },
+  "all": {
+    "full_prompt_m1": {
+      "clips": 40,
+      "reference_words": 274,
+      "word_errors": 90,
+      "prompt_wer": 0.3284671532846715
+    },
+    "validation_selected_m1": {
+      "clips": 40,
+      "reference_words": 274,
+      "word_errors": 81,
+      "prompt_wer": 0.2956204379562044
+    }
+  },
+  "by_speaker": {
+    "F01": {
+      "full_prompt_m1": {
+        "clips": 5,
+        "reference_words": 39,
+        "word_errors": 20,
+        "prompt_wer": 0.5128205128205128
+      },
+      "validation_selected_m1": {
+        "clips": 5,
+        "reference_words": 39,
+        "word_errors": 12,
+        "prompt_wer": 0.3076923076923077
+      }
+    },
+    "F03": {
+      "full_prompt_m1": {
+        "clips": 5,
+        "reference_words": 33,
+        "word_errors": 2,
+        "prompt_wer": 0.06060606060606061
+      },
+      "validation_selected_m1": {
+        "clips": 5,
+        "reference_words": 33,
+        "word_errors": 2,
+        "prompt_wer": 0.06060606060606061
+      }
+    },
+    "F04": {
+      "full_prompt_m1": {
+        "clips": 5,
+        "reference_words": 34,
+        "word_errors": 0,
+        "prompt_wer": 0.0
+      },
+      "validation_selected_m1": {
+        "clips": 5,
+        "reference_words": 34,
+        "word_errors": 0,
+        "prompt_wer": 0.0
+      }
+    },
+    "M01": {
+      "full_prompt_m1": {
+        "clips": 5,
+        "reference_words": 30,
+        "word_errors": 16,
+        "prompt_wer": 0.5333333333333333
+      },
+      "validation_selected_m1": {
+        "clips": 5,
+        "reference_words": 30,
+        "word_errors": 15,
+        "prompt_wer": 0.5
+      }
+    },
+    "M02": {
+      "full_prompt_m1": {
+        "clips": 5,
+        "reference_words": 26,
+        "word_errors": 10,
+        "prompt_wer": 0.38461538461538464
+      },
+      "validation_selected_m1": {
+        "clips": 5,
+        "reference_words": 26,
+        "word_errors": 10,
+        "prompt_wer": 0.38461538461538464
+      }
+    },
+    "M03": {
+      "full_prompt_m1": {
+        "clips": 5,
+        "reference_words": 41,
+        "word_errors": 0,
+        "prompt_wer": 0.0
+      },
+      "validation_selected_m1": {
+        "clips": 5,
+        "reference_words": 41,
+        "word_errors": 0,
+        "prompt_wer": 0.0
+      }
+    },
+    "M04": {
+      "full_prompt_m1": {
+        "clips": 5,
+        "reference_words": 41,
+        "word_errors": 32,
+        "prompt_wer": 0.7804878048780488
+      },
+      "validation_selected_m1": {
+        "clips": 5,
+        "reference_words": 41,
+        "word_errors": 33,
+        "prompt_wer": 0.8048780487804879
+      }
+    },
+    "M05": {
+      "full_prompt_m1": {
+        "clips": 5,
+        "reference_words": 30,
+        "word_errors": 10,
+        "prompt_wer": 0.3333333333333333
+      },
+      "validation_selected_m1": {
+        "clips": 5,
+        "reference_words": 30,
+        "word_errors": 9,
+        "prompt_wer": 0.3
+      }
+    }
+  },
+  "paired_delta_wer_selected_minus_full": -0.03284671532846711,
+  "hierarchical_bootstrap_95pct": [
+    -0.10269728751749191,
+    0.01361013370865585
+  ],
+  "selected_asr_processing_seconds": {
+    "median": 0.30208999999999997,
+    "p95": 0.38151,
+    "scope": "audio load + feature extraction + model generation; excludes audio capture and UI"
+  },
+  "narrative_audio_negative_control": {
+    "clips": 40,
+    "accidental_intent_matches": 0
+  }
+}

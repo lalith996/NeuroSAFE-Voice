@@ -1,0 +1,188 @@
+fold,speaker,session,utterance_id,audio_path,duration_seconds,written_prompt,scoring_target,target_status
+0,F01,Session1,0008,data/extracted/torgo/F01/Session1/wav_headMic/0008.wav,9.84375,"Except in the winter when the ooze or snow or ice prevents,","Except in the winter when the ooze or snow or ice prevents,",project_prompt_target
+0,F01,Session1,0014,data/extracted/torgo/F01/Session1/wav_headMic/0014.wav,6.56244,he slowly takes a short walk in the open air each day.,he slowly takes a short walk in the open air each day.,project_prompt_target
+0,F01,Session1,0032,data/extracted/torgo/F01/Session1/wav_headMic/0032.wav,7.56687,She had your dark suit in greasy wash water all year.,She had your dark suit in greasy wash water all year.,project_prompt_target
+0,F01,Session1,0035,data/extracted/torgo/F01/Session1/wav_headMic/0035.wav,12.42163,giving those who observe him a pronounced feeling of the utmost respect.,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target
+0,F01,Session1,0036,data/extracted/torgo/F01/Session1/wav_headMic/0036.wav,6.31931,"We have often urged him to walk more and smoke less,","We have often urged him to walk more and smoke less,",project_prompt_target
+0,F01,Session1,0116,data/extracted/torgo/F01/Session1/wav_headMic/0116.wav,9.807,Twice each day he plays skillfully and with zest upon our small organ.,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target
+0,F01,Session1,0126,data/extracted/torgo/F01/Session1/wav_headMic/0126.wav,6.24081,"he dresses himself in an ancient black frock coat,","he dresses himself in an ancient black frock coat,",project_prompt_target
+0,F01,Session1,0132,data/extracted/torgo/F01/Session1/wav_headMic/0132.wav,9.16313,"When he speaks, his voice is just a bit cracked and quivers a trifle.","When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target
+0,M01,Session2_3,0013,data/extracted/torgo/M01/Session2_3/wav_headMic/0013.wav,7.86256,The quick brown fox jumps over the lazy dog.,The quick brown fox jumps over the lazy dog.,project_prompt_target
+0,M01,Session2_3,0042,data/extracted/torgo/M01/Session2_3/wav_headMic/0042.wav,8.73387,The islands are sparsely populated.,The islands are sparsely populated.,project_prompt_target
+0,M01,Session2_3,0043,data/extracted/torgo/M01/Session2_3/wav_headMic/0043.wav,7.49619,Both figures would go higher in later years.,Both figures would go higher in later years.,project_prompt_target
+0,M01,Session2_3,0045,data/extracted/torgo/M01/Session2_3/wav_headMic/0045.wav,7.42131,One validated acts of school districts.,One validated acts of school districts.,project_prompt_target
+0,M01,Session2_3,0056,data/extracted/torgo/M01/Session2_3/wav_headMic/0056.wav,7.00425,Are your grades higher or lower than Nancy's?,Are your grades higher or lower than Nancy's?,project_prompt_target
+0,M01,Session2_3,0066,data/extracted/torgo/M01/Session2_3/wav_headMic/0066.wav,11.749,Two other cases also were under advisement.,Two other cases also were under advisement.,project_prompt_target
+0,M01,Session2_3,0084,data/extracted/torgo/M01/Session2_3/wav_headMic/0084.wav,7.45181,Jane may earn more money by working hard.,Jane may earn more money by working hard.,project_prompt_target
+0,M01,Session2_3,0095,data/extracted/torgo/M01/Session2_3/wav_headMic/0095.wav,6.53525,I scrubbed the floors thoroughly.,I scrubbed the floors thoroughly.,project_prompt_target
+0,M01,Session2_3,0109,data/extracted/torgo/M01/Session2_3/wav_headMic/0109.wav,8.04194,You'd be better off taking a cold shower.,You'd be better off taking a cold shower.,project_prompt_target
+0,M01,Session2_3,0113,data/extracted/torgo/M01/Session2_3/wav_headMic/0113.wav,7.68406,Nothing is as offensive as innocence.,Nothing is as offensive as innocence.,project_prompt_target
+0,M01,Session2_3,0117,data/extracted/torgo/M01/Session2_3/wav_headMic/0117.wav,6.81775,Bright sunshine shimmers on the ocean.,Bright sunshine shimmers on the ocean.,project_prompt_target
+0,M01,Session2_3,0121,data/extracted/torgo/M01/Session2_3/wav_headMic/0121.wav,6.66706,All the big baseball players get traded.,All the big baseball players get traded.,project_prompt_target
+0,M01,Session2_3,0125,data/extracted/torgo/M01/Session2_3/wav_headMic/0125.wav,6.02894,My sister made the flowered curtains.,My sister made the flowered curtains.,project_prompt_target
+0,M01,Session2_3,0127,data/extracted/torgo/M01/Session2_3/wav_headMic/0127.wav,6.26537,Why yell or worry over silly items?,Why yell or worry over silly items?,project_prompt_target
+0,M01,Session2_3,0129,data/extracted/torgo/M01/Session2_3/wav_headMic/0129.wav,7.86125,The train approached the depot slowly.,The train approached the depot slowly.,project_prompt_target
+0,M01,Session2_3,0132,data/extracted/torgo/M01/Session2_3/wav_headMic/0132.wav,7.152,They carried me off on the stretcher.,They carried me off on the stretcher.,project_prompt_target
+0,M01,Session2_3,0146,data/extracted/torgo/M01/Session2_3/wav_headMic/0146.wav,6.81319,"Everything went real smooth, the sheriff said.","Everything went real smooth, the sheriff said.",project_prompt_target
+0,M01,Session2_3,0159,data/extracted/torgo/M01/Session2_3/wav_headMic/0159.wav,12.08081,This is not a program of socialized medicine.,This is not a program of socialized medicine.,project_prompt_target
+0,M01,Session2_3,0160,data/extracted/torgo/M01/Session2_3/wav_headMic/0160.wav,6.79219,This is not a program of socialized medicine.,This is not a program of socialized medicine.,project_prompt_target
+0,M01,Session2_3,0165,data/extracted/torgo/M01/Session2_3/wav_headMic/0165.wav,15.70813,It also provides for funds to clear slums and help colleges build dormitories.,It also provides for funds to clear slums and help colleges build dormitories.,project_prompt_target
+0,M01,Session2_3,0167,data/extracted/torgo/M01/Session2_3/wav_headMic/0167.wav,6.23487,Alimony harms a divorced man's wealth.,Alimony harms a divorced man's wealth.,project_prompt_target
+0,M01,Session2_3,0174,data/extracted/torgo/M01/Session2_3/wav_headMic/0174.wav,6.60288,The dolphins swam around our boat.,The dolphins swam around our boat.,project_prompt_target
+0,M01,Session2_3,0177,data/extracted/torgo/M01/Session2_3/wav_headMic/0177.wav,6.59237,Day after day some new episode is reported.,Day after day some new episode is reported.,project_prompt_target
+0,M01,Session2_3,0179,data/extracted/torgo/M01/Session2_3/wav_headMic/0179.wav,8.63213,It eventually became a rather proud claim.,It eventually became a rather proud claim.,project_prompt_target
+0,M01,Session2_3,0181,data/extracted/torgo/M01/Session2_3/wav_headMic/0181.wav,13.51531,He further proposed grants of an unspecified sum for experimental hospitals.,He further proposed grants of an unspecified sum for experimental hospitals.,project_prompt_target
+0,M01,Session2_3,0185,data/extracted/torgo/M01/Session2_3/wav_headMic/0185.wav,6.10475,The misguided souls have lost their way.,The misguided souls have lost their way.,project_prompt_target
+0,M01,Session2_3,0188,data/extracted/torgo/M01/Session2_3/wav_headMic/0188.wav,9.84269,Aluminum silverware can often be flimsy.,Aluminum silverware can often be flimsy.,project_prompt_target
+0,M01,Session2_3,0191,data/extracted/torgo/M01/Session2_3/wav_headMic/0191.wav,12.89506,Nothing has been done yet to take advantage of the enabling legislation.,Nothing has been done yet to take advantage of the enabling legislation.,project_prompt_target
+0,M01,Session2_3,0202,data/extracted/torgo/M01/Session2_3/wav_headMic/0202.wav,7.29631,This is a period of transition for me.,This is a period of transition for me.,project_prompt_target
+0,M01,Session2_3,0205,data/extracted/torgo/M01/Session2_3/wav_headMic/0205.wav,7.52481,"If you are losing water, replace it immediately.","If you are losing water, replace it immediately.",project_prompt_target
+0,M01,Session2_3,0206,data/extracted/torgo/M01/Session2_3/wav_headMic/0206.wav,9.66313,"When all else fails, use force.","When all else fails, use force.",project_prompt_target
+0,M01,Session2_3,0232,data/extracted/torgo/M01/Session2_3/wav_headMic/0232.wav,8.10325,"Before Thursday's exam, review every formula.","Before Thursday's exam, review every formula.",project_prompt_target
+0,M01,Session2_3,0235,data/extracted/torgo/M01/Session2_3/wav_headMic/0235.wav,7.25894,The museum hires musicians every evening.,The museum hires musicians every evening.,project_prompt_target
+0,M01,Session2_3,0240,data/extracted/torgo/M01/Session2_3/wav_headMic/0240.wav,6.35369,The job provides many benefits.,The job provides many benefits.,project_prompt_target
+0,M01,Session2_3,0278,data/extracted/torgo/M01/Session2_3/wav_headMic/0278.wav,6.50769,Both injuries were to the same leg.,Both injuries were to the same leg.,project_prompt_target
+1,F03,Session1,0024,data/extracted/torgo/F03/Session1/wav_headMic/0024.wav,9.97325,Twice each day he plays skillfully and with zest upon our little organ.,Twice each day he plays skillfully and with zest upon our little organ.,project_prompt_target
+1,F03,Session1,0025,data/extracted/torgo/F03/Session1/wav_headMic/0025.wav,10.15881,Twice each day he plays skillfully and with zest upon our small organ.,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target
+1,F03,Session1,0028,data/extracted/torgo/F03/Session1/wav_headMic/0028.wav,8.90638,"We have often urged him to walk more and smoke less,","We have often urged him to walk more and smoke less,",project_prompt_target
+1,F03,Session1,0030,data/extracted/torgo/F03/Session1/wav_headMic/0030.wav,8.25694,Except in the winter when the ozone or snow or ice prevents.,Except in the winter when the ozone or snow or ice prevents.,project_prompt_target
+1,F03,Session1,0031,data/extracted/torgo/F03/Session1/wav_headMic/0031.wav,8.11775,"Except in the winter when the ooze or snow or ice prevents,","Except in the winter when the ooze or snow or ice prevents,",project_prompt_target
+1,F03,Session1,0070,data/extracted/torgo/F03/Session1/wav_headMic/0070.wav,10.80025,giving those who observe him a pronounced feeling of the utmost respect.,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target
+1,F03,Session1,0072,data/extracted/torgo/F03/Session1/wav_headMic/0072.wav,7.42344,he slowly takes a short walk in the open air each day.,he slowly takes a short walk in the open air each day.,project_prompt_target
+1,F03,Session1,0095,data/extracted/torgo/F03/Session1/wav_headMic/0095.wav,6.41875,"When he speaks, his voice is just a bit cracked and quivers a trifle.","When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target
+1,F03,Session2,0006,data/extracted/torgo/F03/Session2/wav_headMic/0006.wav,14.11006,"If you destroy confidence in banks, you do something to the economy, he said.","If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target
+1,F03,Session2,0007,data/extracted/torgo/F03/Session2/wav_headMic/0007.wav,9.255,"If you destroy confidence in banks, you do something to the economy, he said.","If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target
+1,F03,Session2,0020,data/extracted/torgo/F03/Session2/wav_headMic/0020.wav,6.66506,The islands are sparsely populated.,The islands are sparsely populated.,project_prompt_target
+1,F03,Session2,0021,data/extracted/torgo/F03/Session2/wav_headMic/0021.wav,6.135,Bright sunshine shimmers on the ocean.,Bright sunshine shimmers on the ocean.,project_prompt_target
+1,F03,Session2,0029,data/extracted/torgo/F03/Session2/wav_headMic/0029.wav,8.09,"Everything went real smooth, the sheriff said.","Everything went real smooth, the sheriff said.",project_prompt_target
+1,F03,Session2,0037,data/extracted/torgo/F03/Session2/wav_headMic/0037.wav,6.775,Both figures would go higher in later years.,Both figures would go higher in later years.,project_prompt_target
+1,F03,Session2,0054,data/extracted/torgo/F03/Session2/wav_headMic/0054.wav,9.92506,Mother sews yellow,Mother sews yellow,project_prompt_target
+1,F03,Session2,0063,data/extracted/torgo/F03/Session2/wav_headMic/0063.wav,6.32,Day after day some new episode is reported.,Day after day some new episode is reported.,project_prompt_target
+1,F03,Session2,0088,data/extracted/torgo/F03/Session2/wav_headMic/0088.wav,7.355,part,part,project_prompt_target
+1,F03,Session2,0098,data/extracted/torgo/F03/Session2/wav_headMic/0098.wav,6.12,The museum hires musicians every evening.,The museum hires musicians every evening.,project_prompt_target
+1,F03,Session2,0101,data/extracted/torgo/F03/Session2/wav_headMic/0101.wav,10.225,Alimony harms a divorced man's wealth.,Alimony harms a divorced man's wealth.,project_prompt_target
+1,F03,Session2,0118,data/extracted/torgo/F03/Session2/wav_headMic/0118.wav,7.665,Nothing has been done yet to take advantage of the enabling legislation.,Nothing has been done yet to take advantage of the enabling legislation.,project_prompt_target
+1,F03,Session2,0133,data/extracted/torgo/F03/Session2/wav_headMic/0133.wav,9.59,It eventually became a rather proud claim.,It eventually became a rather proud claim.,project_prompt_target
+1,F03,Session3,0038,data/extracted/torgo/F03/Session3/wav_headMic/0038.wav,6.82506,Some hotels are available nearby.,Some hotels are available nearby.,project_prompt_target
+1,F03,Session3,0047,data/extracted/torgo/F03/Session3/wav_headMic/0047.wav,7.4,It also provides for funds to clear slums and help colleges build dormitories.,It also provides for funds to clear slums and help colleges build dormitories.,project_prompt_target
+1,F03,Session3,0153,data/extracted/torgo/F03/Session3/wav_headMic/0153.wav,7.045,He further proposed grants of an unspecified sum for experimental hospitals.,He further proposed grants of an unspecified sum for experimental hospitals.,project_prompt_target
+1,F03,Session3,0209,data/extracted/torgo/F03/Session3/wav_headMic/0209.wav,7.05,He further proposed grants of an unspecified sum for experimental hospitals.,He further proposed grants of an unspecified sum for experimental hospitals.,project_prompt_target
+1,M02,Session1,0020,data/extracted/torgo/M02/Session1/wav_headMic/0020.wav,7.99069,Grandfather likes to be modern in his language.,Grandfather likes to be modern in his language.,project_prompt_target
+1,M02,Session1,0023,data/extracted/torgo/M02/Session1/wav_headMic/0023.wav,8.0395,"Well, he is nearly ninety-three years old;","Well, he is nearly ninety-three years old;",project_prompt_target
+1,M02,Session1,0034,data/extracted/torgo/M02/Session1/wav_headMic/0034.wav,12.92381,giving those who observe him a pronounced feeling of the utmost respect.,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target
+1,M02,Session1,0044,data/extracted/torgo/M02/Session1/wav_headMic/0044.wav,10.12019,"he dresses himself in an ancient black frock coat,","he dresses himself in an ancient black frock coat,",project_prompt_target
+1,M02,Session1,0055,data/extracted/torgo/M02/Session1/wav_headMic/0055.wav,9.53406,She had your dark suit in greasy wash water all year.,She had your dark suit in greasy wash water all year.,project_prompt_target
+1,M02,Session1,0062,data/extracted/torgo/M02/Session1/wav_headMic/0062.wav,14.08981,"When he speaks, his voice is just a bit cracked and quivers a trifle.","When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target
+1,M02,Session1,0066,data/extracted/torgo/M02/Session1/wav_headMic/0066.wav,7.60469,yet he still thinks as swiftly as ever.,yet he still thinks as swiftly as ever.,project_prompt_target
+1,M02,Session1,0071,data/extracted/torgo/M02/Session1/wav_headMic/0071.wav,8.58906,"We have often urged him to walk more and smoke less,","We have often urged him to walk more and smoke less,",project_prompt_target
+1,M02,Session1,0080,data/extracted/torgo/M02/Session1/wav_headMic/0080.wav,9.82425,he slowly takes a short walk in the open air each day.,he slowly takes a short walk in the open air each day.,project_prompt_target
+1,M02,Session1,0092,data/extracted/torgo/M02/Session1/wav_headMic/0092.wav,11.63862,Twice each day he plays skillfully and with zest upon our small organ.,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target
+1,M02,Session1,0098,data/extracted/torgo/M02/Session1/wav_headMic/0098.wav,9.20344,"A long, flowing beard clings to his chin,","A long, flowing beard clings to his chin,",project_prompt_target
+1,M02,Session1,0106,data/extracted/torgo/M02/Session1/wav_headMic/0106.wav,8.13719,Don't ask me to carry an oily rag like that.,Don't ask me to carry an oily rag like that.,project_prompt_target
+1,M02,Session1,0115,data/extracted/torgo/M02/Session1/wav_headMic/0115.wav,13.69288,"Except in the winter when the ooze or snow or ice prevents,","Except in the winter when the ooze or snow or ice prevents,",project_prompt_target
+1,M02,Session1,0117,data/extracted/torgo/M02/Session1/wav_headMic/0117.wav,8.67025,The quick brown fox jumps over the lazy dog.,The quick brown fox jumps over the lazy dog.,project_prompt_target
+1,M02,Session1,0118,data/extracted/torgo/M02/Session1/wav_headMic/0118.wav,8.13712,"but he always answers, ""Banana oil!""","but he always answers, ""Banana oil!""",project_prompt_target
+1,M02,Session1,0121,data/extracted/torgo/M02/Session1/wav_headMic/0121.wav,6.42556,You wished to know all about my grandfather.,You wished to know all about my grandfather.,project_prompt_target
+1,M02,Session1,0127,data/extracted/torgo/M02/Session1/wav_headMic/0127.wav,6.70613,Both figures would go higher in later years.,Both figures would go higher in later years.,project_prompt_target
+1,M02,Session1,0130,data/extracted/torgo/M02/Session1/wav_headMic/0130.wav,6.28525,I tried to tell people in the community.,I tried to tell people in the community.,project_prompt_target
+1,M02,Session1,0135,data/extracted/torgo/M02/Session1/wav_headMic/0135.wav,7.46375,Why yell or worry over silly items?,Why yell or worry over silly items?,project_prompt_target
+1,M02,Session1,0137,data/extracted/torgo/M02/Session1/wav_headMic/0137.wav,8.83863,"Everything went real smooth, the sheriff said.","Everything went real smooth, the sheriff said.",project_prompt_target
+1,M02,Session1,0150,data/extracted/torgo/M02/Session1/wav_headMic/0150.wav,7.46375,Are your grades higher or lower than Nancy's?,Are your grades higher or lower than Nancy's?,project_prompt_target
+1,M02,Session1,0152,data/extracted/torgo/M02/Session1/wav_headMic/0152.wav,7.2465,You'd be better off taking a cold shower.,You'd be better off taking a cold shower.,project_prompt_target
+1,M02,Session1,0154,data/extracted/torgo/M02/Session1/wav_headMic/0154.wav,7.70419,The islands are sparsely populated.,The islands are sparsely populated.,project_prompt_target
+1,M02,Session1,0168,data/extracted/torgo/M02/Session1/wav_headMic/0168.wav,12.586,"If you destroy confidence in banks, you do something to the economy, he said.","If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target
+1,M02,Session1,0169,data/extracted/torgo/M02/Session1/wav_headMic/0169.wav,6.94137,All the big baseball players get traded.,All the big baseball players get traded.,project_prompt_target
+1,M02,Session1,0172,data/extracted/torgo/M02/Session1/wav_headMic/0172.wav,6.50913,I can play this weekend.,I can play this weekend.,project_prompt_target
+1,M02,Session1,0183,data/extracted/torgo/M02/Session1/wav_headMic/0183.wav,6.56,Bright sunshine shimmers on the ocean.,Bright sunshine shimmers on the ocean.,project_prompt_target
+1,M02,Session1,0197,data/extracted/torgo/M02/Session1/wav_headMic/0197.wav,7.27194,Nothing is as offensive as ignorance,Nothing is as offensive as ignorance,project_prompt_target
+1,M02,Session1,0198,data/extracted/torgo/M02/Session1/wav_headMic/0198.wav,6.89056,Nothing is as offensive as innocence.,Nothing is as offensive as innocence.,project_prompt_target
+1,M02,Session1,0222,data/extracted/torgo/M02/Session1/wav_headMic/0222.wav,8.23287,One validated acts of school districts.,One validated acts of school districts.,project_prompt_target
+1,M02,Session1,0226,data/extracted/torgo/M02/Session1/wav_headMic/0226.wav,7.76931,Mother sews yellow gingham aprons.,Mother sews yellow gingham aprons.,project_prompt_target
+1,M02,Session1,0232,data/extracted/torgo/M02/Session1/wav_headMic/0232.wav,6.66575,Jane may earn more money by working hard.,Jane may earn more money by working hard.,project_prompt_target
+1,M02,Session1,0238,data/extracted/torgo/M02/Session1/wav_headMic/0238.wav,6.46713,The train approached the depot slowly.,The train approached the depot slowly.,project_prompt_target
+2,F04,Session1,0063,data/extracted/torgo/F04/Session1/wav_arrayMic/0063.wav,6.3,giving those who observe him a pronounced feeling of the utmost respect.,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target
+2,F04,Session1,0067,data/extracted/torgo/F04/Session1/wav_arrayMic/0067.wav,7.05,Twice each day he plays skillfully and with zest upon our small organ.,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target
+2,F04,Session1,0091,data/extracted/torgo/F04/Session1/wav_arrayMic/0091.wav,7.05,"Except in the winter when the ooze or snow or ice prevents,","Except in the winter when the ooze or snow or ice prevents,",project_prompt_target
+2,F04,Session1,0092,data/extracted/torgo/F04/Session1/wav_arrayMic/0092.wav,6.15,"Except in the winter when the ooze or snow or ice prevents,","Except in the winter when the ooze or snow or ice prevents,",project_prompt_target
+2,F04,Session1,0100,data/extracted/torgo/F04/Session1/wav_arrayMic/0100.wav,6.3,"When he speaks, his voice is just a bit cracked and quivers a trifle.","When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target
+2,F04,Session1,0120,data/extracted/torgo/F04/Session1/wav_arrayMic/0120.wav,6.75,"A long, flowing beard clings to his chin,","A long, flowing beard clings to his chin,",project_prompt_target
+2,F04,Session1,0159,data/extracted/torgo/F04/Session1/wav_arrayMic/0159.wav,7.65,"If you destroy confidence in banks, you do something to the economy, he said.","If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target
+2,F04,Session1,0184,data/extracted/torgo/F04/Session1/wav_arrayMic/0184.wav,7.05,Two other cases also were under advisement.,Two other cases also were under advisement.,project_prompt_target
+2,F04,Session2,0143,data/extracted/torgo/F04/Session2/wav_headMic/0143.wav,7.4,This is not a program of socialized medicine.,This is not a program of socialized medicine.,project_prompt_target
+2,M03,Session2,0029,data/extracted/torgo/M03/Session2/wav_headMic/0029.wav,6.06,"Except in the winter when the ooze or snow or ice prevents,","Except in the winter when the ooze or snow or ice prevents,",project_prompt_target
+2,M03,Session2,0096,data/extracted/torgo/M03/Session2/wav_headMic/0096.wav,6.005,Twice each day he plays skillfully and with zest upon our small organ.,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target
+2,M03,Session2,0101,data/extracted/torgo/M03/Session2/wav_headMic/0101.wav,6.20506,"When he speaks, his voice is just a bit cracked and quivers a trifle.","When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target
+2,M03,Session2,0244,data/extracted/torgo/M03/Session2/wav_headMic/0244.wav,6.47,"If you destroy confidence in banks, you do something to the economy, he said.","If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target
+2,M03,Session2,0245,data/extracted/torgo/M03/Session2/wav_headMic/0245.wav,6.185,"If you destroy confidence in banks, you do something to the economy, he said.","If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target
+2,M03,Session2,0275,data/extracted/torgo/M03/Session2/wav_headMic/0275.wav,6.435,"Before Thursday's exam, review every formula.","Before Thursday's exam, review every formula.",project_prompt_target
+2,M03,Session2,0344,data/extracted/torgo/M03/Session2/wav_headMic/0344.wav,6.63506,It also provides for funds to clear slums and help colleges build dormitories.,It also provides for funds to clear slums and help colleges build dormitories.,project_prompt_target
+3,M04,Session1,0012,data/extracted/torgo/M04/Session1/wav_arrayMic/0012.wav,20.85,Twice each day he plays skillfully and with zest upon our small organ.,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target
+3,M04,Session1,0020,data/extracted/torgo/M04/Session1/wav_arrayMic/0020.wav,9.45,"Well, he is nearly ninety-three years old;","Well, he is nearly ninety-three years old;",project_prompt_target
+3,M04,Session1,0036,data/extracted/torgo/M04/Session1/wav_arrayMic/0036.wav,9.45,The quick brown fox jumps over the lazy dog.,The quick brown fox jumps over the lazy dog.,project_prompt_target
+3,M04,Session1,0040,data/extracted/torgo/M04/Session1/wav_arrayMic/0040.wav,13.35,Grandfather likes to be modern in his language.,Grandfather likes to be modern in his language.,project_prompt_target
+3,M04,Session1,0047,data/extracted/torgo/M04/Session1/wav_arrayMic/0047.wav,9.45,yet he still thinks as swiftly as ever.,yet he still thinks as swiftly as ever.,project_prompt_target
+3,M04,Session1,0064,data/extracted/torgo/M04/Session1/wav_arrayMic/0064.wav,10.65,he slowly takes a short walk in the open air each day.,he slowly takes a short walk in the open air each day.,project_prompt_target
+3,M04,Session1,0076,data/extracted/torgo/M04/Session1/wav_arrayMic/0076.wav,12.6,Don't ask me to carry an oily rag like that.,Don't ask me to carry an oily rag like that.,project_prompt_target
+3,M04,Session1,0077,data/extracted/torgo/M04/Session1/wav_arrayMic/0077.wav,6.75,"but he always answers, ""Banana oil!""","but he always answers, ""Banana oil!""",project_prompt_target
+3,M04,Session1,0082,data/extracted/torgo/M04/Session1/wav_arrayMic/0082.wav,12.6,"A long, flowing beard clings to his chin,","A long, flowing beard clings to his chin,",project_prompt_target
+3,M04,Session1,0088,data/extracted/torgo/M04/Session1/wav_arrayMic/0088.wav,16.01419,She had your dark suit in greasy wash water all year.,She had your dark suit in greasy wash water all year.,project_prompt_target
+3,M04,Session1,0094,data/extracted/torgo/M04/Session1/wav_arrayMic/0094.wav,23.25,"When he speaks, his voice is just a bit cracked and quivers a trifle.","When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target
+3,M04,Session1,0099,data/extracted/torgo/M04/Session1/wav_arrayMic/0099.wav,15.6,"We have often urged him to walk more and smoke less,","We have often urged him to walk more and smoke less,",project_prompt_target
+3,M04,Session1,0106,data/extracted/torgo/M04/Session1/wav_arrayMic/0106.wav,7.2,usually minus several buttons;,usually minus several buttons;,project_prompt_target
+3,M04,Session1,0120,data/extracted/torgo/M04/Session1/wav_arrayMic/0120.wav,22.5,giving those who observe him a pronounced feeling of the utmost respect.,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target
+3,M04,Session2,0029,data/extracted/torgo/M04/Session2/wav_headMic/0029.wav,19.54506,"When he speaks, his voice is just a bit cracked and quivers a trifle.","When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target
+3,M04,Session2,0077,data/extracted/torgo/M04/Session2/wav_headMic/0077.wav,11.88,You wished to know all about my grandfather.,You wished to know all about my grandfather.,project_prompt_target
+3,M04,Session2,0083,data/extracted/torgo/M04/Session2/wav_headMic/0083.wav,14.52506,"he dresses himself in an ancient black frock coat,","he dresses himself in an ancient black frock coat,",project_prompt_target
+3,M04,Session2,0093,data/extracted/torgo/M04/Session2/wav_headMic/0093.wav,9.315,"but he always answers, ""Banana oil!""","but he always answers, ""Banana oil!""",project_prompt_target
+3,M04,Session2,0098,data/extracted/torgo/M04/Session2/wav_headMic/0098.wav,8.355,"Well, he is nearly ninety-three years old;","Well, he is nearly ninety-three years old;",project_prompt_target
+3,M04,Session2,0147,data/extracted/torgo/M04/Session2/wav_headMic/0147.wav,12.07506,Two other cases also were under advisement.,Two other cases also were under advisement.,project_prompt_target
+3,M04,Session2,0155,data/extracted/torgo/M04/Session2/wav_headMic/0155.wav,8.105,I was conscious all the time.,I was conscious all the time.,project_prompt_target
+3,M04,Session2,0157,data/extracted/torgo/M04/Session2/wav_headMic/0157.wav,6.835,She is thinner than I am.,She is thinner than I am.,project_prompt_target
+3,M04,Session2,0158,data/extracted/torgo/M04/Session2/wav_headMic/0158.wav,10.83,I just try to do my best.,I just try to do my best.,project_prompt_target
+3,M04,Session2,0185,data/extracted/torgo/M04/Session2/wav_headMic/0185.wav,6.17,briar,briar,project_prompt_target
+3,M04,Session2,0187,data/extracted/torgo/M04/Session2/wav_headMic/0187.wav,7.86,Why yell or worry over silly items?,Why yell or worry over silly items?,project_prompt_target
+3,M04,Session2,0220,data/extracted/torgo/M04/Session2/wav_headMic/0220.wav,9.82,Jane may earn more money by working hard.,Jane may earn more money by working hard.,project_prompt_target
+3,M04,Session2,0231,data/extracted/torgo/M04/Session2/wav_headMic/0231.wav,8.34006,The train approached the depot slowly.,The train approached the depot slowly.,project_prompt_target
+3,M04,Session2,0242,data/extracted/torgo/M04/Session2/wav_headMic/0242.wav,9.22,I looked up and noticed two old men.,I looked up and noticed two old men.,project_prompt_target
+3,M04,Session2,0246,data/extracted/torgo/M04/Session2/wav_headMic/0246.wav,10.465,Nothing is as offensive as innocence.,Nothing is as offensive as innocence.,project_prompt_target
+3,M04,Session2,0253,data/extracted/torgo/M04/Session2/wav_headMic/0253.wav,6.1,This was easy for us.,This was easy for us.,project_prompt_target
+3,M04,Session2,0255,data/extracted/torgo/M04/Session2/wav_headMic/0255.wav,9.39,You're used to being on the field.,You're used to being on the field.,project_prompt_target
+3,M04,Session2,0274,data/extracted/torgo/M04/Session2/wav_headMic/0274.wav,10.205,The islands are sparsely populated.,The islands are sparsely populated.,project_prompt_target
+3,M04,Session2,0283,data/extracted/torgo/M04/Session2/wav_headMic/0283.wav,7.52506,It was a good win for us.,It was a good win for us.,project_prompt_target
+3,M04,Session2,0291,data/extracted/torgo/M04/Session2/wav_headMic/0291.wav,17.41006,Nothing has been done yet to take advantage of the enabling legislation.,Nothing has been done yet to take advantage of the enabling legislation.,project_prompt_target
+3,M04,Session2,0295,data/extracted/torgo/M04/Session2/wav_headMic/0295.wav,6.235,There is a treehouse up above.,There is a treehouse up above.,project_prompt_target
+3,M05,Session2,0002,data/extracted/torgo/M05/Session2/wav_headMic/0002.wav,7.635,Where were you while we were away?,Where were you while we were away?,project_prompt_target
+3,M05,Session2,0008,data/extracted/torgo/M05/Session2/wav_headMic/0008.wav,8.93,I feel I can play this weekend.,I feel I can play this weekend.,project_prompt_target
+3,M05,Session2,0027,data/extracted/torgo/M05/Session2/wav_headMic/0027.wav,11.495,One validated acts of school districts.,One validated acts of school districts.,project_prompt_target
+3,M05,Session2,0028,data/extracted/torgo/M05/Session2/wav_headMic/0028.wav,7.19506,You're used to being on the field.,You're used to being on the field.,project_prompt_target
+3,M05,Session2,0055,data/extracted/torgo/M05/Session2/wav_headMic/0055.wav,9.06006,Why yell or worry over silly items?,Why yell or worry over silly items?,project_prompt_target
+3,M05,Session2,0056,data/extracted/torgo/M05/Session2/wav_headMic/0056.wav,9.215,Why yell or worry over silly items?,Why yell or worry over silly items?,project_prompt_target
+3,M05,Session2,0076,data/extracted/torgo/M05/Session2/wav_headMic/0076.wav,8.735,She is thinner than I am.,She is thinner than I am.,project_prompt_target
+3,M05,Session2,0082,data/extracted/torgo/M05/Session2/wav_headMic/0082.wav,7.225,Their house is grey and white.,Their house is grey and white.,project_prompt_target
+3,M05,Session2,0087,data/extracted/torgo/M05/Session2/wav_headMic/0087.wav,12.225,Are your grades higher or lower than Nancy's?,Are your grades higher or lower than Nancy's?,project_prompt_target
+3,M05,Session2,0088,data/extracted/torgo/M05/Session2/wav_headMic/0088.wav,9.2,I scrubbed the floors thoroughly.,I scrubbed the floors thoroughly.,project_prompt_target
+3,M05,Session2,0102,data/extracted/torgo/M05/Session2/wav_headMic/0102.wav,10.9,"Everything went real smooth, the sheriff said.","Everything went real smooth, the sheriff said.",project_prompt_target
+3,M05,Session2,0122,data/extracted/torgo/M05/Session2/wav_headMic/0122.wav,6.27,Just one side got wet.,Just one side got wet.,project_prompt_target
+3,M05,Session2,0131,data/extracted/torgo/M05/Session2/wav_headMic/0131.wav,9.54,All the big baseball players get traded.,All the big baseball players get traded.,project_prompt_target
+3,M05,Session2,0138,data/extracted/torgo/M05/Session2/wav_headMic/0138.wav,10.57,You'd be better off taking a cold shower.,You'd be better off taking a cold shower.,project_prompt_target
+3,M05,Session2,0145,data/extracted/torgo/M05/Session2/wav_headMic/0145.wav,17.36006,He further proposed grants of an unspecified sum for experimental hospitals.,He further proposed grants of an unspecified sum for experimental hospitals.,project_prompt_target
+3,M05,Session2,0152,data/extracted/torgo/M05/Session2/wav_headMic/0152.wav,8.1,The box contained three sweaters.,The box contained three sweaters.,project_prompt_target
+3,M05,Session2,0155,data/extracted/torgo/M05/Session2/wav_headMic/0155.wav,9.58,The museum hires musicians every evening.,The museum hires musicians every evening.,project_prompt_target
+3,M05,Session2,0170,data/extracted/torgo/M05/Session2/wav_headMic/0170.wav,9.965,I expect we'll bounce back this week.,I expect we'll bounce back this week.,project_prompt_target
+3,M05,Session2,0176,data/extracted/torgo/M05/Session2/wav_headMic/0176.wav,11.805,Alimony harms a divorced man's wealth.,Alimony harms a divorced man's wealth.,project_prompt_target
+3,M05,Session2,0197,data/extracted/torgo/M05/Session2/wav_headMic/0197.wav,7.585,There is a treehouse up above.,There is a treehouse up above.,project_prompt_target
+3,M05,Session2,0207,data/extracted/torgo/M05/Session2/wav_headMic/0207.wav,7.695,The books are very expensive.,The books are very expensive.,project_prompt_target
+3,M05,Session2,0213,data/extracted/torgo/M05/Session2/wav_headMic/0213.wav,7.365,I have had my bell rung.,I have had my bell rung.,project_prompt_target
+3,M05,Session2,0236,data/extracted/torgo/M05/Session2/wav_headMic/0236.wav,9.485,The misguided souls have lost their way.,The misguided souls have lost their way.,project_prompt_target
+3,M05,Session2,0239,data/extracted/torgo/M05/Session2/wav_headMic/0239.wav,11.515,The dolphins swam around our boat.,The dolphins swam around our boat.,project_prompt_target
+3,M05,Session2,0260,data/extracted/torgo/M05/Session2/wav_headMic/0260.wav,11.60006,This is not a program of socialized medicine.,This is not a program of socialized medicine.,project_prompt_target
+3,M05,Session2,0275,data/extracted/torgo/M05/Session2/wav_headMic/0275.wav,7.605,Did dad do academic bidding?,Did dad do academic bidding?,project_prompt_target
+3,M05,Session2,0276,data/extracted/torgo/M05/Session2/wav_headMic/0276.wav,8.62506,Some hotels are available nearby.,Some hotels are available nearby.,project_prompt_target
+3,M05,Session2,0282,data/extracted/torgo/M05/Session2/wav_headMic/0282.wav,11.42006,Those musicians harmonize marvelously.,Those musicians harmonize marvelously.,project_prompt_target
+3,M05,Session2,0291,data/extracted/torgo/M05/Session2/wav_headMic/0291.wav,10.64,The wait for work can be very do it again,The wait for work can be very do it again,project_prompt_target
+3,M05,Session2,0305,data/extracted/torgo/M05/Session2/wav_headMic/0305.wav,12.47638,He really crucified him; he nailed it for a yard loss.,He really crucified him; he nailed it for a yard loss.,project_prompt_target
+3,M05,Session2,0320,data/extracted/torgo/M05/Session2/wav_headMic/0320.wav,6.1,We bought a brown chair.,We bought a brown chair.,project_prompt_target
+3,M05,Session2,0321,data/extracted/torgo/M05/Session2/wav_headMic/0321.wav,9.635,Beg that guard for one gallon of gas.,Beg that guard for one gallon of gas.,project_prompt_target
+3,M05,Session2,0365,data/extracted/torgo/M05/Session2/wav_headMic/0365.wav,11.625,It's fun to roast marshmallows on a gas burner.,It's fun to roast marshmallows on a gas burner.,project_prompt_target
+3,M05,Session2,0368,data/extracted/torgo/M05/Session2/wav_headMic/0368.wav,9.66,Get a calico cat to keep.,Get a calico cat to keep.,project_prompt_target
+3,M05,Session2,0370,data/extracted/torgo/M05/Session2/wav_headMic/0370.wav,6.93,Each one volunteered to jump first.,Each one volunteered to jump first.,project_prompt_target

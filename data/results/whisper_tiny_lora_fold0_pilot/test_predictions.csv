@@ -1,0 +1,141 @@
+speaker,session,utterance_id,reference,stage,hypothesis,reference_words,substitutions,deletions,insertions
+F01,Session1,0018,no,before_lora,No.,1,0,0,0
+F01,Session1,0051,rage,before_lora,8,1,1,0,0
+F01,Session1,0062,sip,before_lora,So,1,1,0,0
+F01,Session1,0088,left,before_lora,left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left left,1,0,0,47
+F01,Session1,0113,knew,before_lora,new new,1,1,0,1
+F01,Session1,0046,chair,before_lora,C- C- C- C- C- C- C- C- C- C- C- C- C- C- C- C- C- C- C- C- C- C- C- C-,1,1,0,23
+F01,Session1,0026,train,before_lora,things,1,1,0,0
+F01,Session1,0111,corn,before_lora,"horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns, horns,",1,1,0,23
+F01,Session1,0114,"Well, he is nearly ninety three years old",before_lora,"Well, in New England I need to be a ghost.",8,7,0,2
+F01,Session1,0020,Usually minus several buttons.,before_lora,My cell buttons,4,2,1,0
+F01,Session1,0009,pat,before_lora,that,1,1,0,0
+F01,Session1,0087,alpha,before_lora,Oldpa? Oldpa? Oldpa? Oldpa? Oldpa? Oldpa? Oldpa? Oldpa? Oldpa? Oldpa? Oldpa? Oldpa? Oldpa? Oldpa? Oldpa? Oldpa?,1,1,0,15
+F01,Session1,0040,rave,before_lora,wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave wave,1,1,0,47
+F01,Session1,0109,born,before_lora,once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once once,1,1,0,47
+F01,Session1,0093,"A long, flowing beard clings to his chin,",before_lora,Long-fory me a clinkin' king,8,5,2,0
+F01,Session1,0052,spark,before_lora,Smoke,1,1,0,0
+F01,Session1,0092,read,before_lora,ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring ring,1,1,0,47
+F01,Session1,0012,meat,before_lora,oh me,1,1,0,1
+F01,Session1,0065,fee,before_lora,See?,1,1,0,0
+F01,Session1,0063,farm,before_lora,Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine. Fine.,1,1,0,23
+F01,Session1,0119,rain,before_lora,wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings wings,1,1,0,47
+F01,Session1,0085,sip,before_lora,set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set set,1,1,0,47
+F01,Session1,0102,bug,before_lora,Mung,1,1,0,0
+F01,Session1,0104,yet he still thinks as swiftly as ever.,before_lora,"Yeah, he still thinks that's my plan ever.",8,4,0,0
+F01,Session1,0029,beat,before_lora,the,1,1,0,0
+F01,Session1,0084,trace,before_lora,Thanks,1,1,0,0
+F01,Session1,0021,dug,before_lora,Doug. Doug.,1,1,0,1
+F01,Session1,0134,yes,before_lora,Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes? Yes?,1,0,0,23
+F01,Session1,0027,"but he always answers, Banana oil!",before_lora,He always answers me well.,6,2,1,0
+F01,Session1,0064,raid,before_lora,Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait. Wait.,1,1,0,23
+F01,Session1,0057,race,before_lora,please,1,1,0,0
+F01,Session1,0089,sticks,before_lora,"So, good",1,1,0,1
+F01,Session1,0128,storm,before_lora,"So, I'm sorry.",1,1,0,2
+F01,Session1,0123,down,before_lora,Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go! Go!,1,1,0,23
+F01,Session1,0112,right,before_lora,right,1,0,0,0
+M01,Session2_3,0229,mitten,before_lora,written,1,1,0,0
+M01,Session2_3,0186,oscar,before_lora,I declared,1,1,0,1
+M01,Session2_3,0210,reek,before_lora,right,1,1,0,0
+M01,Session2_3,0245,thought,before_lora,"And then, d'all?",1,1,0,2
+M01,Session2_3,0053,peer,before_lora,peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer peer,1,0,0,47
+M01,Session2_3,0044,back,before_lora,Mike,1,1,0,0
+M01,Session2_3,0274,witty,before_lora,will be,1,1,0,1
+M01,Session2_3,0086,Just one side got wet.,before_lora,"z1, i did not work z1, i did not work z1, i did not work z1, i did not work z1, i did not work z1, i did not work z1, i did not",5,5,0,29
+M01,Session2_3,0087,thigh,before_lora,side,1,1,0,0
+M01,Session2_3,0166,The little schoolhouse stood empty.,before_lora,Then he'd go out to it empty.,5,4,0,2
+M01,Session2_3,0085,here,before_lora,here,1,0,0,0
+M01,Session2_3,0105,This was easy for us.,before_lora,Did one EV for us?,5,3,0,0
+M01,Session2_3,0035,Where were you while we were away?,before_lora,Where were you while we were,7,0,1,0
+M01,Session2_3,0116,near,before_lora,near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near near,1,0,0,47
+M01,Session2_3,0282,seed,before_lora,Eeep,1,1,0,0
+M01,Session2_3,0233,dart,before_lora,D,1,1,0,0
+M01,Session2_3,0198,hem,before_lora,um,1,1,0,0
+M01,Session2_3,0001,one,before_lora,"1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,",1,1,0,23
+M01,Session2_3,0260,sitting,before_lora,"Yeah, I think...",1,1,0,2
+M01,Session2_3,0192,blow,before_lora,Leo,1,1,0,0
+M01,Session2_3,0203,cake,before_lora,click,1,1,0,0
+M01,Session2_3,0145,You're used to being on the field.,before_lora,You're you in the being and the field.,7,3,0,1
+M01,Session2_3,0130,write,before_lora,right,1,1,0,0
+M01,Session2_3,0280,six,before_lora,X,1,1,0,0
+M01,Session2_3,0251,brawn,before_lora,Born,1,1,0,0
+M01,Session2_3,0241,kilo,before_lora,Kira,1,1,0,0
+M01,Session2_3,0242,I have had my bell rung.,before_lora,I have held my power up. I have held my power up. I have held my power up. I have held my power up. I have held my power up. I have held my power up. I have held my power up,6,3,0,36
+M01,Session2_3,0164,echo,before_lora,Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo Echo,1,0,0,47
+M01,Session2_3,0047,forward,before_lora,Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward Forward,1,0,0,47
+M01,Session2_3,0225,take,before_lora,Take,1,0,0,0
+M01,Session2_3,0157,darn,before_lora,Darn,1,0,0,0
+M01,Session2_3,0006,torn,before_lora,A GONE!,1,1,0,1
+M01,Session2_3,0049,shear,before_lora,Here.,1,1,0,0
+M01,Session2_3,0093,group,before_lora,Mm,1,1,0,0
+M01,Session2_3,0276,mush,before_lora,merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge merge,1,1,0,47
+F01,Session1,0018,no,after_lora,no,1,0,0,0
+F01,Session1,0051,rage,after_lora,ridge,1,1,0,0
+F01,Session1,0062,sip,after_lora,serp,1,1,0,0
+F01,Session1,0088,left,after_lora,worth,1,1,0,0
+F01,Session1,0113,knew,after_lora,new,1,1,0,0
+F01,Session1,0046,chair,after_lora,cue,1,1,0,0
+F01,Session1,0026,train,after_lora,thing,1,1,0,0
+F01,Session1,0111,corn,after_lora,forms,1,1,0,0
+F01,Session1,0114,"Well, he is nearly ninety three years old",after_lora,well he's nearly got me three rules,8,5,1,0
+F01,Session1,0020,Usually minus several buttons.,after_lora,my cell buckings,4,3,1,0
+F01,Session1,0009,pat,after_lora,pats,1,1,0,0
+F01,Session1,0087,alpha,after_lora,open,1,1,0,0
+F01,Session1,0040,rave,after_lora,wave,1,1,0,0
+F01,Session1,0109,born,after_lora,one,1,1,0,0
+F01,Session1,0093,"A long, flowing beard clings to his chin,",after_lora,long fully mere clinking king,8,4,3,0
+F01,Session1,0052,spark,after_lora,smoke,1,1,0,0
+F01,Session1,0092,read,after_lora,ring,1,1,0,0
+F01,Session1,0012,meat,after_lora,we,1,1,0,0
+F01,Session1,0065,fee,after_lora,c,1,1,0,0
+F01,Session1,0063,farm,after_lora,form,1,1,0,0
+F01,Session1,0119,rain,after_lora,ring,1,1,0,0
+F01,Session1,0085,sip,after_lora,set,1,1,0,0
+F01,Session1,0102,bug,after_lora,mung,1,1,0,0
+F01,Session1,0104,yet he still thinks as swiftly as ever.,after_lora,yeah he still think that's whereflare,8,4,2,0
+F01,Session1,0029,beat,after_lora,b,1,1,0,0
+F01,Session1,0084,trace,after_lora,face,1,1,0,0
+F01,Session1,0021,dug,after_lora,bug,1,1,0,0
+F01,Session1,0134,yes,after_lora,yes,1,0,0,0
+F01,Session1,0027,"but he always answers, Banana oil!",after_lora,he always answered myel,6,2,2,0
+F01,Session1,0064,raid,after_lora,way,1,1,0,0
+F01,Session1,0057,race,after_lora,ways,1,1,0,0
+F01,Session1,0089,sticks,after_lora,skits,1,1,0,0
+F01,Session1,0128,storm,after_lora,sawing,1,1,0,0
+F01,Session1,0123,down,after_lora,go,1,1,0,0
+F01,Session1,0112,right,after_lora,way,1,1,0,0
+M01,Session2_3,0229,mitten,after_lora,ridden,1,1,0,0
+M01,Session2_3,0186,oscar,after_lora,eyedcurd,1,1,0,0
+M01,Session2_3,0210,reek,after_lora,rake,1,1,0,0
+M01,Session2_3,0245,thought,after_lora,down,1,1,0,0
+M01,Session2_3,0053,peer,after_lora,pure,1,1,0,0
+M01,Session2_3,0044,back,after_lora,mike,1,1,0,0
+M01,Session2_3,0274,witty,after_lora,way be,1,1,0,1
+M01,Session2_3,0086,Just one side got wet.,after_lora,jed one ride-goddward,5,3,1,0
+M01,Session2_3,0087,thigh,after_lora,side,1,1,0,0
+M01,Session2_3,0166,The little schoolhouse stood empty.,after_lora,tarely no court out to it empty,5,4,0,2
+M01,Session2_3,0085,here,after_lora,ear,1,1,0,0
+M01,Session2_3,0105,This was easy for us.,after_lora,did one EV for us,5,3,0,0
+M01,Session2_3,0035,Where were you while we were away?,after_lora,where were you while we were,7,0,1,0
+M01,Session2_3,0116,near,after_lora,mere,1,1,0,0
+M01,Session2_3,0282,seed,after_lora,h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-,1,1,0,23
+M01,Session2_3,0233,dart,after_lora,dart,1,0,0,0
+M01,Session2_3,0198,hem,after_lora,am,1,1,0,0
+M01,Session2_3,0001,one,after_lora,one,1,0,0,0
+M01,Session2_3,0260,sitting,after_lora,shaboom,1,1,0,0
+M01,Session2_3,0192,blow,after_lora,ville,1,1,0,0
+M01,Session2_3,0203,cake,after_lora,cute,1,1,0,0
+M01,Session2_3,0145,You're used to being on the field.,after_lora,yourdo been underfield,7,3,4,0
+M01,Session2_3,0130,write,after_lora,right,1,1,0,0
+M01,Session2_3,0280,six,after_lora,neck,1,1,0,0
+M01,Session2_3,0251,brawn,after_lora,born,1,1,0,0
+M01,Session2_3,0241,kilo,after_lora,cure,1,1,0,0
+M01,Session2_3,0242,I have had my bell rung.,after_lora,I have out my bow around,6,3,0,0
+M01,Session2_3,0164,echo,after_lora,acore,1,1,0,0
+M01,Session2_3,0047,forward,after_lora,forward,1,0,0,0
+M01,Session2_3,0225,take,after_lora,take,1,0,0,0
+M01,Session2_3,0157,darn,after_lora,down,1,1,0,0
+M01,Session2_3,0006,torn,after_lora,corn,1,1,0,0
+M01,Session2_3,0049,shear,after_lora,sear,1,1,0,0
+M01,Session2_3,0093,group,after_lora,room,1,1,0,0
+M01,Session2_3,0276,mush,after_lora,merch,1,1,0,0

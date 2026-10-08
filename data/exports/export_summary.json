@@ -1,0 +1,9 @@
+{
+  "torgo_asr_prompt_targets": 9104,
+  "torgo_aai_format_timing_candidates": 6267,
+  "mocha_aai_pairs": 919,
+  "packaged_review_recordings": 180,
+  "review_zip_bytes": 27404965,
+  "review_zip_sha256": "aa8edc01e6a4a36f24bb767fc6fba1f164b6ac8320fc35f33ba7097e9af89572",
+  "label_note": "The user designated written TORGO prompts as the project ASR targets. No prior listening checks are linked to individual recording IDs; any future clip-specific corrections are recorded separately."
+}

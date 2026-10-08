@@ -1,0 +1,27 @@
+text,expected_intent,observed_intent,intent_correct,route_status,safe_without_confidence,core_response_ms
+What time is it?,read_time,read_time,1,confirmation_required,1,0.005458015948534012
+Tell me the time,read_time,read_time,1,confirmation_required,1,0.0027918722480535507
+What is the time,read_time,read_time,1,confirmation_required,1,0.00237487256526947
+Open the browser,open_app,open_app,1,confirmation_required,1,0.0037921126931905746
+Open notes,open_app,open_app,1,confirmation_required,1,0.0022498425096273422
+Open calendar,open_app,open_app,1,confirmation_required,1,0.002125045284628868
+Show my calendar,read_calendar,read_calendar,1,confirmation_required,1,0.00200001522898674
+Read my calendar,read_calendar,read_calendar,1,confirmation_required,1,0.0018328428268432617
+Turn on the bedroom light,set_light,set_light,1,confirmation_required,1,0.0038330908864736557
+Turn off the kitchen light,set_light,set_light,1,confirmation_required,1,0.0029578804969787598
+Turn on the living room light,set_light,set_light,1,confirmation_required,1,0.0030419323593378067
+Call Asha,place_call,place_call,1,confirmation_required,1,0.0034580007195472717
+Call mum,place_call,place_call,1,confirmation_required,1,0.0024579931050539017
+Send a message to Sam saying I am home,send_message,send_message,1,confirmation_required,1,0.005292007699608803
+Send message to Asha saying Please call me,send_message,send_message,1,confirmation_required,1,0.004292000085115433
+Delete the old note,delete_note,delete_note,1,confirmation_required,1,0.003125052899122238
+Delete my old note,delete_note,delete_note,1,confirmation_required,1,0.002749962732195854
+Don't call Asha,none,none,1,ask_clarification,1,0.002582790330052376
+Call an unknown person,none,none,1,ask_clarification,1,0.0027921050786972046
+The browser is open,none,none,1,ask_clarification,1,0.0025420449674129486
+Turn on the oven,none,none,1,ask_clarification,1,0.0023329630494117737
+Please delete everything,none,none,1,ask_clarification,1,0.002583954483270645
+Maybe send a message to Sam saying hello,none,none,1,ask_clarification,1,0.0033748801797628403
+The kitchen light is on,none,none,1,ask_clarification,1,0.0027080532163381577
+Nothing has been done yet to take advantage of the enabling legislation,none,none,1,ask_clarification,1,0.004749977961182594
+I want to cancel my subscription,none,none,1,ask_clarification,1,0.0030419323593378067

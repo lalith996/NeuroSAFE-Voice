@@ -1,0 +1,118 @@
+{
+  "architecture": "40 log-mel -> 96-channel dilated temporal convolution -> 12 articulator coordinates",
+  "mocha_train_steps": 300,
+  "torgo_train_steps_per_fold": 300,
+  "batch_windows": 12,
+  "window_frames": 256,
+  "training_loss": "masked smooth L1, beta=0.5",
+  "sampling": "speaker-balanced windows, one fold held out per speaker",
+  "normalization": "audio and targets fit on each corpus/fold training items only",
+  "evaluation": "pooled per-speaker/channel Pearson r on every third 100 Hz frame; macro speaker mean from channels with >=20 valid utterances",
+  "mocha_last50_loss": 0.380630202293396,
+  "folds": [
+    {
+      "fold": 0,
+      "method": "scratch",
+      "train_last50_loss": 0.4025460863113403,
+      "validation_macro_r": {
+        "dysarthric": 0.20551078938519687,
+        "control": 0.36089644386084585
+      },
+      "test_macro_r": {
+        "dysarthric": 0.03370969566897939,
+        "control": 0.28940576793829753
+      }
+    },
+    {
+      "fold": 0,
+      "method": "mocha_pretrained",
+      "train_last50_loss": 0.39673485815525056,
+      "validation_macro_r": {
+        "dysarthric": 0.2107747600925225,
+        "control": 0.3699097861053686
+      },
+      "test_macro_r": {
+        "dysarthric": 0.02637632649768824,
+        "control": 0.2986929423486955
+      }
+    },
+    {
+      "fold": 1,
+      "method": "scratch",
+      "train_last50_loss": 0.4645218726992607,
+      "validation_macro_r": {
+        "dysarthric": 0.30128297491495926,
+        "control": 0.2799204675704508
+      },
+      "test_macro_r": {
+        "dysarthric": 0.17493105623742009,
+        "control": 0.32449971232901653
+      }
+    },
+    {
+      "fold": 1,
+      "method": "mocha_pretrained",
+      "train_last50_loss": 0.46047486513853075,
+      "validation_macro_r": {
+        "dysarthric": 0.30209937797295655,
+        "control": 0.29236837827064777
+      },
+      "test_macro_r": {
+        "dysarthric": 0.1843312304083129,
+        "control": 0.33815313867234686
+      }
+    },
+    {
+      "fold": 2,
+      "method": "scratch",
+      "train_last50_loss": 0.45792357981204984,
+      "validation_macro_r": {
+        "dysarthric": 0.150065036024117,
+        "control": 0.4357064914794188
+      },
+      "test_macro_r": {
+        "dysarthric": 0.3394709540488853,
+        "control": 0.3160506791946017
+      }
+    },
+    {
+      "fold": 2,
+      "method": "mocha_pretrained",
+      "train_last50_loss": 0.4535095107555389,
+      "validation_macro_r": {
+        "dysarthric": 0.14561869480367698,
+        "control": 0.45696276017333876
+      },
+      "test_macro_r": {
+        "dysarthric": 0.33619977737995455,
+        "control": 0.3291420094107562
+      }
+    },
+    {
+      "fold": 3,
+      "method": "scratch",
+      "train_last50_loss": 0.43990233033895493,
+      "validation_macro_r": {
+        "dysarthric": 0.0586537023695663,
+        "control": 0.3204674792235589
+      },
+      "test_macro_r": {
+        "dysarthric": 0.14644225405877448,
+        "control": 0.5030598299768556
+      }
+    },
+    {
+      "fold": 3,
+      "method": "mocha_pretrained",
+      "train_last50_loss": 0.4344435420632362,
+      "validation_macro_r": {
+        "dysarthric": 0.052684985966248925,
+        "control": 0.30803638695850033
+      },
+      "test_macro_r": {
+        "dysarthric": 0.13499020328988953,
+        "control": 0.4885196935914217
+      }
+    }
+  ]
+}

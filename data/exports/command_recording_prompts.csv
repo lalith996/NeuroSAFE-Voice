@@ -1,0 +1,19 @@
+prompt_id,written_prompt,intent,risk_tier
+C01,What time is it?,read_time,low
+C02,Tell me the time,read_time,low
+C03,Open the browser,open_app,low
+C04,Open the notes,open_app,low
+C05,Show my calendar,read_calendar,low
+C06,Read my calendar,read_calendar,low
+C07,Turn on the bedroom light,set_light,medium
+C08,Turn off the bedroom light,set_light,medium
+C09,Turn on the kitchen light,set_light,medium
+C10,Turn off the kitchen light,set_light,medium
+C11,Call Asha,place_call,high
+C12,Call Sam,place_call,high
+C13,Send a message to Sam saying I am home,send_message,high
+C14,Send a message to Asha saying Please call me,send_message,high
+C15,Delete the old note,delete_note,high
+C16,Open the calendar,open_app,low
+N01,The kitchen light is on,none,none
+N02,I want to cancel my subscription,none,none

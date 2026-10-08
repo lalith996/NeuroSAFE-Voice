@@ -1,0 +1,19 @@
+prompt_id,written_prompt,expected_intent,asr_hypothesis,reference_words,word_errors,observed_intent,intent_correct,decision_status,real_action_executed,wav_to_decision_seconds
+C01,What time is it?,read_time,What time is it?,4,0,read_time,1,confirmation_required,0,0.41883
+C02,Tell me the time,read_time,Tell me the time.,4,0,read_time,1,confirmation_required,0,0.27153
+C03,Open the browser,open_app,Open the browser.,3,0,open_app,1,confirmation_required,0,0.28024
+C04,Open the notes,open_app,Open the notes.,3,0,open_app,1,confirmation_required,0,0.25612
+C05,Show my calendar,read_calendar,Show my calendar.,3,0,read_calendar,1,confirmation_required,0,0.25654
+C06,Read my calendar,read_calendar,Read my calendar.,3,0,read_calendar,1,confirmation_required,0,0.25965
+C07,Turn on the bedroom light,set_light,Turn on the bedroom light.,5,0,set_light,1,confirmation_required,0,0.28704
+C08,Turn off the bedroom light,set_light,Turn off the bedroom light.,5,0,set_light,1,confirmation_required,0,0.28483
+C09,Turn on the kitchen light,set_light,Turn on the kitchen light.,5,0,set_light,1,confirmation_required,0,0.28528
+C10,Turn off the kitchen light,set_light,Turn off the kitchen light.,5,0,set_light,1,confirmation_required,0,0.28933
+C11,Call Asha,place_call,Call ASHA.,2,0,place_call,1,confirmation_required,0,0.2584
+C12,Call Sam,place_call,Call SAM.,2,0,place_call,1,confirmation_required,0,0.24484
+C13,Send a message to Sam saying I am home,send_message,Send a message to Sam saying I'm home.,9,2,send_message,1,confirmation_required,0,0.33716
+C14,Send a message to Asha saying Please call me,send_message,Send a message to Asha saying please call me.,9,0,send_message,1,confirmation_required,0,0.3586
+C15,Delete the old note,delete_note,delete the old note?,4,0,delete_note,1,confirmation_required,0,0.27444
+C16,Open the calendar,open_app,Open the calendar.,3,0,open_app,1,confirmation_required,0,0.26213
+N01,The kitchen light is on,none,The kitchen light is on.,5,0,none,1,ask_clarification,0,0.318
+N02,I want to cancel my subscription,none,I want to cancel my subscription.,6,0,none,1,ask_clarification,0,0.33868

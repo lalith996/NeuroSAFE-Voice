@@ -1,0 +1,56 @@
+{
+  "fold": 3,
+  "model": "openai/whisper-small.en",
+  "steps": 240,
+  "train_max_seconds": 12,
+  "test_max_seconds": 30,
+  "train_utterances": 649,
+  "validation_utterances": 57,
+  "test_utterances": 70,
+  "trainable_parameters": 884736,
+  "training_seconds": 52.46128962514922,
+  "validation_mean_loss": 1.5431907536388423,
+  "reference_note": "working TORGO prompts unless specific clips are human verified",
+  "before_lora": {
+    "utterances": 70,
+    "reference_words": 518,
+    "errors": 699,
+    "prompt_wer": 1.3494208494208495
+  },
+  "after_lora": {
+    "utterances": 70,
+    "reference_words": 518,
+    "errors": 437,
+    "prompt_wer": 0.8436293436293436
+  },
+  "by_speaker": {
+    "M04": {
+      "before_lora": {
+        "utterances": 35,
+        "reference_words": 283,
+        "errors": 619,
+        "prompt_wer": 2.187279151943463
+      },
+      "after_lora": {
+        "utterances": 35,
+        "reference_words": 283,
+        "errors": 360,
+        "prompt_wer": 1.2720848056537102
+      }
+    },
+    "M05": {
+      "before_lora": {
+        "utterances": 35,
+        "reference_words": 235,
+        "errors": 80,
+        "prompt_wer": 0.3404255319148936
+      },
+      "after_lora": {
+        "utterances": 35,
+        "reference_words": 235,
+        "errors": 77,
+        "prompt_wer": 0.3276595744680851
+      }
+    }
+  }
+}

@@ -1,0 +1,211 @@
+method,speaker,session,utterance_id,reference,hypothesis,reference_words,substitutions,deletions,insertions
+M1_cached_control,F03,Session2,0079,thought,thought,1,0,0,0
+M1_cached_control,F03,Session3,0151,ray,belly,1,1,0,0
+M1_cached_control,F03,Session1,0140,steer,steer,1,0,0,0
+M1_cached_control,F03,Session3,0131,rake,rake,1,0,0,0
+M1_cached_control,F03,Session3,0152,lock,rock,1,1,0,0
+M1_cached_control,F03,Session1,0077,go,go,1,0,0,0
+M1_cached_control,F03,Session3,0011,night,night,1,0,0,0
+M1_cached_control,F03,Session3,0053,rise,run,1,1,0,0
+M1_cached_control,F03,Session2,0066,lick,lick,1,0,0,0
+M1_cached_control,F03,Session3,0037,bird,bread,1,1,0,0
+M1_cached_control,F03,Session2,0073,sergeant,surgent,1,1,0,0
+M1_cached_control,F03,Session3,0060,chair,ch,1,1,0,0
+M1_cached_control,F03,Session3,0176,select,select,1,0,0,0
+M1_cached_control,F03,Session3,0194,hotel,hotel,1,0,0,0
+M1_cached_control,F03,Session3,0210,sell,so,1,1,0,0
+M1_cached_control,F03,Session3,0205,zip,tip,1,1,0,0
+M1_cached_control,F03,Session2,0119,sigh,thy,1,1,0,0
+M1_cached_control,F03,Session1,0152,This was easy for us.,this was easy for us,5,0,0,0
+M1_cached_control,F03,Session2,0134,mitten,mation,1,1,0,0
+M1_cached_control,F03,Session2,0035,charlie,chirly,1,1,0,0
+M1_cached_control,F03,Session3,0034,dress,stress,1,1,0,0
+M1_cached_control,F03,Session1,0181,sleep,sweep,1,1,0,0
+M1_cached_control,F03,Session2,0123,spit,split,1,1,0,0
+M1_cached_control,F03,Session3,0105,You can ride stagecoach.,you can write articles,4,2,0,0
+M1_cached_control,F03,Session3,0022,She doesn't like it to have,she doesnt like it to have it,6,0,0,1
+M1_cached_control,F03,Session2,0090,oscar,oscar,1,0,0,0
+M1_cached_control,F03,Session3,0052,He took me out one day.,she took me out one day,6,1,0,0
+M1_cached_control,F03,Session2,0078,written,wrecking,1,1,0,0
+M1_cached_control,F03,Session3,0108,best,best,1,0,0,0
+M1_cached_control,F03,Session2,0052,forward,forward,1,0,0,0
+M1_cached_control,F03,Session1,0126,dug,dug,1,0,0,0
+M1_cached_control,F03,Session1,0174,Why yell or worry over silly items?,why yall worry over silly items,7,1,1,0
+M1_cached_control,F03,Session3,0121,The pair of shoes was new.,the pair of shoes was new,6,0,0,0
+M1_cached_control,F03,Session1,0161,mut,mock,1,1,0,0
+M1_cached_control,F03,Session1,0009,goat,goat,1,0,0,0
+M1_cached_control,M02,Session1,0149,shoot,shoot,1,0,0,0
+M1_cached_control,M02,Session1,0193,though,go,1,1,0,0
+M1_cached_control,M02,Session1,0078,sip,ship,1,1,0,0
+M1_cached_control,M02,Session1,0215,I looked up and noticed two old men.,i like that the know this to what men,8,6,0,1
+M1_cached_control,M02,Session1,0224,fate,fake,1,1,0,0
+M1_cached_control,M02,Session1,0027,the,law,1,1,0,0
+M1_cached_control,M02,Session1,0179,near,knee,1,1,0,0
+M1_cached_control,M02,Session1,0132,loop,loop,1,0,0,0
+M1_cached_control,M02,Session1,0016,fair,fail,1,1,0,0
+M1_cached_control,M02,Session1,0068,floor,saw,1,1,0,0
+M1_cached_control,M02,Session1,0207,suit,soup,1,1,0,0
+M1_cached_control,M02,Session1,0060,slip,sintlight,1,1,0,0
+M1_cached_control,M02,Session1,0019,park,polic,1,1,0,0
+M1_cached_control,M02,Session2,0203,fat,fill that,1,1,0,1
+M1_cached_control,M02,Session1,0178,shear,shear,1,0,0,0
+M1_cached_control,M02,Session1,0021,bubble,fiveball,1,1,0,0
+M1_cached_control,M02,Session1,0147,sway,sway,1,0,0,0
+M1_cached_control,M02,Session1,0240,explore,explore,1,0,0,0
+M1_cached_control,M02,Session1,0206,bear,bear,1,0,0,0
+M1_cached_control,M02,Session1,0065,no,knows,1,1,0,0
+M1_cached_control,M02,Session1,0159,play,play,1,0,0,0
+M1_cached_control,M02,Session1,0225,bat,spot,1,1,0,0
+M1_cached_control,M02,Session2,0223,thorn,toy,1,1,0,0
+M1_cached_control,M02,Session1,0012,sip,sip,1,0,0,0
+M1_cached_control,M02,Session1,0046,tear,tail,1,1,0,0
+M1_cached_control,M02,Session2,0173,city,sadie,1,1,0,0
+M1_cached_control,M02,Session1,0174,They carried me off on the stretcher.,they gave me up on the stretcher,7,2,0,0
+M1_cached_control,M02,Session1,0074,beat,bend,1,1,0,0
+M1_cached_control,M02,Session1,0170,pay,pay,1,0,0,0
+M1_cached_control,M02,Session1,0048,chair,chair,1,0,0,0
+M1_cached_control,M02,Session1,0057,lead,seed,1,1,0,0
+M1_cached_control,M02,Session1,0211,forward,forward,1,0,0,0
+M1_cached_control,M02,Session1,0064,knee,naniu,1,1,0,0
+M1_cached_control,M02,Session1,0128,menu,blessing,1,1,0,0
+M1_cached_control,M02,Session1,0090,warm,bone,1,1,0,0
+M2_additive,F03,Session2,0079,thought,thought,1,0,0,0
+M2_additive,F03,Session3,0151,ray,belly,1,1,0,0
+M2_additive,F03,Session1,0140,steer,steer,1,0,0,0
+M2_additive,F03,Session3,0131,rake,rake,1,0,0,0
+M2_additive,F03,Session3,0152,lock,rock,1,1,0,0
+M2_additive,F03,Session1,0077,go,go,1,0,0,0
+M2_additive,F03,Session3,0011,night,night,1,0,0,0
+M2_additive,F03,Session3,0053,rise,run,1,1,0,0
+M2_additive,F03,Session2,0066,lick,lick,1,0,0,0
+M2_additive,F03,Session3,0037,bird,bread,1,1,0,0
+M2_additive,F03,Session2,0073,sergeant,surgent,1,1,0,0
+M2_additive,F03,Session3,0060,chair,ch,1,1,0,0
+M2_additive,F03,Session3,0176,select,select,1,0,0,0
+M2_additive,F03,Session3,0194,hotel,hotel,1,0,0,0
+M2_additive,F03,Session3,0210,sell,so,1,1,0,0
+M2_additive,F03,Session3,0205,zip,tip,1,1,0,0
+M2_additive,F03,Session2,0119,sigh,thy,1,1,0,0
+M2_additive,F03,Session1,0152,This was easy for us.,this was easy for us,5,0,0,0
+M2_additive,F03,Session2,0134,mitten,mation,1,1,0,0
+M2_additive,F03,Session2,0035,charlie,chirly,1,1,0,0
+M2_additive,F03,Session3,0034,dress,stress,1,1,0,0
+M2_additive,F03,Session1,0181,sleep,sweep,1,1,0,0
+M2_additive,F03,Session2,0123,spit,split,1,1,0,0
+M2_additive,F03,Session3,0105,You can ride stagecoach.,you can write articles,4,2,0,0
+M2_additive,F03,Session3,0022,She doesn't like it to have,she doesn't like it to have it,6,0,0,1
+M2_additive,F03,Session2,0090,oscar,Oscar,1,0,0,0
+M2_additive,F03,Session3,0052,He took me out one day.,she took me out one day,6,1,0,0
+M2_additive,F03,Session2,0078,written,wrecking,1,1,0,0
+M2_additive,F03,Session3,0108,best,best,1,0,0,0
+M2_additive,F03,Session2,0052,forward,forward,1,0,0,0
+M2_additive,F03,Session1,0126,dug,dug,1,0,0,0
+M2_additive,F03,Session1,0174,Why yell or worry over silly items?,why yall worry over silly items,7,1,1,0
+M2_additive,F03,Session3,0121,The pair of shoes was new.,the pair of shoes was new,6,0,0,0
+M2_additive,F03,Session1,0161,mut,mock,1,1,0,0
+M2_additive,F03,Session1,0009,goat,goat,1,0,0,0
+M2_additive,M02,Session1,0149,shoot,shoot,1,0,0,0
+M2_additive,M02,Session1,0193,though,go,1,1,0,0
+M2_additive,M02,Session1,0078,sip,ship,1,1,0,0
+M2_additive,M02,Session1,0215,I looked up and noticed two old men.,I learned how to know this to what means.,8,7,0,1
+M2_additive,M02,Session1,0224,fate,fake,1,1,0,0
+M2_additive,M02,Session1,0027,the,law,1,1,0,0
+M2_additive,M02,Session1,0179,near,knee,1,1,0,0
+M2_additive,M02,Session1,0132,loop,loop,1,0,0,0
+M2_additive,M02,Session1,0016,fair,fail,1,1,0,0
+M2_additive,M02,Session1,0068,floor,saw,1,1,0,0
+M2_additive,M02,Session1,0207,suit,soup,1,1,0,0
+M2_additive,M02,Session1,0060,slip,sintlight,1,1,0,0
+M2_additive,M02,Session1,0019,park,polic,1,1,0,0
+M2_additive,M02,Session2,0203,fat,fill that,1,1,0,1
+M2_additive,M02,Session1,0178,shear,shear,1,0,0,0
+M2_additive,M02,Session1,0021,bubble,fiveball,1,1,0,0
+M2_additive,M02,Session1,0147,sway,sway,1,0,0,0
+M2_additive,M02,Session1,0240,explore,explore,1,0,0,0
+M2_additive,M02,Session1,0206,bear,bear,1,0,0,0
+M2_additive,M02,Session1,0065,no,knows,1,1,0,0
+M2_additive,M02,Session1,0159,play,play,1,0,0,0
+M2_additive,M02,Session1,0225,bat,spot,1,1,0,0
+M2_additive,M02,Session2,0223,thorn,toy,1,1,0,0
+M2_additive,M02,Session1,0012,sip,sip,1,0,0,0
+M2_additive,M02,Session1,0046,tear,tail,1,1,0,0
+M2_additive,M02,Session2,0173,city,sadie,1,1,0,0
+M2_additive,M02,Session1,0174,They carried me off on the stretcher.,they gave me up on the stretcher,7,2,0,0
+M2_additive,M02,Session1,0074,beat,bend,1,1,0,0
+M2_additive,M02,Session1,0170,pay,pay,1,0,0,0
+M2_additive,M02,Session1,0048,chair,chair,1,0,0,0
+M2_additive,M02,Session1,0057,lead,seed,1,1,0,0
+M2_additive,M02,Session1,0211,forward,forward,1,0,0,0
+M2_additive,M02,Session1,0064,knee,naniu,1,1,0,0
+M2_additive,M02,Session1,0128,menu,blessing,1,1,0,0
+M2_additive,M02,Session1,0090,warm,bone,1,1,0,0
+M3_gated_cross_attention,F03,Session2,0079,thought,thought,1,0,0,0
+M3_gated_cross_attention,F03,Session3,0151,ray,belly,1,1,0,0
+M3_gated_cross_attention,F03,Session1,0140,steer,steer,1,0,0,0
+M3_gated_cross_attention,F03,Session3,0131,rake,rake,1,0,0,0
+M3_gated_cross_attention,F03,Session3,0152,lock,rock,1,1,0,0
+M3_gated_cross_attention,F03,Session1,0077,go,go,1,0,0,0
+M3_gated_cross_attention,F03,Session3,0011,night,night,1,0,0,0
+M3_gated_cross_attention,F03,Session3,0053,rise,run,1,1,0,0
+M3_gated_cross_attention,F03,Session2,0066,lick,lick,1,0,0,0
+M3_gated_cross_attention,F03,Session3,0037,bird,bread,1,1,0,0
+M3_gated_cross_attention,F03,Session2,0073,sergeant,surgent,1,1,0,0
+M3_gated_cross_attention,F03,Session3,0060,chair,ch,1,1,0,0
+M3_gated_cross_attention,F03,Session3,0176,select,select,1,0,0,0
+M3_gated_cross_attention,F03,Session3,0194,hotel,hotel,1,0,0,0
+M3_gated_cross_attention,F03,Session3,0210,sell,so,1,1,0,0
+M3_gated_cross_attention,F03,Session3,0205,zip,tip,1,1,0,0
+M3_gated_cross_attention,F03,Session2,0119,sigh,thy,1,1,0,0
+M3_gated_cross_attention,F03,Session1,0152,This was easy for us.,this was easy for us,5,0,0,0
+M3_gated_cross_attention,F03,Session2,0134,mitten,mation,1,1,0,0
+M3_gated_cross_attention,F03,Session2,0035,charlie,chirly,1,1,0,0
+M3_gated_cross_attention,F03,Session3,0034,dress,stress,1,1,0,0
+M3_gated_cross_attention,F03,Session1,0181,sleep,sweep,1,1,0,0
+M3_gated_cross_attention,F03,Session2,0123,spit,split,1,1,0,0
+M3_gated_cross_attention,F03,Session3,0105,You can ride stagecoach.,you can write articles,4,2,0,0
+M3_gated_cross_attention,F03,Session3,0022,She doesn't like it to have,she doesn't like it to have it,6,0,0,1
+M3_gated_cross_attention,F03,Session2,0090,oscar,Oscar,1,0,0,0
+M3_gated_cross_attention,F03,Session3,0052,He took me out one day.,she took me out one day,6,1,0,0
+M3_gated_cross_attention,F03,Session2,0078,written,wrecking,1,1,0,0
+M3_gated_cross_attention,F03,Session3,0108,best,best,1,0,0,0
+M3_gated_cross_attention,F03,Session2,0052,forward,forward,1,0,0,0
+M3_gated_cross_attention,F03,Session1,0126,dug,dug,1,0,0,0
+M3_gated_cross_attention,F03,Session1,0174,Why yell or worry over silly items?,why yall worry over silly items,7,1,1,0
+M3_gated_cross_attention,F03,Session3,0121,The pair of shoes was new.,The pair of shoes was new.,6,0,0,0
+M3_gated_cross_attention,F03,Session1,0161,mut,mock,1,1,0,0
+M3_gated_cross_attention,F03,Session1,0009,goat,goat,1,0,0,0
+M3_gated_cross_attention,M02,Session1,0149,shoot,shoot,1,0,0,0
+M3_gated_cross_attention,M02,Session1,0193,though,go,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0078,sip,ship,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0215,I looked up and noticed two old men.,I learned how to know this to what means.,8,7,0,1
+M3_gated_cross_attention,M02,Session1,0224,fate,fake,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0027,the,law,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0179,near,knee,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0132,loop,loop,1,0,0,0
+M3_gated_cross_attention,M02,Session1,0016,fair,fail,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0068,floor,saw,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0207,suit,soup,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0060,slip,sintlight,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0019,park,polic,1,1,0,0
+M3_gated_cross_attention,M02,Session2,0203,fat,fill that,1,1,0,1
+M3_gated_cross_attention,M02,Session1,0178,shear,shear,1,0,0,0
+M3_gated_cross_attention,M02,Session1,0021,bubble,fiveball,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0147,sway,a sway,1,0,0,1
+M3_gated_cross_attention,M02,Session1,0240,explore,explore,1,0,0,0
+M3_gated_cross_attention,M02,Session1,0206,bear,bear,1,0,0,0
+M3_gated_cross_attention,M02,Session1,0065,no,knows,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0159,play,play,1,0,0,0
+M3_gated_cross_attention,M02,Session1,0225,bat,spot,1,1,0,0
+M3_gated_cross_attention,M02,Session2,0223,thorn,toy,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0012,sip,sip,1,0,0,0
+M3_gated_cross_attention,M02,Session1,0046,tear,tail,1,1,0,0
+M3_gated_cross_attention,M02,Session2,0173,city,sadie,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0174,They carried me off on the stretcher.,They gave me up on the stretcher.,7,2,0,0
+M3_gated_cross_attention,M02,Session1,0074,beat,beast,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0170,pay,pay,1,0,0,0
+M3_gated_cross_attention,M02,Session1,0048,chair,chair,1,0,0,0
+M3_gated_cross_attention,M02,Session1,0057,lead,seed,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0211,forward,forward,1,0,0,0
+M3_gated_cross_attention,M02,Session1,0064,knee,naniu,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0128,menu,blessing,1,1,0,0
+M3_gated_cross_attention,M02,Session1,0090,warm,bone,1,1,0,0

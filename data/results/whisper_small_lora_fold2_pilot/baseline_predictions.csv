@@ -1,0 +1,71 @@
+speaker,session,utterance_id,reference,stage,hypothesis,reference_words,substitutions,deletions,insertions
+F04,Session2,0113,side,before_lora,side side,1,0,0,1
+F04,Session1,0141,hear,before_lora,here,1,1,0,0
+F04,Session1,0021,go,before_lora,Go.,1,0,0,0
+F04,Session1,0187,whoop,before_lora,What?,1,1,0,0
+F04,Session1,0080,trouble,before_lora,trouble,1,0,0,0
+F04,Session1,0146,white,before_lora,wait,1,1,0,0
+F04,Session1,0110,warm,before_lora,warm,1,0,0,0
+F04,Session1,0029,knew,before_lora,new,1,1,0,0
+F04,Session1,0056,bit,before_lora,bit,1,0,0,0
+F04,Session2,0131,bran,before_lora,Bran Bran,1,0,0,1
+F04,Session1,0123,meat,before_lora,meat,1,0,0,0
+F04,Session1,0042,Don't ask me to carry an oily rag like that.,before_lora,Don't ask me to carry an oily rag like that.,10,0,0,0
+F04,Session1,0133,Both figures would go higher in later years.,before_lora,Both figures would go higher in the later years.,8,0,0,1
+F04,Session1,0008,knew,before_lora,new,1,1,0,0
+F04,Session1,0028,store,before_lora,store,1,0,0,0
+F04,Session1,0005,fee,before_lora,P P,1,1,0,1
+F04,Session2,0138,hotel,before_lora,Hotel Hotel,1,0,0,1
+F04,Session1,0168,steer,before_lora,steer,1,0,0,0
+F04,Session1,0158,single,before_lora,single,1,0,0,0
+F04,Session1,0026,swarm,before_lora,swarm,1,0,0,0
+F04,Session1,0176,root,before_lora,root,1,0,0,0
+F04,Session1,0057,the,before_lora,the,1,0,0,0
+F04,Session1,0074,range,before_lora,range,1,0,0,0
+F04,Session1,0035,tip,before_lora,tip,1,0,0,0
+F04,Session1,0178,three,before_lora,3,1,1,0,0
+F04,Session1,0016,chair,before_lora,Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair. Chair.,1,0,0,23
+F04,Session2,0146,at,before_lora,at,1,0,0,0
+F04,Session2,0154,rich,before_lora,rich rich,1,0,0,1
+F04,Session1,0192,toot,before_lora,Tute. Tute.,1,1,0,1
+F04,Session1,0182,pay,before_lora,pay,1,0,0,0
+F04,Session1,0107,stick,before_lora,stick stick,1,0,0,1
+F04,Session1,0044,air,before_lora,air,1,0,0,0
+F04,Session1,0006,yet he still thinks as swiftly as ever.,before_lora,Yet he still thinks as swiftly as ever.,8,0,0,0
+F04,Session1,0095,bubble,before_lora,bubble,1,0,0,0
+F04,Session1,0191,Why yell or worry over silly items?,before_lora,Y yell or worry over silly items.,7,1,0,0
+M03,Session2,0250,Two other cases also were under advisement.,before_lora,Two other cases also were under advisement.,7,0,0,0
+M03,Session2,0048,jagged,before_lora,Jagged it.,1,0,0,1
+M03,Session2,0309,sell,before_lora,cell,1,1,0,0
+M03,Session2,0023,knew,before_lora,new,1,1,0,0
+M03,Session2,0204,bear,before_lora,bear bear,1,0,0,1
+M03,Session2,0231,troop,before_lora,troop troop,1,0,0,1
+M03,Session2,0208,tie,before_lora,Thai Thai,1,1,0,1
+M03,Session2,0092,share,before_lora,share share,1,0,0,1
+M03,Session2,0212,group,before_lora,group,1,0,0,0
+M03,Session2,0292,reek,before_lora,reek,1,0,0,0
+M03,Session2,0225,toot,before_lora,toot,1,0,0,0
+M03,Session2,0411,dread,before_lora,Dread,1,0,0,0
+M03,Session2,0021,goat,before_lora,goat goat,1,0,0,1
+M03,Session2,0383,knitting,before_lora,knitting knitting,1,0,0,1
+M03,Session2,0239,side,before_lora,slide,1,1,0,0
+M03,Session2,0147,coupe,before_lora,coupe,1,0,0,0
+M03,Session2,0395,dress,before_lora,dress,1,0,0,0
+M03,Session2,0047,dark,before_lora,Dark. Dark.,1,0,0,1
+M03,Session2,0086,fee,before_lora,fee fee fee,1,0,0,2
+M03,Session2,0129,know,before_lora,No No,1,1,0,1
+M03,Session2,0090,down,before_lora,down down,1,0,0,1
+M03,Session2,0035,trouble,before_lora,trouble,1,0,0,0
+M03,Session2,0095,stick,before_lora,stick stick,1,0,0,1
+M03,Session2,0364,fill,before_lora,fill fill,1,0,0,1
+M03,Session2,0249,Their house is grey and white.,before_lora,Their house is grey and white.,6,0,0,0
+M03,Session2,0419,tin,before_lora,tin,1,0,0,0
+M03,Session2,0214,here,before_lora,here,1,0,0,0
+M03,Session2,0026,sheet,before_lora,sheet sheet,1,0,0,1
+M03,Session2,0298,oscar,before_lora,Oscar.,1,0,0,0
+M03,Session2,0408,tread,before_lora,Tread,1,0,0,0
+M03,Session2,0291,yes,before_lora,Yes.,1,0,0,0
+M03,Session2,0267,hill,before_lora,Hill Hill,1,0,0,1
+M03,Session2,0261,park,before_lora,Park,1,0,0,0
+M03,Session2,0175,suit,before_lora,suit suit,1,0,0,1
+M03,Session2,0295,no,before_lora,No.,1,0,0,0

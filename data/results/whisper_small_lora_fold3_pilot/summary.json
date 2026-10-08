@@ -1,0 +1,41 @@
+{
+  "model": "openai/whisper-small.en",
+  "fold": 3,
+  "audio_limit_seconds": 6,
+  "steps": 120,
+  "trainable_parameters": 884736,
+  "training_utterances": 420,
+  "validation_utterances": 50,
+  "test_utterances": 70,
+  "train_last20_loss": 0.5241205595433712,
+  "validation_mean_loss": 1.6249465809948742,
+  "training_seconds": 20.51983483415097,
+  "reference_type": "TORGO prompt-derived working target; not individually verified",
+  "scope": "small feasibility pilot on Whisper Tiny English; separate from Whisper Small M0 benchmark",
+  "speaker_prompt_wer": {
+    "after_lora_M04": {
+      "utterances": 35,
+      "reference_words": 36,
+      "errors": 29,
+      "prompt_wer": 0.8055555555555556
+    },
+    "after_lora_M05": {
+      "utterances": 35,
+      "reference_words": 38,
+      "errors": 27,
+      "prompt_wer": 0.7105263157894737
+    },
+    "before_lora_M04": {
+      "utterances": 35,
+      "reference_words": 36,
+      "errors": 85,
+      "prompt_wer": 2.361111111111111
+    },
+    "before_lora_M05": {
+      "utterances": 35,
+      "reference_words": 38,
+      "errors": 69,
+      "prompt_wer": 1.8157894736842106
+    }
+  }
+}

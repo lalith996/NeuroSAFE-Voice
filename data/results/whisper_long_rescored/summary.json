@@ -1,0 +1,150 @@
+{
+  "all": {
+    "before_lora": {
+      "utterances": 187,
+      "reference_words": 1567,
+      "errors": 1069,
+      "wer": 0.6821952776005106
+    },
+    "after_lora": {
+      "utterances": 187,
+      "reference_words": 1567,
+      "errors": 786,
+      "wer": 0.5015954052329291
+    }
+  },
+  "human_verified_only": {
+    "before_lora": {
+      "utterances": 0,
+      "reference_words": 0,
+      "errors": 0,
+      "wer": null
+    },
+    "after_lora": {
+      "utterances": 0,
+      "reference_words": 0,
+      "errors": 0,
+      "wer": null
+    }
+  },
+  "by_speaker": {
+    "F01": {
+      "before_lora": {
+        "utterances": 8,
+        "reference_words": 94,
+        "errors": 64,
+        "wer": 0.6808510638297872
+      },
+      "after_lora": {
+        "utterances": 8,
+        "reference_words": 94,
+        "errors": 62,
+        "wer": 0.6595744680851063
+      }
+    },
+    "F03": {
+      "before_lora": {
+        "utterances": 25,
+        "reference_words": 236,
+        "errors": 26,
+        "wer": 0.11016949152542373
+      },
+      "after_lora": {
+        "utterances": 25,
+        "reference_words": 236,
+        "errors": 30,
+        "wer": 0.1271186440677966
+      }
+    },
+    "F04": {
+      "before_lora": {
+        "utterances": 9,
+        "reference_words": 100,
+        "errors": 1,
+        "wer": 0.01
+      },
+      "after_lora": {
+        "utterances": 9,
+        "reference_words": 100,
+        "errors": 2,
+        "wer": 0.02
+      }
+    },
+    "M01": {
+      "before_lora": {
+        "utterances": 35,
+        "reference_words": 254,
+        "errors": 153,
+        "wer": 0.6023622047244095
+      },
+      "after_lora": {
+        "utterances": 35,
+        "reference_words": 254,
+        "errors": 147,
+        "wer": 0.5787401574803149
+      }
+    },
+    "M02": {
+      "before_lora": {
+        "utterances": 33,
+        "reference_words": 279,
+        "errors": 124,
+        "wer": 0.4444444444444444
+      },
+      "after_lora": {
+        "utterances": 33,
+        "reference_words": 279,
+        "errors": 106,
+        "wer": 0.37992831541218636
+      }
+    },
+    "M03": {
+      "before_lora": {
+        "utterances": 7,
+        "reference_words": 86,
+        "errors": 2,
+        "wer": 0.023255813953488372
+      },
+      "after_lora": {
+        "utterances": 7,
+        "reference_words": 86,
+        "errors": 2,
+        "wer": 0.023255813953488372
+      }
+    },
+    "M04": {
+      "before_lora": {
+        "utterances": 35,
+        "reference_words": 283,
+        "errors": 619,
+        "wer": 2.187279151943463
+      },
+      "after_lora": {
+        "utterances": 35,
+        "reference_words": 283,
+        "errors": 360,
+        "wer": 1.2720848056537102
+      }
+    },
+    "M05": {
+      "before_lora": {
+        "utterances": 35,
+        "reference_words": 235,
+        "errors": 80,
+        "wer": 0.3404255319148936
+      },
+      "after_lora": {
+        "utterances": 35,
+        "reference_words": 235,
+        "errors": 77,
+        "wer": 0.3276595744680851
+      }
+    }
+  },
+  "reference_note": "The user designated written prompts as project targets. Human-verified rows record optional clip-specific review decisions.",
+  "paired_delta_wer_after_minus_before": -0.18059987236758146,
+  "hierarchical_bootstrap_95pct": [
+    -0.6940429123351829,
+    0.06078388786415272
+  ]
+}

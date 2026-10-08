@@ -1,0 +1,17 @@
+{
+  "created_utc": "2026-09-28T16:35:59.034013+00:00",
+  "model_repo": "mlx-community/whisper-small.en-mlx",
+  "model_revision": "52a88bf6e98b114a210c21bb83e22d6e1505cb73",
+  "mlx_whisper_version": "0.4.3",
+  "manifest_sha256": "9e5a188daf9be0ede1d13fe9e29317bde5fb739262792dbefc2d887866c39395",
+  "decode": {
+    "language": "en",
+    "task": "transcribe",
+    "temperature": 0.0,
+    "condition_on_previous_text": false
+  },
+  "normalization": "NFKD ASCII, lowercase, remove apostrophes, tokenize contiguous a-z/0-9",
+  "audio_selection": "TORGO head microphone when valid; array microphone fallback",
+  "reference_type": "TORGO elicitation prompt, not independently corrected verbatim transcript",
+  "evaluation_scope": "all eligible TORGO speakers"
+}

@@ -1,0 +1,57 @@
+speaker,session,utterance_id,reference_words,errors,multiword,hypothesis
+F04,Session1,0005,1,1,False,feet
+F04,Session1,0007,1,1,False,sheaked
+F04,Session1,0045,1,1,False,break
+F04,Session1,0056,1,1,False,fit
+F04,Session1,0057,1,0,False,the
+F04,Session1,0062,1,0,False,yes
+F04,Session1,0063,12,0,True,giving those who observe him a pronounced feeling of the utmost respect.
+F04,Session1,0067,13,0,True,Twice each day he plays skillfully and with zest upon our small organ.
+F04,Session1,0070,1,0,False,feed
+F04,Session1,0078,1,0,False,rate
+F04,Session1,0091,12,2,True,"Except in the winter when they ose or snow or ice prevents,"
+F04,Session1,0092,12,0,True,"Except in the winter when the ooze or snow or ice prevents,"
+F04,Session1,0093,1,0,False,trade
+F04,Session1,0100,14,0,True,"When he speaks, his voice is just a bit cracked and quivers a trifle."
+F04,Session1,0105,1,0,False,tear
+F04,Session1,0107,1,0,False,stick
+F04,Session1,0120,8,0,True,A long flowing beard clings to his chin.
+F04,Session1,0134,1,0,False,Charlie
+F04,Session1,0155,1,0,False,near
+F04,Session1,0159,14,0,True,"If you destroy confidence in banks, you do something to the economy, he said."
+F04,Session1,0163,1,1,False,right
+F04,Session1,0165,1,0,False,no
+F04,Session1,0184,7,0,True,Two other cases also were under advisement.
+F04,Session1,0190,1,0,False,rock
+F04,Session2,0104,1,0,False,pit
+F04,Session2,0130,1,0,False,papa
+F04,Session2,0143,8,0,True,This is not a program of socialized medicine.
+F04,Session2,0151,1,1,False,kitchen
+F04,Session2,0160,1,0,False,him
+M03,Session2,0008,1,2,False,lead as it
+M03,Session2,0029,12,0,True,"Except in the winter when the ooze or snow or ice prevents,"
+M03,Session2,0035,1,0,False,trouble
+M03,Session2,0042,1,0,False,chair
+M03,Session2,0059,1,0,False,park
+M03,Session2,0066,1,0,False,beat
+M03,Session2,0096,13,0,True,Twice each day he plays skillfully and with zest upon our small organ.
+M03,Session2,0101,14,1,True,"When he speaks, his voice is just a bit crackled and quivers a trifle."
+M03,Session2,0127,1,0,False,urgent
+M03,Session2,0166,5,0,True,The islands are sparsely populated.
+M03,Session2,0190,1,0,False,sprinkle
+M03,Session2,0207,1,0,False,single
+M03,Session2,0230,1,0,False,explore
+M03,Session2,0235,1,0,False,boot
+M03,Session2,0236,1,0,False,fate
+M03,Session2,0240,1,0,False,pot
+M03,Session2,0244,14,1,True,"If you destroy confidence in banks, you do something in the economy, he said."
+M03,Session2,0245,14,0,True,"If you destroy confidence in banks, you do something to the economy, he said."
+M03,Session2,0247,1,0,False,play
+M03,Session2,0275,6,0,True,"Before Thursday's exam, review every formula."
+M03,Session2,0307,1,0,False,November
+M03,Session2,0325,1,1,False,lire
+M03,Session2,0326,1,1,False,layer
+M03,Session2,0334,1,0,False,league
+M03,Session2,0344,13,0,True,It also provides for funds to clear slums and help colleges build dormitories.
+M03,Session2,0382,1,0,False,hitting
+M03,Session2,0392,1,0,False,sink

@@ -1,0 +1,141 @@
+speaker,session,utterance_id,reference,stage,hypothesis,reference_words,substitutions,deletions,insertions
+F03,Session2,0079,thought,before_lora,It's not... It's not...,1,1,0,3
+F03,Session3,0151,ray,before_lora,Bye.,1,1,0,0
+F03,Session1,0140,steer,before_lora,steer,1,0,0,0
+F03,Session3,0131,rake,before_lora,Rake,1,0,0,0
+F03,Session3,0152,lock,before_lora,rock rock,1,1,0,1
+F03,Session1,0077,go,before_lora,Go.,1,0,0,0
+F03,Session3,0011,night,before_lora,night,1,0,0,0
+F03,Session3,0053,rise,before_lora,Run. Run.,1,1,0,1
+F03,Session2,0066,lick,before_lora,like,1,1,0,0
+F03,Session3,0037,bird,before_lora,bread bread,1,1,0,1
+F03,Session2,0073,sergeant,before_lora,Surgent,1,1,0,0
+F03,Session3,0060,chair,before_lora,ch,1,1,0,0
+F03,Session3,0176,select,before_lora,Select.,1,0,0,0
+F03,Session3,0194,hotel,before_lora,Hotel.,1,0,0,0
+F03,Session3,0210,sell,before_lora,So,1,1,0,0
+F03,Session3,0205,zip,before_lora,Tip.,1,1,0,0
+F03,Session2,0119,sigh,before_lora,die,1,1,0,0
+F03,Session1,0152,This was easy for us.,before_lora,This was easy for us.,5,0,0,0
+F03,Session2,0134,mitten,before_lora,I'm not a woman,1,1,0,3
+F03,Session2,0035,charlie,before_lora,Charlie,1,0,0,0
+F03,Session3,0034,dress,before_lora,Stress. Stress.,1,1,0,1
+F03,Session1,0181,sleep,before_lora,sweep,1,1,0,0
+F03,Session2,0123,spit,before_lora,split,1,1,0,0
+F03,Session3,0105,You can ride stagecoach.,before_lora,You can write obstacles.,4,2,0,0
+F03,Session3,0022,She doesn't like it to have,before_lora,She doesn't like it to have it.,6,0,0,1
+F03,Session2,0090,oscar,before_lora,Oscar. Oscar.,1,0,0,1
+F03,Session3,0052,He took me out one day.,before_lora,She took me out one day.,6,1,0,0
+F03,Session2,0078,written,before_lora,We reckon.,1,1,0,1
+F03,Session3,0108,best,before_lora,Best,1,0,0,0
+F03,Session2,0052,forward,before_lora,Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward. Forward.,1,0,0,23
+F03,Session1,0126,dug,before_lora,Doug,1,1,0,0
+F03,Session1,0174,Why yell or worry over silly items?,before_lora,Why y'all worry over silly items?,7,1,1,0
+F03,Session3,0121,The pair of shoes was new.,before_lora,The pair of shoes was new.,6,0,0,0
+F03,Session1,0161,mut,before_lora,mat,1,1,0,0
+F03,Session1,0009,goat,before_lora,goat,1,0,0,0
+M02,Session1,0149,shoot,before_lora,Shoot!,1,0,0,0
+M02,Session1,0193,though,before_lora,Go!,1,1,0,0
+M02,Session1,0078,sip,before_lora,See ya.,1,1,0,1
+M02,Session1,0215,I looked up and noticed two old men.,before_lora,I learned how to know this to what men.,8,6,0,1
+M02,Session1,0224,fate,before_lora,fake,1,1,0,0
+M02,Session1,0027,the,before_lora,law,1,1,0,0
+M02,Session1,0179,near,before_lora,dia,1,1,0,0
+M02,Session1,0132,loop,before_lora,loop loop,1,0,0,1
+M02,Session1,0016,fair,before_lora,FAIR,1,0,0,0
+M02,Session1,0068,floor,before_lora,So...,1,1,0,0
+M02,Session1,0207,suit,before_lora,soup,1,1,0,0
+M02,Session1,0060,slip,before_lora,since then.,1,1,0,1
+M02,Session1,0019,park,before_lora,Pollock,1,1,0,0
+M02,Session2,0203,fat,before_lora,Fill that. Fill that.,1,1,0,3
+M02,Session1,0178,shear,before_lora,Sheer,1,1,0,0
+M02,Session1,0021,bubble,before_lora,5 ball,1,1,0,1
+M02,Session1,0147,sway,before_lora,I swear you,1,1,0,2
+M02,Session1,0240,explore,before_lora,Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore. Explore.,1,0,0,23
+M02,Session1,0206,bear,before_lora,BAM,1,1,0,0
+M02,Session1,0065,no,before_lora,No. No.,1,0,0,1
+M02,Session1,0159,play,before_lora,Play,1,0,0,0
+M02,Session1,0225,bat,before_lora,but,1,1,0,0
+M02,Session2,0223,thorn,before_lora,Turing,1,1,0,0
+M02,Session1,0012,sip,before_lora,Sit.,1,1,0,0
+M02,Session1,0046,tear,before_lora,Tail,1,1,0,0
+M02,Session2,0173,city,before_lora,Sedding,1,1,0,0
+M02,Session1,0174,They carried me off on the stretcher.,before_lora,They gave me up on the structure.,7,3,0,0
+M02,Session1,0074,beat,before_lora,Be good,1,1,0,1
+M02,Session1,0170,pay,before_lora,Pay. Pay.,1,0,0,1
+M02,Session1,0048,chair,before_lora,Ciao,1,1,0,0
+M02,Session1,0057,lead,before_lora,Lead Lead,1,0,0,1
+M02,Session1,0211,forward,before_lora,Forward.,1,0,0,0
+M02,Session1,0064,knee,before_lora,Naniyo,1,1,0,0
+M02,Session1,0128,menu,before_lora,That's him.,1,1,0,1
+M02,Session1,0090,warm,before_lora,bone,1,1,0,0
+F03,Session2,0079,thought,after_lora,thought,1,0,0,0
+F03,Session3,0151,ray,after_lora,belly,1,1,0,0
+F03,Session1,0140,steer,after_lora,steer,1,0,0,0
+F03,Session3,0131,rake,after_lora,rake,1,0,0,0
+F03,Session3,0152,lock,after_lora,rock,1,1,0,0
+F03,Session1,0077,go,after_lora,go,1,0,0,0
+F03,Session3,0011,night,after_lora,night,1,0,0,0
+F03,Session3,0053,rise,after_lora,run,1,1,0,0
+F03,Session2,0066,lick,after_lora,lick,1,0,0,0
+F03,Session3,0037,bird,after_lora,bread,1,1,0,0
+F03,Session2,0073,sergeant,after_lora,surgent,1,1,0,0
+F03,Session3,0060,chair,after_lora,ch,1,1,0,0
+F03,Session3,0176,select,after_lora,select,1,0,0,0
+F03,Session3,0194,hotel,after_lora,hotel,1,0,0,0
+F03,Session3,0210,sell,after_lora,so,1,1,0,0
+F03,Session3,0205,zip,after_lora,tip,1,1,0,0
+F03,Session2,0119,sigh,after_lora,thy,1,1,0,0
+F03,Session1,0152,This was easy for us.,after_lora,this was easy for us,5,0,0,0
+F03,Session2,0134,mitten,after_lora,mation,1,1,0,0
+F03,Session2,0035,charlie,after_lora,chirly,1,1,0,0
+F03,Session3,0034,dress,after_lora,stress,1,1,0,0
+F03,Session1,0181,sleep,after_lora,sweep,1,1,0,0
+F03,Session2,0123,spit,after_lora,split,1,1,0,0
+F03,Session3,0105,You can ride stagecoach.,after_lora,you can write articles,4,2,0,0
+F03,Session3,0022,She doesn't like it to have,after_lora,she doesnt like it to have it,6,0,0,1
+F03,Session2,0090,oscar,after_lora,oscar,1,0,0,0
+F03,Session3,0052,He took me out one day.,after_lora,she took me out one day,6,1,0,0
+F03,Session2,0078,written,after_lora,wrecking,1,1,0,0
+F03,Session3,0108,best,after_lora,best,1,0,0,0
+F03,Session2,0052,forward,after_lora,forward,1,0,0,0
+F03,Session1,0126,dug,after_lora,dug,1,0,0,0
+F03,Session1,0174,Why yell or worry over silly items?,after_lora,why yall worry over silly items,7,1,1,0
+F03,Session3,0121,The pair of shoes was new.,after_lora,the pair of shoes was new,6,0,0,0
+F03,Session1,0161,mut,after_lora,mock,1,1,0,0
+F03,Session1,0009,goat,after_lora,goat,1,0,0,0
+M02,Session1,0149,shoot,after_lora,shoot,1,0,0,0
+M02,Session1,0193,though,after_lora,go,1,1,0,0
+M02,Session1,0078,sip,after_lora,ship,1,1,0,0
+M02,Session1,0215,I looked up and noticed two old men.,after_lora,i like that the know this to what men,8,6,0,1
+M02,Session1,0224,fate,after_lora,fake,1,1,0,0
+M02,Session1,0027,the,after_lora,law,1,1,0,0
+M02,Session1,0179,near,after_lora,knee,1,1,0,0
+M02,Session1,0132,loop,after_lora,loop,1,0,0,0
+M02,Session1,0016,fair,after_lora,fail,1,1,0,0
+M02,Session1,0068,floor,after_lora,saw,1,1,0,0
+M02,Session1,0207,suit,after_lora,soup,1,1,0,0
+M02,Session1,0060,slip,after_lora,sintlight,1,1,0,0
+M02,Session1,0019,park,after_lora,polic,1,1,0,0
+M02,Session2,0203,fat,after_lora,fill that,1,1,0,1
+M02,Session1,0178,shear,after_lora,shear,1,0,0,0
+M02,Session1,0021,bubble,after_lora,fiveball,1,1,0,0
+M02,Session1,0147,sway,after_lora,sway,1,0,0,0
+M02,Session1,0240,explore,after_lora,explore,1,0,0,0
+M02,Session1,0206,bear,after_lora,bear,1,0,0,0
+M02,Session1,0065,no,after_lora,knows,1,1,0,0
+M02,Session1,0159,play,after_lora,play,1,0,0,0
+M02,Session1,0225,bat,after_lora,spot,1,1,0,0
+M02,Session2,0223,thorn,after_lora,toy,1,1,0,0
+M02,Session1,0012,sip,after_lora,sip,1,0,0,0
+M02,Session1,0046,tear,after_lora,tail,1,1,0,0
+M02,Session2,0173,city,after_lora,sadie,1,1,0,0
+M02,Session1,0174,They carried me off on the stretcher.,after_lora,they gave me up on the stretcher,7,2,0,0
+M02,Session1,0074,beat,after_lora,bend,1,1,0,0
+M02,Session1,0170,pay,after_lora,pay,1,0,0,0
+M02,Session1,0048,chair,after_lora,chair,1,0,0,0
+M02,Session1,0057,lead,after_lora,seed,1,1,0,0
+M02,Session1,0211,forward,after_lora,forward,1,0,0,0
+M02,Session1,0064,knee,after_lora,naniu,1,1,0,0
+M02,Session1,0128,menu,after_lora,blessing,1,1,0,0
+M02,Session1,0090,warm,after_lora,bone,1,1,0,0

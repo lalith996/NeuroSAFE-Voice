@@ -1,0 +1,12 @@
+{
+  "synthetic_fixture_count": 26,
+  "fixture_intent_correct": 26,
+  "fixture_safe_without_confidence": 26,
+  "high_risk_voice_confirmation_blocked": true,
+  "explicit_confirmation_simulation_only": true,
+  "torgo_noncommand_hypotheses_checked": 187,
+  "accidental_intent_matches": 0,
+  "core_latency_median_ms": 0.0027919886633753777,
+  "core_latency_p95_ms": 0.004749977961182594,
+  "scope": "synthetic text and negative controls only; no ASR-to-intent or real action accuracy claim"
+}

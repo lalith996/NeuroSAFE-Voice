@@ -1,0 +1,375 @@
+fold,speaker,session,utterance_id,duration_seconds,stage,scoring_target,target_status,hypothesis,reference_words,substitutions,deletions,insertions
+0,F01,Session1,0008,9.84375,before_lora,"Except in the winter when the ooze or snow or ice prevents,",project_prompt_target,and stuff in the rain. The rules also for ice prevent.,12,6,2,1
+0,F01,Session1,0014,6.56244,before_lora,he slowly takes a short walk in the open air each day.,project_prompt_target,He slowly kicks a slight walk in the open area again.,12,4,1,0
+0,F01,Session1,0032,7.56687,before_lora,She had your dark suit in greasy wash water all year.,project_prompt_target,She has even got to an increasingly small audience.,11,8,2,0
+0,F01,Session1,0035,12.42163,before_lora,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target,"I remember him, who abused him, putting him, doing him, and, oh, the animals, this thing.",12,9,0,4
+0,F01,Session1,0036,6.31931,before_lora,"We have often urged him to walk more and smoke less,",project_prompt_target,We have a lot of children who can be loved more slowly and smoke less.,11,5,0,4
+0,F01,Session1,0116,9.807,before_lora,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target,"When he's in the game, he plays skillful and wins the best upon a small organ.",13,7,0,3
+0,F01,Session1,0126,6.24081,before_lora,"he dresses himself in an ancient black frock coat,",project_prompt_target,He grasps himself in an ancient black box.,9,2,1,0
+0,F01,Session1,0132,9.16313,before_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"When he speaks, his voice is just a bit cracked and he moves just a bit careful.",14,2,0,3
+0,M01,Session2_3,0013,7.86256,before_lora,The quick brown fox jumps over the lazy dog.,project_prompt_target,Take quick brown fox jumps over the lady dog.,9,2,0,0
+0,M01,Session2_3,0042,8.73387,before_lora,The islands are sparsely populated.,project_prompt_target,The island is... for the population.,5,4,0,1
+0,M01,Session2_3,0043,7.49619,before_lora,Both figures would go higher in later years.,project_prompt_target,but bigger ones got higher in later years.,8,4,0,0
+0,M01,Session2_3,0045,7.42131,before_lora,One validated acts of school districts.,project_prompt_target,one validated act of school district.,6,2,0,0
+0,M01,Session2_3,0056,7.00425,before_lora,Are your grades higher or lower than Nancy's?,project_prompt_target,"Are your great ire, or lower than Nancy?",8,3,0,0
+0,M01,Session2_3,0066,11.749,before_lora,Two other cases also were under advisement.,project_prompt_target,to other cases all over under an advisement.,7,3,0,1
+0,M01,Session2_3,0084,7.45181,before_lora,Jane may earn more money by working hard.,project_prompt_target,Jane may earn more money by working hard.,8,0,0,0
+0,M01,Session2_3,0095,6.53525,before_lora,I scrubbed the floors thoroughly.,project_prompt_target,I... scrub the floor... thoroughly.,5,2,0,0
+0,M01,Session2_3,0109,8.04194,before_lora,You'd be better off taking a cold shower.,project_prompt_target,You'd be better off taking the cold shower.,8,1,0,0
+0,M01,Session2_3,0113,7.68406,before_lora,Nothing is as offensive as innocence.,project_prompt_target,Nothing is as offensive as anything.,6,1,0,0
+0,M01,Session2_3,0117,6.81775,before_lora,Bright sunshine shimmers on the ocean.,project_prompt_target,"bright and rain, shimmers and oranges.",6,5,0,0
+0,M01,Session2_3,0121,6.66706,before_lora,All the big baseball players get traded.,project_prompt_target,All the big baseball players can train.,7,2,0,0
+0,M01,Session2_3,0125,6.02894,before_lora,My sister made the flowered curtains.,project_prompt_target,"My little baby, the flower curtain.",6,4,0,0
+0,M01,Session2_3,0127,6.26537,before_lora,Why yell or worry over silly items?,project_prompt_target,"Why, yeah, or worry, I'm......silly, I do.",7,3,0,1
+0,M01,Session2_3,0129,7.86125,before_lora,The train approached the depot slowly.,project_prompt_target,Then drain a product. The boy dying.,6,5,0,1
+0,M01,Session2_3,0132,7.152,before_lora,They carried me off on the stretcher.,project_prompt_target,"They carried me up and under, stretching.",7,4,0,0
+0,M01,Session2_3,0146,6.81319,before_lora,"Everything went real smooth, the sheriff said.",project_prompt_target,Everything went real smooth the year of the end.,7,2,0,2
+0,M01,Session2_3,0159,12.08081,before_lora,This is not a program of socialized medicine.,project_prompt_target,Did you plan a program of getting the time over again? Sorry.,8,5,0,4
+0,M01,Session2_3,0160,6.79219,before_lora,This is not a program of socialized medicine.,project_prompt_target,This is not a program of law that I've been doing.,8,2,0,3
+0,M01,Session2_3,0165,15.70813,before_lora,It also provides for funds to clear slums and help colleges build dormitories.,project_prompt_target,It also provides for fun to create some and help college students.,13,5,1,0
+0,M01,Session2_3,0167,6.23487,before_lora,Alimony harms a divorced man's wealth.,project_prompt_target,and I'm only armed in the environment well.,6,6,0,2
+0,M01,Session2_3,0174,6.60288,before_lora,The dolphins swam around our boat.,project_prompt_target,the end of it. Swam around our boat.,6,1,0,2
+0,M01,Session2_3,0177,6.59237,before_lora,Day after day some new episode is reported.,project_prompt_target,They have their day revenue and they are in reporting.,8,7,0,2
+0,M01,Session2_3,0179,8.63213,before_lora,It eventually became a rather proud claim.,project_prompt_target,It eventually became a rather proud thing.,7,1,0,0
+0,M01,Session2_3,0181,13.51531,before_lora,He further proposed grants of an unspecified sum for experimental hospitals.,project_prompt_target,is very powerful and effective for experimental laboratories.,11,6,3,0
+0,M01,Session2_3,0185,6.10475,before_lora,The misguided souls have lost their way.,project_prompt_target,That means the guy did the wrong thing. I do it.,7,6,0,4
+0,M01,Session2_3,0188,9.84269,before_lora,Aluminum silverware can often be flimsy.,project_prompt_target,aluminum everywhere can also be family.,6,3,0,0
+0,M01,Session2_3,0191,12.89506,before_lora,Nothing has been done yet to take advantage of the enabling legislation.,project_prompt_target,Nothing has been done yet to take advantage of the inability of the two eating.,12,2,0,3
+0,M01,Session2_3,0202,7.29631,before_lora,This is a period of transition for me.,project_prompt_target,Did it a barrier of transiting for me?,8,4,0,0
+0,M01,Session2_3,0205,7.52481,before_lora,"If you are losing water, replace it immediately.",project_prompt_target,If you are doing what we play this immediately.,8,4,0,1
+0,M01,Session2_3,0206,9.66313,before_lora,"When all else fails, use force.",project_prompt_target,When I always say I'm human force.,6,4,0,1
+0,M01,Session2_3,0232,8.10325,before_lora,"Before Thursday's exam, review every formula.",project_prompt_target,people are there to get help and review every formula.,6,3,0,4
+0,M01,Session2_3,0235,7.25894,before_lora,The museum hires musicians every evening.,project_prompt_target,than you and I. You eat in every evening.,6,4,0,3
+0,M01,Session2_3,0240,6.35369,before_lora,The job provides many benefits.,project_prompt_target,"The job provides money, benefits.",5,1,0,0
+0,M01,Session2_3,0278,6.50769,before_lora,Both injuries were to the same leg.,project_prompt_target,both injuries or do the same thing.,7,3,0,0
+0,F01,Session1,0008,9.84375,after_lora,"Except in the winter when the ooze or snow or ice prevents,",project_prompt_target,I'm stuck in the rain. The rules also allow for rain.,12,7,2,1
+0,F01,Session1,0014,6.56244,after_lora,he slowly takes a short walk in the open air each day.,project_prompt_target,He slowly kicks a slight walk in the open area again.,12,4,1,0
+0,F01,Session1,0032,7.56687,after_lora,She had your dark suit in greasy wash water all year.,project_prompt_target,She has even got to an increasingly small audience.,11,8,2,0
+0,F01,Session1,0035,12.42163,after_lora,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target,I remember who abused him from his feelings in the almost-less manner.,12,9,0,1
+0,F01,Session1,0036,6.31931,after_lora,"We have often urged him to walk more and smoke less,",project_prompt_target,We have a lot of children who can walk more slowly and smoke less.,11,4,0,3
+0,F01,Session1,0116,9.807,after_lora,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target,"When he's an Indian, he plays skillful and wins the best upon a small organ.",13,7,0,2
+0,F01,Session1,0126,6.24081,after_lora,"he dresses himself in an ancient black frock coat,",project_prompt_target,He grishes himself in a drinking water bottle.,9,5,1,0
+0,F01,Session1,0132,9.16313,after_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"When he speaks, his voice is just a bit cracked and he moves just a bit careful.",14,2,0,3
+0,M01,Session2_3,0013,7.86256,after_lora,The quick brown fox jumps over the lazy dog.,project_prompt_target,Take quick brown fox jumps over the lazy dog.,9,1,0,0
+0,M01,Session2_3,0042,8.73387,after_lora,The islands are sparsely populated.,project_prompt_target,The islands are far too popular.,5,2,0,1
+0,M01,Session2_3,0043,7.49619,after_lora,Both figures would go higher in later years.,project_prompt_target,Boys bigger with coal iron in later years.,8,5,0,0
+0,M01,Session2_3,0045,7.42131,after_lora,One validated acts of school districts.,project_prompt_target,one validated act of school district.,6,2,0,0
+0,M01,Session2_3,0056,7.00425,after_lora,Are your grades higher or lower than Nancy's?,project_prompt_target,are your great ire or lower than empty.,8,3,0,0
+0,M01,Session2_3,0066,11.749,after_lora,Two other cases also were under advisement.,project_prompt_target,"to other kids, or lower, under an advisement.",7,4,0,1
+0,M01,Session2_3,0084,7.45181,after_lora,Jane may earn more money by working hard.,project_prompt_target,Jane may earn more money by working hard.,8,0,0,0
+0,M01,Session2_3,0095,6.53525,after_lora,I scrubbed the floors thoroughly.,project_prompt_target,I scrub the floor thoroughly.,5,2,0,0
+0,M01,Session2_3,0109,8.04194,after_lora,You'd be better off taking a cold shower.,project_prompt_target,youth be better off taking a cold shower.,8,1,0,0
+0,M01,Session2_3,0113,7.68406,after_lora,Nothing is as offensive as innocence.,project_prompt_target,Mazing is as a vendor for you.,6,4,0,1
+0,M01,Session2_3,0117,6.81775,after_lora,Bright sunshine shimmers on the ocean.,project_prompt_target,"bride and rain, shimmer and ocean.",6,5,0,0
+0,M01,Session2_3,0121,6.66706,after_lora,All the big baseball players get traded.,project_prompt_target,All the big baseball players can train.,7,2,0,0
+0,M01,Session2_3,0125,6.02894,after_lora,My sister made the flowered curtains.,project_prompt_target,"my little baby, the flower curtain.",6,4,0,0
+0,M01,Session2_3,0127,6.26537,after_lora,Why yell or worry over silly items?,project_prompt_target,Why yell or worry of silly items?,7,1,0,0
+0,M01,Session2_3,0129,7.86125,after_lora,The train approached the depot slowly.,project_prompt_target,then drain a product.,6,4,2,0
+0,M01,Session2_3,0132,7.152,after_lora,They carried me off on the stretcher.,project_prompt_target,"They carried me up and under, stretching.",7,4,0,0
+0,M01,Session2_3,0146,6.81319,after_lora,"Everything went real smooth, the sheriff said.",project_prompt_target,"Everything went real smooth, the air of the end.",7,2,0,2
+0,M01,Session2_3,0159,12.08081,after_lora,This is not a program of socialized medicine.,project_prompt_target,Didn't have a program of getting the time over again.,8,4,1,3
+0,M01,Session2_3,0160,6.79219,after_lora,This is not a program of socialized medicine.,project_prompt_target,They did not have program of law that I may deserve.,8,5,0,3
+0,M01,Session2_3,0165,15.70813,after_lora,It also provides for funds to clear slums and help colleges build dormitories.,project_prompt_target,It also provides for fun to create young and old colleges.,13,4,2,0
+0,M01,Session2_3,0167,6.23487,after_lora,Alimony harms a divorced man's wealth.,project_prompt_target,Elimony are a department world.,6,4,1,0
+0,M01,Session2_3,0174,6.60288,after_lora,The dolphins swam around our boat.,project_prompt_target,they don't swim around our boat.,6,3,0,0
+0,M01,Session2_3,0177,6.59237,after_lora,Day after day some new episode is reported.,project_prompt_target,They have their day revenue and the jobs in reporting.,8,7,0,2
+0,M01,Session2_3,0179,8.63213,after_lora,It eventually became a rather proud claim.,project_prompt_target,It eventually became a rather proud thing.,7,1,0,0
+0,M01,Session2_3,0181,13.51531,after_lora,He further proposed grants of an unspecified sum for experimental hospitals.,project_prompt_target,eaters propose grandeur and benefits some for experimental advertising.,11,7,2,0
+0,M01,Session2_3,0185,6.10475,after_lora,The misguided souls have lost their way.,project_prompt_target,Amigae did not have a lighter weight.,7,6,0,0
+0,M01,Session2_3,0188,9.84269,after_lora,Aluminum silverware can often be flimsy.,project_prompt_target,Aluminum everywhere can also be f fanny.,6,3,0,1
+0,M01,Session2_3,0191,12.89506,after_lora,Nothing has been done yet to take advantage of the enabling legislation.,project_prompt_target,Nothing has been done yet to take advantage of the inability of the two eating.,12,2,0,3
+0,M01,Session2_3,0202,7.29631,after_lora,This is a period of transition for me.,project_prompt_target,Did it a barrier of transient for me?,8,4,0,0
+0,M01,Session2_3,0205,7.52481,after_lora,"If you are losing water, replace it immediately.",project_prompt_target,If you are doing water replacement immediately.,8,2,1,0
+0,M01,Session2_3,0206,9.66313,after_lora,"When all else fails, use force.",project_prompt_target,windout always builds huge force.,6,4,1,0
+0,M01,Session2_3,0232,8.10325,after_lora,"Before Thursday's exam, review every formula.",project_prompt_target,"they pour their days again, they view every formula.",6,4,0,3
+0,M01,Session2_3,0235,7.25894,after_lora,The museum hires musicians every evening.,project_prompt_target,"The beauty of art, beauty in every evening.",6,3,0,2
+0,M01,Session2_3,0240,6.35369,after_lora,The job provides many benefits.,project_prompt_target,"The job provides money, benefits,",5,1,0,0
+0,M01,Session2_3,0278,6.50769,after_lora,Both injuries were to the same leg.,project_prompt_target,go with injuries or do the same thing.,7,4,0,1
+1,F03,Session1,0024,9.97325,before_lora,Twice each day he plays skillfully and with zest upon our little organ.,project_prompt_target,Christ each day he plays skillfully and with thus upon our little organ,13,2,0,0
+1,F03,Session1,0025,10.15881,before_lora,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target,Twice each day he plays skillfully and was zest upon our small organ.,13,1,0,0
+1,F03,Session1,0028,8.90638,before_lora,"We have often urged him to walk more and smoke less,",project_prompt_target,We have often urged him to walk more and smoke less.,11,0,0,0
+1,F03,Session1,0030,8.25694,before_lora,Except in the winter when the ozone or snow or ice prevents.,project_prompt_target,except in the winter when the ozone or snow or ice prevents.,12,0,0,0
+1,F03,Session1,0031,8.11775,before_lora,"Except in the winter when the ooze or snow or ice prevents,",project_prompt_target,except in the winter when the ooze or snow or ice prevents.,12,0,0,0
+1,F03,Session1,0070,10.80025,before_lora,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target,giving those who observe him pronounced feeling of the utmost respect.,12,0,1,0
+1,F03,Session1,0072,7.42344,before_lora,he slowly takes a short walk in the open air each day.,project_prompt_target,He slowly takes a short walk in the open air each day.,12,0,0,0
+1,F03,Session1,0095,6.41875,before_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"When he speaks, his voice is just a bit cracked and it covers and a truffle.",14,2,0,2
+1,F03,Session2,0006,14.11006,before_lora,"If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target,"If you destroy confidence in banks, you do something to the economy,"" he said.",14,0,0,0
+1,F03,Session2,0007,9.255,before_lora,"If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target,"If you destroy confidence in banks, you do something to the economy.",14,0,2,0
+1,F03,Session2,0020,6.66506,before_lora,The islands are sparsely populated.,project_prompt_target,The islands are spiritually populated.,5,1,0,0
+1,F03,Session2,0021,6.135,before_lora,Bright sunshine shimmers on the ocean.,project_prompt_target,Bright sunshine shimmers on the ocean.,6,0,0,0
+1,F03,Session2,0029,8.09,before_lora,"Everything went real smooth, the sheriff said.",project_prompt_target,"Everything that Rios missed, the shirt stuck.",7,5,0,0
+1,F03,Session2,0037,6.775,before_lora,Both figures would go higher in later years.,project_prompt_target,Both figures would go higher in later years.,8,0,0,0
+1,F03,Session2,0054,9.92506,before_lora,Mother sews yellow,project_prompt_target,Mother Sells Yellow.,3,1,0,0
+1,F03,Session2,0063,6.32,before_lora,Day after day some new episode is reported.,project_prompt_target,Day after day some new episodes are reported.,8,2,0,0
+1,F03,Session2,0088,7.355,before_lora,part,project_prompt_target,Part,1,0,0,0
+1,F03,Session2,0098,6.12,before_lora,The museum hires musicians every evening.,project_prompt_target,The museum hires musicians every evening.,6,0,0,0
+1,F03,Session2,0101,10.225,before_lora,Alimony harms a divorced man's wealth.,project_prompt_target,Alimony harms a divorced man's wealth.,6,0,0,0
+1,F03,Session2,0118,7.665,before_lora,Nothing has been done yet to take advantage of the enabling legislation.,project_prompt_target,Nothing has been done yet to take advantage of the enabling legislation.,12,0,0,0
+1,F03,Session2,0133,9.59,before_lora,It eventually became a rather proud claim.,project_prompt_target,"It eventually became a rather hard, proud claim.",7,0,0,1
+1,F03,Session3,0038,6.82506,before_lora,Some hotels are available nearby.,project_prompt_target,Some hotels are available nearby.,5,0,0,0
+1,F03,Session3,0047,7.4,before_lora,It also provides for funds to clear slums and help colleges build dormitories.,project_prompt_target,It also provides funds to kill slums and help colleges about dormitories.,13,2,1,0
+1,F03,Session3,0153,7.045,before_lora,He further proposed grants of an unspecified sum for experimental hospitals.,project_prompt_target,He further proposed grant of an unspecified sum for experimental hospital.,11,2,0,0
+1,F03,Session3,0209,7.05,before_lora,He further proposed grants of an unspecified sum for experimental hospitals.,project_prompt_target,He further proposed grants of an unspecified thumb for experimental hospitals.,11,1,0,0
+1,M02,Session1,0020,7.99069,before_lora,Grandfather likes to be modern in his language.,project_prompt_target,God has a life to be smarter in his language.,8,3,0,2
+1,M02,Session1,0023,8.0395,before_lora,"Well, he is nearly ninety-three years old;",project_prompt_target,"Well, he is nearly 93 years old.",8,1,1,0
+1,M02,Session1,0034,12.92381,before_lora,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target,giving those who are saving a financial length of God must respect.,12,6,0,0
+1,M02,Session1,0044,10.12019,before_lora,"he dresses himself in an ancient black frock coat,",project_prompt_target,He dresses himself in an ancient black rock coat.,9,1,0,0
+1,M02,Session1,0055,9.53406,before_lora,She had your dark suit in greasy wash water all year.,project_prompt_target,She had the adoption in Crazy Wise Father all year.,11,5,1,0
+1,M02,Session1,0062,14.08981,before_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"When he speaks his voices just a bit crying and the criest like trifle,",14,4,1,1
+1,M02,Session1,0066,7.60469,before_lora,yet he still thinks as swiftly as ever.,project_prompt_target,Yet he still thinks that's as wobbly as ever.,8,1,0,1
+1,M02,Session1,0071,8.58906,before_lora,"We have often urged him to walk more and smoke less,",project_prompt_target,We have all the news to watch more and smoke glass.,11,5,0,0
+1,M02,Session1,0080,9.82425,before_lora,he slowly takes a short walk in the open air each day.,project_prompt_target,She slowly takes a short walk in the open air each day.,12,1,0,0
+1,M02,Session1,0092,11.63862,before_lora,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target,Tracey Stacey plays carefully and results upon a small organ.,13,5,3,0
+1,M02,Session1,0098,9.20344,before_lora,"A long, flowing beard clings to his chin,",project_prompt_target,a long following would be a thing to withstand.,8,6,0,1
+1,M02,Session1,0106,8.13719,before_lora,Don't ask me to carry an oily rag like that.,project_prompt_target,Don't ask me to carry on. I'll see you next time.,10,5,0,1
+1,M02,Session1,0115,13.69288,before_lora,"Except in the winter when the ooze or snow or ice prevents,",project_prompt_target,"Accept the window, accepting the window when the rules of snow or ice prevent.",12,6,0,2
+1,M02,Session1,0117,8.67025,before_lora,The quick brown fox jumps over the lazy dog.,project_prompt_target,The group round fox jumps over the lazy dog.,9,2,0,0
+1,M02,Session1,0118,8.13712,before_lora,"but he always answers, ""Banana oil!""",project_prompt_target,but the average answer is banana oil.,6,3,0,1
+1,M02,Session1,0121,6.42556,before_lora,You wished to know all about my grandfather.,project_prompt_target,"She wished to know all of them, my grandfather.",8,2,0,1
+1,M02,Session1,0127,6.70613,before_lora,Both figures would go higher in later years.,project_prompt_target,false figures were gone in later years.,8,3,1,0
+1,M02,Session1,0130,6.28525,before_lora,I tried to tell people in the community.,project_prompt_target,I try to tell people in the community.,8,1,0,0
+1,M02,Session1,0135,7.46375,before_lora,Why yell or worry over silly items?,project_prompt_target,Why have I worry of silly items?,7,3,0,0
+1,M02,Session1,0137,8.83863,before_lora,"Everything went real smooth, the sheriff said.",project_prompt_target,"Everything went real smooth, the sheriff said.",7,0,0,0
+1,M02,Session1,0150,7.46375,before_lora,Are your grades higher or lower than Nancy's?,project_prompt_target,Are you grades higher or lower than Nancy's?,8,1,0,0
+1,M02,Session1,0152,7.2465,before_lora,You'd be better off taking a cold shower.,project_prompt_target,You'd be better off taking a cold shower.,8,0,0,0
+1,M02,Session1,0154,7.70419,before_lora,The islands are sparsely populated.,project_prompt_target,The islands are expressly populated.,5,1,0,0
+1,M02,Session1,0168,12.586,before_lora,"If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target,"If you destroy confidence in things, you do something to the economy,"" he said.",14,1,0,0
+1,M02,Session1,0169,6.94137,before_lora,All the big baseball players get traded.,project_prompt_target,I was a big big spot player to get traded.,7,4,0,3
+1,M02,Session1,0172,6.50913,before_lora,I can play this weekend.,project_prompt_target,I can play this weekend.,5,0,0,0
+1,M02,Session1,0183,6.56,before_lora,Bright sunshine shimmers on the ocean.,project_prompt_target,Price and James and the option.,6,5,0,0
+1,M02,Session1,0197,7.27194,before_lora,Nothing is as offensive as ignorance,project_prompt_target,Nothing is as expensive as ignorance.,6,1,0,0
+1,M02,Session1,0198,6.89056,before_lora,Nothing is as offensive as innocence.,project_prompt_target,Nothing has been to bad in this sense.,6,5,0,2
+1,M02,Session1,0222,8.23287,before_lora,One validated acts of school districts.,project_prompt_target,One violent day that I was just schooled this through.,6,5,0,4
+1,M02,Session1,0226,7.76931,before_lora,Mother sews yellow gingham aprons.,project_prompt_target,Mother Saws Yellow King and Prince,5,3,0,1
+1,M02,Session1,0232,6.66575,before_lora,Jane may earn more money by working hard.,project_prompt_target,James made up more money by working hard.,8,3,0,0
+1,M02,Session1,0238,6.46713,before_lora,The train approached the depot slowly.,project_prompt_target,The train of arms can do both slowly.,6,3,0,2
+1,F03,Session1,0024,9.97325,after_lora,Twice each day he plays skillfully and with zest upon our little organ.,project_prompt_target,Toys each day he plays skillfully and with thus upon our little organ,13,2,0,0
+1,F03,Session1,0025,10.15881,after_lora,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target,Twice each day he plays skillfully and was set upon a small organ.,13,3,0,0
+1,F03,Session1,0028,8.90638,after_lora,"We have often urged him to walk more and smoke less,",project_prompt_target,We have often urged him to walk more and smoke less.,11,0,0,0
+1,F03,Session1,0030,8.25694,after_lora,Except in the winter when the ozone or snow or ice prevents.,project_prompt_target,except in the winter when the ozone or snow or ice prevents.,12,0,0,0
+1,F03,Session1,0031,8.11775,after_lora,"Except in the winter when the ooze or snow or ice prevents,",project_prompt_target,except in the winter when the ooze or snow or ice prevents.,12,0,0,0
+1,F03,Session1,0070,10.80025,after_lora,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target,giving those who observe him pronounced feeling of the utmost respect.,12,0,1,0
+1,F03,Session1,0072,7.42344,after_lora,he slowly takes a short walk in the open air each day.,project_prompt_target,He slowly takes a short walk in the open air each day.,12,0,0,0
+1,F03,Session1,0095,6.41875,after_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"When he speaks, his voice is just a bit cracked, and it pervers on the truffle.",14,3,0,2
+1,F03,Session2,0006,14.11006,after_lora,"If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target,"If you destroy confidence in banks, you do something to the economy,"" he said.",14,0,0,0
+1,F03,Session2,0007,9.255,after_lora,"If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target,"If you destroy confidence in banks, you do something to the economy.",14,0,2,0
+1,F03,Session2,0020,6.66506,after_lora,The islands are sparsely populated.,project_prompt_target,The islands are spiritually populated.,5,1,0,0
+1,F03,Session2,0021,6.135,after_lora,Bright sunshine shimmers on the ocean.,project_prompt_target,Bright sunshine shimmers on the ocean.,6,0,0,0
+1,F03,Session2,0029,8.09,after_lora,"Everything went real smooth, the sheriff said.",project_prompt_target,Everything that reels with the shirt starts.,7,5,0,0
+1,F03,Session2,0037,6.775,after_lora,Both figures would go higher in later years.,project_prompt_target,Both figures will go higher in later years.,8,1,0,0
+1,F03,Session2,0054,9.92506,after_lora,Mother sews yellow,project_prompt_target,Mother sells yellow...,3,1,0,0
+1,F03,Session2,0063,6.32,after_lora,Day after day some new episode is reported.,project_prompt_target,Day after day is some new episode is reported.,8,0,0,1
+1,F03,Session2,0088,7.355,after_lora,part,project_prompt_target,part,1,0,0,0
+1,F03,Session2,0098,6.12,after_lora,The museum hires musicians every evening.,project_prompt_target,The museum hires musicians every evening.,6,0,0,0
+1,F03,Session2,0101,10.225,after_lora,Alimony harms a divorced man's wealth.,project_prompt_target,Alimony harms a divorced man's wealth.,6,0,0,0
+1,F03,Session2,0118,7.665,after_lora,Nothing has been done yet to take advantage of the enabling legislation.,project_prompt_target,Nothing has been done yet to take advantage of the enabling legislation.,12,0,0,0
+1,F03,Session2,0133,9.59,after_lora,It eventually became a rather proud claim.,project_prompt_target,It eventually became a rather proud claim.,7,0,0,0
+1,F03,Session3,0038,6.82506,after_lora,Some hotels are available nearby.,project_prompt_target,Some hotels are available nearby.,5,0,0,0
+1,F03,Session3,0047,7.4,after_lora,It also provides for funds to clear slums and help colleges build dormitories.,project_prompt_target,It also provides funds to kill slums and help colleges about dormitories.,13,2,1,0
+1,F03,Session3,0153,7.045,after_lora,He further proposed grants of an unspecified sum for experimental hospitals.,project_prompt_target,He provides a proposed grant of an unspecified sum for experimental hospital.,11,3,0,1
+1,F03,Session3,0209,7.05,after_lora,He further proposed grants of an unspecified sum for experimental hospitals.,project_prompt_target,He further proposed grants of an unspecified thumb for experimental hospitals.,11,1,0,0
+1,M02,Session1,0020,7.99069,after_lora,Grandfather likes to be modern in his language.,project_prompt_target,God causes us to be smarter in his language.,8,3,0,1
+1,M02,Session1,0023,8.0395,after_lora,"Well, he is nearly ninety-three years old;",project_prompt_target,Malfie is nearly 93 years old.,8,2,2,0
+1,M02,Session1,0034,12.92381,after_lora,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target,giving those who are saving a financial length of God most respect.,12,6,0,0
+1,M02,Session1,0044,10.12019,after_lora,"he dresses himself in an ancient black frock coat,",project_prompt_target,He dresses himself in an ancient black rock coat.,9,1,0,0
+1,M02,Session1,0055,9.53406,after_lora,She had your dark suit in greasy wash water all year.,project_prompt_target,She had the adoption in Grisha's father all year.,11,4,2,0
+1,M02,Session1,0062,14.08981,after_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"When he speaks, his voice is just a bit crying and the crib is like trifle.",14,3,0,2
+1,M02,Session1,0066,7.60469,after_lora,yet he still thinks as swiftly as ever.,project_prompt_target,Yet he still thinks that swiftly as ever.,8,1,0,0
+1,M02,Session1,0071,8.58906,after_lora,"We have often urged him to walk more and smoke less,",project_prompt_target,We have often had time to walk more and smoke glass.,11,3,0,0
+1,M02,Session1,0080,9.82425,after_lora,he slowly takes a short walk in the open air each day.,project_prompt_target,She slowly takes a short walk in the open air each day.,12,1,0,0
+1,M02,Session1,0092,11.63862,after_lora,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target,Tracy stays in place carefully and results upon a small organ.,13,7,2,0
+1,M02,Session1,0098,9.20344,after_lora,"A long, flowing beard clings to his chin,",project_prompt_target,a long-following spirit clings to its chin.,8,3,0,0
+1,M02,Session1,0106,8.13719,after_lora,Don't ask me to carry an oily rag like that.,project_prompt_target,Don't ask me to carry on. I'll see you next week.,10,5,0,1
+1,M02,Session1,0115,13.69288,after_lora,"Except in the winter when the ooze or snow or ice prevents,",project_prompt_target,Accept the window when the roots of snow or ice prevent.,12,5,1,0
+1,M02,Session1,0117,8.67025,after_lora,The quick brown fox jumps over the lazy dog.,project_prompt_target,The group's round fox turns over the lazy dog.,9,3,0,0
+1,M02,Session1,0118,8.13712,after_lora,"but he always answers, ""Banana oil!""",project_prompt_target,banana oil,6,0,4,0
+1,M02,Session1,0121,6.42556,after_lora,You wished to know all about my grandfather.,project_prompt_target,"She wished to know all of them, my grandfather.",8,2,0,1
+1,M02,Session1,0127,6.70613,after_lora,Both figures would go higher in later years.,project_prompt_target,Boss figures were gone for later years.,8,4,1,0
+1,M02,Session1,0130,6.28525,after_lora,I tried to tell people in the community.,project_prompt_target,I try to tell people in the community,8,1,0,0
+1,M02,Session1,0135,7.46375,after_lora,Why yell or worry over silly items?,project_prompt_target,Wires have a worry of silly items.,7,4,0,0
+1,M02,Session1,0137,8.83863,after_lora,"Everything went real smooth, the sheriff said.",project_prompt_target,"Everything went real smooth,"" the sheriff said.",7,0,0,0
+1,M02,Session1,0150,7.46375,after_lora,Are your grades higher or lower than Nancy's?,project_prompt_target,Fire grades higher or lower than Nazis.,8,2,1,0
+1,M02,Session1,0152,7.2465,after_lora,You'd be better off taking a cold shower.,project_prompt_target,You'd be better off taking a cold shower.,8,0,0,0
+1,M02,Session1,0154,7.70419,after_lora,The islands are sparsely populated.,project_prompt_target,The islands are sparsely populated.,5,0,0,0
+1,M02,Session1,0168,12.586,after_lora,"If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target,"If you destroy confidence in things, you do something to the economy,"" he said.",14,1,0,0
+1,M02,Session1,0169,6.94137,after_lora,All the big baseball players get traded.,project_prompt_target,All the big baseball players get traded.,7,0,0,0
+1,M02,Session1,0172,6.50913,after_lora,I can play this weekend.,project_prompt_target,I can play this weekend.,5,0,0,0
+1,M02,Session1,0183,6.56,after_lora,Bright sunshine shimmers on the ocean.,project_prompt_target,"Pright, center, and shimmers on the ocean.",6,2,0,1
+1,M02,Session1,0197,7.27194,after_lora,Nothing is as offensive as ignorance,project_prompt_target,Nothing is as offensive as ignorance.,6,0,0,0
+1,M02,Session1,0198,6.89056,after_lora,Nothing is as offensive as innocence.,project_prompt_target,Nothing has been to be finished since.,6,5,0,1
+1,M02,Session1,0222,8.23287,after_lora,One validated acts of school districts.,project_prompt_target,One validate that I was a school district.,6,4,0,2
+1,M02,Session1,0226,7.76931,after_lora,Mother sews yellow gingham aprons.,project_prompt_target,"mothers, yellow, king and prince.",5,5,0,0
+1,M02,Session1,0232,6.66575,after_lora,Jane may earn more money by working hard.,project_prompt_target,chains may have more money by working hard.,8,2,0,0
+1,M02,Session1,0238,6.46713,after_lora,The train approached the depot slowly.,project_prompt_target,The train of arms can do both slowly.,6,3,0,2
+2,F04,Session1,0063,6.3,before_lora,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target,giving those who observe him a pronounced feeling of the utmost respect.,12,0,0,0
+2,F04,Session1,0067,7.05,before_lora,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target,Twice each day he plays skillfully and with zest upon our small organ.,13,0,0,0
+2,F04,Session1,0091,7.05,before_lora,"Except in the winter when the ooze or snow or ice prevents,",project_prompt_target,except in the winter when the o's or snow or ice prevents.,12,1,0,0
+2,F04,Session1,0092,6.15,before_lora,"Except in the winter when the ooze or snow or ice prevents,",project_prompt_target,except in the winter when the ooze or snow or ice prevents.,12,0,0,0
+2,F04,Session1,0100,6.3,before_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"When he speaks, his voice is just a bit cracked and quivers a trifle.",14,0,0,0
+2,F04,Session1,0120,6.75,before_lora,"A long, flowing beard clings to his chin,",project_prompt_target,A long flowing beard clings to his chin.,8,0,0,0
+2,F04,Session1,0159,7.65,before_lora,"If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target,"If you destroy confidence in banks, you do something to the economy,"" he said.",14,0,0,0
+2,F04,Session1,0184,7.05,before_lora,Two other cases also were under advisement.,project_prompt_target,Two other cases also were under advisement.,7,0,0,0
+2,F04,Session2,0143,7.4,before_lora,This is not a program of socialized medicine.,project_prompt_target,This is not a program of socialized medicine.,8,0,0,0
+2,M03,Session2,0029,6.06,before_lora,"Except in the winter when the ooze or snow or ice prevents,",project_prompt_target,Except in the winter when the ooze or snow or ice prevents.,12,0,0,0
+2,M03,Session2,0096,6.005,before_lora,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target,Twice each day he plays skillfully and with zest upon our small organ.,13,0,0,0
+2,M03,Session2,0101,6.20506,before_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"When he speaks, his voice is just a bit crackled and quivers a trifle.",14,1,0,0
+2,M03,Session2,0244,6.47,before_lora,"If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target,"If you destroy confidence in banks, you do something in the economy,"" he said.",14,1,0,0
+2,M03,Session2,0245,6.185,before_lora,"If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target,"If you destroy confidence in banks, you do something to the economy, he said.",14,0,0,0
+2,M03,Session2,0275,6.435,before_lora,"Before Thursday's exam, review every formula.",project_prompt_target,"Before Thursday's exam, review every formula.",6,0,0,0
+2,M03,Session2,0344,6.63506,before_lora,It also provides for funds to clear slums and help colleges build dormitories.,project_prompt_target,It also provides for funds to clear slums and help colleges build dormitories.,13,0,0,0
+2,F04,Session1,0063,6.3,after_lora,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target,giving those who observe him a pronounced feeling of the utmost respect.,12,0,0,0
+2,F04,Session1,0067,7.05,after_lora,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target,Twice each day he plays skillfully and with zest upon our small organ.,13,0,0,0
+2,F04,Session1,0091,7.05,after_lora,"Except in the winter when the ooze or snow or ice prevents,",project_prompt_target,Except in the winter when they oase or snow or ice prevents.,12,2,0,0
+2,F04,Session1,0092,6.15,after_lora,"Except in the winter when the ooze or snow or ice prevents,",project_prompt_target,Except in the winter when the ooze or snow or ice prevents.,12,0,0,0
+2,F04,Session1,0100,6.3,after_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"When he speaks, his voice is just a bit cracked and quivers a trifle.",14,0,0,0
+2,F04,Session1,0120,6.75,after_lora,"A long, flowing beard clings to his chin,",project_prompt_target,A long flowing beard clings to his chin.,8,0,0,0
+2,F04,Session1,0159,7.65,after_lora,"If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target,"If you destroy confidence in banks, you do something to the economy, he said.",14,0,0,0
+2,F04,Session1,0184,7.05,after_lora,Two other cases also were under advisement.,project_prompt_target,Two other cases also were under advisement.,7,0,0,0
+2,F04,Session2,0143,7.4,after_lora,This is not a program of socialized medicine.,project_prompt_target,This is not a program of socialized medicine.,8,0,0,0
+2,M03,Session2,0029,6.06,after_lora,"Except in the winter when the ooze or snow or ice prevents,",project_prompt_target,Except in the winter when the ooze or snow or ice prevents.,12,0,0,0
+2,M03,Session2,0096,6.005,after_lora,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target,Twice each day he plays skillfully and with zest upon our small organ.,13,0,0,0
+2,M03,Session2,0101,6.20506,after_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"When he speaks, his voice is just a bit crackled and quivers a trifle.",14,1,0,0
+2,M03,Session2,0244,6.47,after_lora,"If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target,"If you destroy confidence in banks, you do something in the economy, he said.",14,1,0,0
+2,M03,Session2,0245,6.185,after_lora,"If you destroy confidence in banks, you do something to the economy, he said.",project_prompt_target,"If you destroy confidence in banks, you do something to the economy, he said.",14,0,0,0
+2,M03,Session2,0275,6.435,after_lora,"Before Thursday's exam, review every formula.",project_prompt_target,"Before Thursday's exam, review every formula.",6,0,0,0
+2,M03,Session2,0344,6.63506,after_lora,It also provides for funds to clear slums and help colleges build dormitories.,project_prompt_target,It also provides for funds to clear slums and help colleges build dormitories.,13,0,0,0
+3,M04,Session1,0012,20.85,before_lora,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target,Twenty days he planned to kill me and he was sent across our organization.,13,12,0,1
+3,M04,Session1,0020,9.45,before_lora,"Well, he is nearly ninety-three years old;",project_prompt_target,"Well, it is not like my 3 years old.",8,4,0,1
+3,M04,Session1,0036,9.45,before_lora,The quick brown fox jumps over the lazy dog.,project_prompt_target,The quick build path can open that lady's door.,9,7,0,0
+3,M04,Session1,0040,13.35,before_lora,Grandfather likes to be modern in his language.,project_prompt_target,My grandmother liked to be my race in his language.,8,3,0,2
+3,M04,Session1,0047,9.45,before_lora,yet he still thinks as swiftly as ever.,project_prompt_target,Yet he should still think that sweetly ever,8,5,0,0
+3,M04,Session1,0064,10.65,before_lora,he slowly takes a short walk in the open air each day.,project_prompt_target,He slowly did a good work in the open air.,12,3,2,0
+3,M04,Session1,0076,12.6,before_lora,Don't ask me to carry an oily rag like that.,project_prompt_target,Do it at me to do cake and oil. Like that.,10,6,0,1
+3,M04,Session1,0077,6.75,before_lora,"but he always answers, ""Banana oil!""",project_prompt_target,"But, but, I will answer, but banana oil.",6,3,0,2
+3,M04,Session1,0082,12.6,before_lora,"A long, flowing beard clings to his chin,",project_prompt_target,and then found the best place to live.,8,8,0,0
+3,M04,Session1,0088,16.01419,before_lora,She had your dark suit in greasy wash water all year.,project_prompt_target,"She and your deaf student, why are all here?",11,6,2,0
+3,M04,Session1,0094,23.25,before_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,One of the big hit points is the big crack on and he was on straight drive off.,14,12,0,4
+3,M04,Session1,0099,15.6,before_lora,"We have often urged him to walk more and smoke less,",project_prompt_target,We have added earnings in Q1 more and more less.,11,5,1,0
+3,M04,Session1,0106,7.2,before_lora,usually minus several buttons;,project_prompt_target,"You mean, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me, me",4,4,0,77
+3,M04,Session1,0120,22.5,before_lora,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target,"Give me. Don't look at those. If, if, of, of, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the, of the",12,9,0,94
+3,M04,Session2,0029,19.54506,before_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"When he beat his head voice, he just did a bit of glaggling and quibbling on the red strip on.",14,6,0,6
+3,M04,Session2,0077,11.88,before_lora,You wished to know all about my grandfather.,project_prompt_target,You want to know all about my good grandpa?,8,2,0,1
+3,M04,Session2,0083,14.52506,before_lora,"he dresses himself in an ancient black frock coat,",project_prompt_target,He threatened to have a football coach.,9,6,2,0
+3,M04,Session2,0093,9.315,before_lora,"but he always answers, ""Banana oil!""",project_prompt_target,But he always ended the banana oil.,6,1,0,1
+3,M04,Session2,0098,8.355,before_lora,"Well, he is nearly ninety-three years old;",project_prompt_target,He is really 93 years old.,8,2,2,0
+3,M04,Session2,0147,12.07506,before_lora,Two other cases also were under advisement.,project_prompt_target,Two other kids all over the world and that meant,7,5,0,3
+3,M04,Session2,0155,8.105,before_lora,I was conscious all the time.,project_prompt_target,I... what... what... what... all the time.,6,2,0,1
+3,M04,Session2,0157,6.835,before_lora,She is thinner than I am.,project_prompt_target,"to you, boy, with thinner than I am.",6,2,0,2
+3,M04,Session2,0158,10.83,before_lora,I just try to do my best.,project_prompt_target,I did try to be the doom of my best.,7,2,0,3
+3,M04,Session2,0185,6.17,before_lora,briar,project_prompt_target,Buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh buh,1,1,0,79
+3,M04,Session2,0187,7.86,before_lora,Why yell or worry over silly items?,project_prompt_target,"Why yeah, or were we in over and for the item?",7,4,0,4
+3,M04,Session2,0220,9.82,before_lora,Jane may earn more money by working hard.,project_prompt_target,"You may earn more money, but I will get hired.",8,4,0,2
+3,M04,Session2,0231,8.34006,before_lora,The train approached the depot slowly.,project_prompt_target,"I drink a pungen, then the tea was slowly.",6,4,0,3
+3,M04,Session2,0242,9.22,before_lora,I looked up and noticed two old men.,project_prompt_target,I looked up and I didn't know it do all man,8,4,0,3
+3,M04,Session2,0246,10.465,before_lora,Nothing is as offensive as innocence.,project_prompt_target,Nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and nothing and,6,5,0,154
+3,M04,Session2,0253,6.1,before_lora,This was easy for us.,project_prompt_target,I'm going to die.,5,4,1,0
+3,M04,Session2,0255,9.39,before_lora,You're used to being on the field.,project_prompt_target,You do being on the other field.,7,2,1,1
+3,M04,Session2,0274,10.205,before_lora,The islands are sparsely populated.,project_prompt_target,the island I'm believe but,5,4,0,0
+3,M04,Session2,0283,7.52506,before_lora,It was a good win for us.,project_prompt_target,It was a good thing to win for a gun.,7,1,0,3
+3,M04,Session2,0291,17.41006,before_lora,Nothing has been done yet to take advantage of the enabling legislation.,project_prompt_target,nothing and nothing and nothing,12,4,7,0
+3,M04,Session2,0295,6.235,before_lora,There is a treehouse up above.,project_prompt_target,There is a drill up above.,6,1,0,0
+3,M05,Session2,0002,7.635,before_lora,Where were you while we were away?,project_prompt_target,Where were you while we were away?,7,0,0,0
+3,M05,Session2,0008,8.93,before_lora,I feel I can play this weekend.,project_prompt_target,"I can, I feel I can play this weekend.",7,0,0,2
+3,M05,Session2,0027,11.495,before_lora,One validated acts of school districts.,project_prompt_target,One validated act of good districts.,6,2,0,0
+3,M05,Session2,0028,7.19506,before_lora,You're used to being on the field.,project_prompt_target,You're used to being on the field.,7,0,0,0
+3,M05,Session2,0055,9.06006,before_lora,Why yell or worry over silly items?,project_prompt_target,Why are we always here to think?,7,6,0,0
+3,M05,Session2,0056,9.215,before_lora,Why yell or worry over silly items?,project_prompt_target,Why yell away over silly items?,7,1,1,0
+3,M05,Session2,0076,8.735,before_lora,She is thinner than I am.,project_prompt_target,She is thinner than I am.,6,0,0,0
+3,M05,Session2,0082,7.225,before_lora,Their house is grey and white.,project_prompt_target,The health is great in the world.,6,5,0,1
+3,M05,Session2,0087,12.225,before_lora,Are your grades higher or lower than Nancy's?,project_prompt_target,Are you great? I love them.,8,5,2,0
+3,M05,Session2,0088,9.2,before_lora,I scrubbed the floors thoroughly.,project_prompt_target,I grabbed the floor slowly.,5,3,0,0
+3,M05,Session2,0102,10.9,before_lora,"Everything went real smooth, the sheriff said.",project_prompt_target,"Everything went really smooth, the ship said.",7,2,0,0
+3,M05,Session2,0122,6.27,before_lora,Just one side got wet.,project_prompt_target,Just one tide got wet.,5,1,0,0
+3,M05,Session2,0131,9.54,before_lora,All the big baseball players get traded.,project_prompt_target,All the big messages my friends were traded.,7,3,0,1
+3,M05,Session2,0138,10.57,before_lora,You'd be better off taking a cold shower.,project_prompt_target,gave me a better off taking a cold shower.,8,2,0,1
+3,M05,Session2,0145,17.36006,before_lora,He further proposed grants of an unspecified sum for experimental hospitals.,project_prompt_target,He fully proposed drawings of an unexpected sum of experimental hospitals.,11,4,0,0
+3,M05,Session2,0152,8.1,before_lora,The box contained three sweaters.,project_prompt_target,The box contained three sweaters.,5,0,0,0
+3,M05,Session2,0155,9.58,before_lora,The museum hires musicians every evening.,project_prompt_target,A museum hires musicians every evening.,6,1,0,0
+3,M05,Session2,0170,9.965,before_lora,I expect we'll bounce back this week.,project_prompt_target,I expect we'll bounce back this week.,7,0,0,0
+3,M05,Session2,0176,11.805,before_lora,Alimony harms a divorced man's wealth.,project_prompt_target,Alimony forms a development of wealth.,6,3,0,0
+3,M05,Session2,0197,7.585,before_lora,There is a treehouse up above.,project_prompt_target,This is a treehouse up above.,6,1,0,0
+3,M05,Session2,0207,7.695,before_lora,The books are very expensive.,project_prompt_target,The books were really expensive.,5,2,0,0
+3,M05,Session2,0213,7.365,before_lora,I have had my bell rung.,project_prompt_target,I have had my bed rung.,6,1,0,0
+3,M05,Session2,0236,9.485,before_lora,The misguided souls have lost their way.,project_prompt_target,The misguided souls have lost their way.,7,0,0,0
+3,M05,Session2,0239,11.515,before_lora,The dolphins swam around our boat.,project_prompt_target,The dolphins slam around our boat.,6,1,0,0
+3,M05,Session2,0260,11.60006,before_lora,This is not a program of socialized medicine.,project_prompt_target,This is not a program of socialized medicine.,8,0,0,0
+3,M05,Session2,0275,7.605,before_lora,Did dad do academic bidding?,project_prompt_target,Did I do academic building?,5,2,0,0
+3,M05,Session2,0276,8.62506,before_lora,Some hotels are available nearby.,project_prompt_target,Samco towers are available nearby.,5,2,0,0
+3,M05,Session2,0282,11.42006,before_lora,Those musicians harmonize marvelously.,project_prompt_target,"As always musicians, how many nights, marvelously,",4,2,0,3
+3,M05,Session2,0291,10.64,before_lora,The wait for work can be very do it again,project_prompt_target,The wait for weeks can be a really great game.,10,5,0,0
+3,M05,Session2,0305,12.47638,before_lora,He really crucified him; he nailed it for a yard loss.,project_prompt_target,He really crucified himself. He made it for a yard.,11,2,1,0
+3,M05,Session2,0320,6.1,before_lora,We bought a brown chair.,project_prompt_target,He brought a brown chair.,5,2,0,0
+3,M05,Session2,0321,9.635,before_lora,Beg that guard for one gallon of gas.,project_prompt_target,Make that good for one guy in every dress.,8,5,0,1
+3,M05,Session2,0365,11.625,before_lora,It's fun to roast marshmallows on a gas burner.,project_prompt_target,It's fun to roast marshmallows on a gas burner.,9,0,0,0
+3,M05,Session2,0368,9.66,before_lora,Get a calico cat to keep.,project_prompt_target,Get a Calico cat to keep.,6,0,0,0
+3,M05,Session2,0370,6.93,before_lora,Each one volunteered to jump first.,project_prompt_target,Is it wrong volunteering to jump first?,6,3,0,1
+3,M04,Session1,0012,20.85,after_lora,Twice each day he plays skillfully and with zest upon our small organ.,project_prompt_target,Twice is the place to secure me and be with them upon our organs.,13,7,1,2
+3,M04,Session1,0020,9.45,after_lora,"Well, he is nearly ninety-three years old;",project_prompt_target,"Well, it is nice. My name is Rick.",8,6,0,0
+3,M04,Session1,0036,9.45,after_lora,The quick brown fox jumps over the lazy dog.,project_prompt_target,The quick build path just opened that lady's door.,9,7,0,0
+3,M04,Session1,0040,13.35,after_lora,Grandfather likes to be modern in his language.,project_prompt_target,My grandmother likes to be my way in his language.,8,2,0,2
+3,M04,Session1,0047,9.45,after_lora,yet he still thinks as swiftly as ever.,project_prompt_target,"yeshu tozhintzhintzhen, sweetly and ever.",8,4,3,0
+3,M04,Session1,0064,10.65,after_lora,he slowly takes a short walk in the open air each day.,project_prompt_target,He slowly did a good work in the open air.,12,3,2,0
+3,M04,Session1,0076,12.6,after_lora,Don't ask me to carry an oily rag like that.,project_prompt_target,"doughnut, dookay, and oil. Like that.",10,4,4,0
+3,M04,Session1,0077,6.75,after_lora,"but he always answers, ""Banana oil!""",project_prompt_target,banana oil,6,0,4,0
+3,M04,Session1,0082,12.6,after_lora,"A long, flowing beard clings to his chin,",project_prompt_target,"all bones found bread, cooked eggs, turned into hens,",8,8,0,1
+3,M04,Session1,0088,16.01419,after_lora,She had your dark suit in greasy wash water all year.,project_prompt_target,She and your students would like to wear a,11,7,2,0
+3,M04,Session1,0094,23.25,after_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"one-way sheep, his boy, his kid, a big cat, and a cool, odd, straight driver.",14,11,0,2
+3,M04,Session1,0099,15.6,after_lora,"We have often urged him to walk more and smoke less,",project_prompt_target,We have added herbs in to water more and more blood.,11,6,0,0
+3,M04,Session1,0106,7.2,after_lora,usually minus several buttons;,project_prompt_target,set the whole button.,4,4,0,0
+3,M04,Session1,0120,22.5,after_lora,giving those who observe him a pronounced feeling of the utmost respect.,project_prompt_target,Give it. Don't look at the door. If our people know the name of the animal we met,12,10,0,6
+3,M04,Session2,0029,19.54506,after_lora,"When he speaks, his voice is just a bit cracked and quivers a trifle.",project_prompt_target,"When we beat a head voice, it gets a bit goggled and quibbled on a dragon's triplet.",14,8,0,3
+3,M04,Session2,0077,11.88,after_lora,You wished to know all about my grandfather.,project_prompt_target,You want to know all about my good grandpa.,8,2,0,1
+3,M04,Session2,0083,14.52506,after_lora,"he dresses himself in an ancient black frock coat,",project_prompt_target,fidrate and tone and an accident like football codes,9,8,0,0
+3,M04,Session2,0093,9.315,after_lora,"but he always answers, ""Banana oil!""",project_prompt_target,But he always ended the banana oil.,6,1,0,1
+3,M04,Session2,0098,8.355,after_lora,"Well, he is nearly ninety-three years old;",project_prompt_target,He is really 93 years old.,8,2,2,0
+3,M04,Session2,0147,12.07506,after_lora,Two other cases also were under advisement.,project_prompt_target,Two other kids were under a bedament.,7,2,1,1
+3,M04,Session2,0155,8.105,after_lora,I was conscious all the time.,project_prompt_target,all the time.,6,0,3,0
+3,M04,Session2,0157,6.835,after_lora,She is thinner than I am.,project_prompt_target,to you would thinner than I am,6,2,0,1
+3,M04,Session2,0158,10.83,after_lora,I just try to do my best.,project_prompt_target,I did try to be the doom of my best.,7,2,0,3
+3,M04,Session2,0185,6.17,after_lora,briar,project_prompt_target,buh,1,1,0,0
+3,M04,Session2,0187,7.86,after_lora,Why yell or worry over silly items?,project_prompt_target,Why are we all going for the item?,7,6,0,1
+3,M04,Session2,0220,9.82,after_lora,Jane may earn more money by working hard.,project_prompt_target,"Jane may earn more money, but he will get hurt.",8,3,0,2
+3,M04,Session2,0231,8.34006,after_lora,The train approached the depot slowly.,project_prompt_target,I drink a bunch and then the tea works slowly.,6,4,0,4
+3,M04,Session2,0242,9.22,after_lora,I looked up and noticed two old men.,project_prompt_target,I looked up and I didn't know it too often.,8,4,0,2
+3,M04,Session2,0246,10.465,after_lora,Nothing is as offensive as innocence.,project_prompt_target,nothing and nothing and nothing and,6,5,0,0
+3,M04,Session2,0253,6.1,after_lora,This was easy for us.,project_prompt_target,"good way, easy path",5,3,1,0
+3,M04,Session2,0255,9.39,after_lora,You're used to being on the field.,project_prompt_target,You do beans on the other field.,7,3,1,1
+3,M04,Session2,0274,10.205,after_lora,The islands are sparsely populated.,project_prompt_target,the island I'm but lean but popularly,5,4,0,2
+3,M04,Session2,0283,7.52506,after_lora,It was a good win for us.,project_prompt_target,It was a good thing to win for a month.,7,1,0,3
+3,M04,Session2,0291,17.41006,after_lora,Nothing has been done yet to take advantage of the enabling legislation.,project_prompt_target,nothing and had been done to the earth and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then and then,12,9,0,148
+3,M04,Session2,0295,6.235,after_lora,There is a treehouse up above.,project_prompt_target,There is a drill up above.,6,1,0,0
+3,M05,Session2,0002,7.635,after_lora,Where were you while we were away?,project_prompt_target,Where were you while we were away?,7,0,0,0
+3,M05,Session2,0008,8.93,after_lora,I feel I can play this weekend.,project_prompt_target,"I can, I feel I can play this weekend.",7,0,0,2
+3,M05,Session2,0027,11.495,after_lora,One validated acts of school districts.,project_prompt_target,One validated act of school districts.,6,1,0,0
+3,M05,Session2,0028,7.19506,after_lora,You're used to being on the field.,project_prompt_target,You're used to reading on the field.,7,1,0,0
+3,M05,Session2,0055,9.06006,after_lora,Why yell or worry over silly items?,project_prompt_target,Why are we always here to think?,7,6,0,0
+3,M05,Session2,0056,9.215,after_lora,Why yell or worry over silly items?,project_prompt_target,Why yell away over silly items?,7,1,1,0
+3,M05,Session2,0076,8.735,after_lora,She is thinner than I am.,project_prompt_target,She is thinner than I am.,6,0,0,0
+3,M05,Session2,0082,7.225,after_lora,Their house is grey and white.,project_prompt_target,The health is great in the world.,6,5,0,1
+3,M05,Session2,0087,12.225,after_lora,Are your grades higher or lower than Nancy's?,project_prompt_target,Are you great?I love them.Nancy.,8,6,1,0
+3,M05,Session2,0088,9.2,after_lora,I scrubbed the floors thoroughly.,project_prompt_target,I scrub the floor thoroughly.,5,2,0,0
+3,M05,Session2,0102,10.9,after_lora,"Everything went real smooth, the sheriff said.",project_prompt_target,"Everything went really smooth, the sheriff said.",7,1,0,0
+3,M05,Session2,0122,6.27,after_lora,Just one side got wet.,project_prompt_target,Just one child got wet.,5,1,0,0
+3,M05,Session2,0131,9.54,after_lora,All the big baseball players get traded.,project_prompt_target,All the big basketbob players were traded.,7,2,0,0
+3,M05,Session2,0138,10.57,after_lora,You'd be better off taking a cold shower.,project_prompt_target,You be ready of taking a cold shower.,8,3,0,0
+3,M05,Session2,0145,17.36006,after_lora,He further proposed grants of an unspecified sum for experimental hospitals.,project_prompt_target,He fully proposed drawings of an unexpected sum of experimental hospitals.,11,4,0,0
+3,M05,Session2,0152,8.1,after_lora,The box contained three sweaters.,project_prompt_target,The box contains three sweaters.,5,1,0,0
+3,M05,Session2,0155,9.58,after_lora,The museum hires musicians every evening.,project_prompt_target,A sound museum hires musicians every evening.,6,1,0,1
+3,M05,Session2,0170,9.965,after_lora,I expect we'll bounce back this week.,project_prompt_target,I expect we'll bounce back this week.,7,0,0,0
+3,M05,Session2,0176,11.805,after_lora,Alimony harms a divorced man's wealth.,project_prompt_target,Alimony forms in the world's men's wealth.,6,4,0,1
+3,M05,Session2,0197,7.585,after_lora,There is a treehouse up above.,project_prompt_target,Is there a treehouse up above?,6,2,0,0
+3,M05,Session2,0207,7.695,after_lora,The books are very expensive.,project_prompt_target,The books were really expensive.,5,2,0,0
+3,M05,Session2,0213,7.365,after_lora,I have had my bell rung.,project_prompt_target,I have had my bed rung.,6,1,0,0
+3,M05,Session2,0236,9.485,after_lora,The misguided souls have lost their way.,project_prompt_target,The misguided souls have lost their way.,7,0,0,0
+3,M05,Session2,0239,11.515,after_lora,The dolphins swam around our boat.,project_prompt_target,The dolphins slam around our boat.,6,1,0,0
+3,M05,Session2,0260,11.60006,after_lora,This is not a program of socialized medicine.,project_prompt_target,This is not a program of socialized medicine.,8,0,0,0
+3,M05,Session2,0275,7.605,after_lora,Did dad do academic bidding?,project_prompt_target,Did dad do academic building?,5,1,0,0
+3,M05,Session2,0276,8.62506,after_lora,Some hotels are available nearby.,project_prompt_target,Samcho towers are available nearby.,5,2,0,0
+3,M05,Session2,0282,11.42006,after_lora,Those musicians harmonize marvelously.,project_prompt_target,Those musicians homry night marvelously.,4,1,0,1
+3,M05,Session2,0291,10.64,after_lora,The wait for work can be very do it again,project_prompt_target,The wait for weeks can be a really good game.,10,5,0,0
+3,M05,Session2,0305,12.47638,after_lora,He really crucified him; he nailed it for a yard loss.,project_prompt_target,He really crucified himself. He made it for a yard.,11,2,1,0
+3,M05,Session2,0320,6.1,after_lora,We bought a brown chair.,project_prompt_target,He brought a brown chair.,5,2,0,0
+3,M05,Session2,0321,9.635,after_lora,Beg that guard for one gallon of gas.,project_prompt_target,Make that good for one guy in a dress.,8,5,0,1
+3,M05,Session2,0365,11.625,after_lora,It's fun to roast marshmallows on a gas burner.,project_prompt_target,It's fun to roast marshmallows on a gas burner.,9,0,0,0
+3,M05,Session2,0368,9.66,after_lora,Get a calico cat to keep.,project_prompt_target,get a galico cat to keep.,6,1,0,0
+3,M05,Session2,0370,6.93,after_lora,Each one volunteered to jump first.,project_prompt_target,Echo will volunteer to jump first.,6,3,0,0

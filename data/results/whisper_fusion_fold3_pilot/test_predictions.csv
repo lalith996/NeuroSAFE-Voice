@@ -1,0 +1,211 @@
+method,speaker,session,utterance_id,reference,hypothesis,reference_words,substitutions,deletions,insertions
+M1_cached_control,M04,Session2,0134,sprinkle,begone,1,1,0,0
+M1_cached_control,M04,Session2,0117,knew,noof,1,1,0,0
+M1_cached_control,M04,Session1,0032,stubble,dumble,1,1,0,0
+M1_cached_control,M04,Session2,0267,know,no,1,1,0,0
+M1_cached_control,M04,Session1,0062,grow,go,1,1,0,0
+M1_cached_control,M04,Session2,0095,beta,bitter,1,1,0,0
+M1_cached_control,M04,Session1,0017,jacket,Jack Gazer,1,1,0,1
+M1_cached_control,M04,Session2,0141,bear,bear,1,0,0,0
+M1_cached_control,M04,Session2,0256,coupe,coube,1,1,0,0
+M1_cached_control,M04,Session2,0081,born,born,1,0,0,0
+M1_cached_control,M04,Session2,0254,mere,beer,1,1,0,0
+M1_cached_control,M04,Session1,0093,When when,when,2,0,1,0
+M1_cached_control,M04,Session1,0116,storm,drum,1,1,0,0
+M1_cached_control,M04,Session2,0137,back,back,1,0,0,0
+M1_cached_control,M04,Session2,0084,tip,dip,1,1,0,0
+M1_cached_control,M04,Session2,0213,urgent,ordant,1,1,0,0
+M1_cached_control,M04,Session2,0209,mut,mutt,1,1,0,0
+M1_cached_control,M04,Session1,0110,for,port,1,1,0,0
+M1_cached_control,M04,Session1,0024,fee,to be,1,1,0,1
+M1_cached_control,M04,Session2,0143,near,near,1,0,0,0
+M1_cached_control,M04,Session1,0007,weed,with,1,1,0,0
+M1_cached_control,M04,Session2,0297,bit,bit,1,0,0,0
+M1_cached_control,M04,Session1,0087,raid,rate,1,1,0,0
+M1_cached_control,M04,Session2,0061,grow,grow,1,0,0,0
+M1_cached_control,M04,Session2,0250,four,four,1,0,0,0
+M1_cached_control,M04,Session1,0079,beat,beat,1,0,0,0
+M1_cached_control,M04,Session2,0151,we're,we are,1,1,0,1
+M1_cached_control,M04,Session2,0080,goat,boat,1,1,0,0
+M1_cached_control,M04,Session1,0055,read,read,1,0,0,0
+M1_cached_control,M04,Session2,0252,dot,dud,1,1,0,0
+M1_cached_control,M04,Session2,0016,jacket,sack it,1,1,0,1
+M1_cached_control,M04,Session2,0173,knot,nut,1,1,0,0
+M1_cached_control,M04,Session1,0122,tip,tip,1,0,0,0
+M1_cached_control,M04,Session1,0083,jagged,day,1,1,0,0
+M1_cached_control,M04,Session2,0097,air,yeah,1,1,0,0
+M1_cached_control,M05,Session2,0199,mitten,metem,1,1,0,0
+M1_cached_control,M05,Session2,0248,side,side,1,0,0,0
+M1_cached_control,M05,Session2,0143,pitting,petting,1,1,0,0
+M1_cached_control,M05,Session2,0267,sell,cell,1,1,0,0
+M1_cached_control,M05,Session2,0257,seeds,seeds,1,0,0,0
+M1_cached_control,M05,Session2,0327,dread,dread,1,0,0,0
+M1_cached_control,M05,Session2,0326,chip,chip,1,0,0,0
+M1_cached_control,M05,Session2,0384,sink,sink,1,0,0,0
+M1_cached_control,M05,Session2,0334,meat,you,1,1,0,0
+M1_cached_control,M05,Session2,0225,lair,their,1,1,0,0
+M1_cached_control,M05,Session2,0134,snoop,he's a noop,1,1,0,2
+M1_cached_control,M05,Session2,0114,we're,weare,1,1,0,0
+M1_cached_control,M05,Session2,0295,wicked,wicking,1,1,0,0
+M1_cached_control,M05,Session2,0111,wish,wish,1,0,0,0
+M1_cached_control,M05,Session2,0340,nice,you,1,1,0,0
+M1_cached_control,M05,Session1,0123,rain,rain,1,0,0,0
+M1_cached_control,M05,Session2,0254,lick,rick,1,1,0,0
+M1_cached_control,M05,Session2,0362,sell,sail,1,1,0,0
+M1_cached_control,M05,Session2,0294,sierra,to you,1,1,0,1
+M1_cached_control,M05,Session2,0023,rocks,rock,1,1,0,0
+M1_cached_control,M05,Session2,0121,troop,trope,1,1,0,0
+M1_cached_control,M05,Session2,0059,pot,pot,1,0,0,0
+M1_cached_control,M05,Session2,0217,thorn,sowing,1,1,0,0
+M1_cached_control,M05,Session2,0266,reek,week,1,1,0,0
+M1_cached_control,M05,Session2,0383,You can ride stagecoach.,You can ride a stagecoach.,4,0,0,1
+M1_cached_control,M05,Session2,0191,cart,cote,1,1,0,0
+M1_cached_control,M05,Session2,0099,select,select,1,0,0,0
+M1_cached_control,M05,Session2,0070,hate,hate,1,0,0,0
+M1_cached_control,M05,Session2,0010,light,right,1,1,0,0
+M1_cached_control,M05,Session2,0373,witch,which,1,1,0,0
+M1_cached_control,M05,Session2,0159,bitten,bitten,1,0,0,0
+M1_cached_control,M05,Session2,0223,november,nowremember,1,1,0,0
+M1_cached_control,M05,Session2,0029,pat,cut,1,1,0,0
+M1_cached_control,M05,Session2,0281,and,andy,1,1,0,0
+M1_cached_control,M05,Session2,0270,fitting,wetting,1,1,0,0
+M2_additive,M04,Session2,0134,sprinkle,begone,1,1,0,0
+M2_additive,M04,Session2,0117,knew,noof,1,1,0,0
+M2_additive,M04,Session1,0032,stubble,dumble,1,1,0,0
+M2_additive,M04,Session2,0267,know,no,1,1,0,0
+M2_additive,M04,Session1,0062,grow,go,1,1,0,0
+M2_additive,M04,Session2,0095,beta,bitter,1,1,0,0
+M2_additive,M04,Session1,0017,jacket,Jack Gazer,1,1,0,1
+M2_additive,M04,Session2,0141,bear,bear,1,0,0,0
+M2_additive,M04,Session2,0256,coupe,coube,1,1,0,0
+M2_additive,M04,Session2,0081,born,born,1,0,0,0
+M2_additive,M04,Session2,0254,mere,beer,1,1,0,0
+M2_additive,M04,Session1,0093,When when,when,2,0,1,0
+M2_additive,M04,Session1,0116,storm,drum,1,1,0,0
+M2_additive,M04,Session2,0137,back,back,1,0,0,0
+M2_additive,M04,Session2,0084,tip,dip,1,1,0,0
+M2_additive,M04,Session2,0213,urgent,ordant,1,1,0,0
+M2_additive,M04,Session2,0209,mut,mutt,1,1,0,0
+M2_additive,M04,Session1,0110,for,port,1,1,0,0
+M2_additive,M04,Session1,0024,fee,to be,1,1,0,1
+M2_additive,M04,Session2,0143,near,near,1,0,0,0
+M2_additive,M04,Session1,0007,weed,with,1,1,0,0
+M2_additive,M04,Session2,0297,bit,bit,1,0,0,0
+M2_additive,M04,Session1,0087,raid,rate,1,1,0,0
+M2_additive,M04,Session2,0061,grow,grow,1,0,0,0
+M2_additive,M04,Session2,0250,four,four,1,0,0,0
+M2_additive,M04,Session1,0079,beat,beat,1,0,0,0
+M2_additive,M04,Session2,0151,we're,we are,1,1,0,1
+M2_additive,M04,Session2,0080,goat,boat,1,1,0,0
+M2_additive,M04,Session1,0055,read,read,1,0,0,0
+M2_additive,M04,Session2,0252,dot,dud,1,1,0,0
+M2_additive,M04,Session2,0016,jacket,sack it,1,1,0,1
+M2_additive,M04,Session2,0173,knot,nut,1,1,0,0
+M2_additive,M04,Session1,0122,tip,tip,1,0,0,0
+M2_additive,M04,Session1,0083,jagged,day,1,1,0,0
+M2_additive,M04,Session2,0097,air,yeah,1,1,0,0
+M2_additive,M05,Session2,0199,mitten,metem,1,1,0,0
+M2_additive,M05,Session2,0248,side,side,1,0,0,0
+M2_additive,M05,Session2,0143,pitting,petting,1,1,0,0
+M2_additive,M05,Session2,0267,sell,cell,1,1,0,0
+M2_additive,M05,Session2,0257,seeds,seeds,1,0,0,0
+M2_additive,M05,Session2,0327,dread,dread,1,0,0,0
+M2_additive,M05,Session2,0326,chip,chip,1,0,0,0
+M2_additive,M05,Session2,0384,sink,sink,1,0,0,0
+M2_additive,M05,Session2,0334,meat,you,1,1,0,0
+M2_additive,M05,Session2,0225,lair,their,1,1,0,0
+M2_additive,M05,Session2,0134,snoop,he's a noop,1,1,0,2
+M2_additive,M05,Session2,0114,we're,weare,1,1,0,0
+M2_additive,M05,Session2,0295,wicked,wicking,1,1,0,0
+M2_additive,M05,Session2,0111,wish,wish,1,0,0,0
+M2_additive,M05,Session2,0340,nice,you,1,1,0,0
+M2_additive,M05,Session1,0123,rain,rain,1,0,0,0
+M2_additive,M05,Session2,0254,lick,rick,1,1,0,0
+M2_additive,M05,Session2,0362,sell,sail,1,1,0,0
+M2_additive,M05,Session2,0294,sierra,to you,1,1,0,1
+M2_additive,M05,Session2,0023,rocks,rock,1,1,0,0
+M2_additive,M05,Session2,0121,troop,trope,1,1,0,0
+M2_additive,M05,Session2,0059,pot,pot,1,0,0,0
+M2_additive,M05,Session2,0217,thorn,sowing,1,1,0,0
+M2_additive,M05,Session2,0266,reek,week,1,1,0,0
+M2_additive,M05,Session2,0383,You can ride stagecoach.,You can ride a stagecoach.,4,0,0,1
+M2_additive,M05,Session2,0191,cart,cort,1,1,0,0
+M2_additive,M05,Session2,0099,select,select,1,0,0,0
+M2_additive,M05,Session2,0070,hate,hate,1,0,0,0
+M2_additive,M05,Session2,0010,light,right,1,1,0,0
+M2_additive,M05,Session2,0373,witch,which,1,1,0,0
+M2_additive,M05,Session2,0159,bitten,bitten,1,0,0,0
+M2_additive,M05,Session2,0223,november,nowremember,1,1,0,0
+M2_additive,M05,Session2,0029,pat,cut,1,1,0,0
+M2_additive,M05,Session2,0281,and,andy,1,1,0,0
+M2_additive,M05,Session2,0270,fitting,wetting,1,1,0,0
+M3_gated_cross_attention,M04,Session2,0134,sprinkle,begone,1,1,0,0
+M3_gated_cross_attention,M04,Session2,0117,knew,noof,1,1,0,0
+M3_gated_cross_attention,M04,Session1,0032,stubble,dumble,1,1,0,0
+M3_gated_cross_attention,M04,Session2,0267,know,no,1,1,0,0
+M3_gated_cross_attention,M04,Session1,0062,grow,go,1,1,0,0
+M3_gated_cross_attention,M04,Session2,0095,beta,bitter,1,1,0,0
+M3_gated_cross_attention,M04,Session1,0017,jacket,Jack Gazer,1,1,0,1
+M3_gated_cross_attention,M04,Session2,0141,bear,bear,1,0,0,0
+M3_gated_cross_attention,M04,Session2,0256,coupe,coube,1,1,0,0
+M3_gated_cross_attention,M04,Session2,0081,born,born,1,0,0,0
+M3_gated_cross_attention,M04,Session2,0254,mere,beer,1,1,0,0
+M3_gated_cross_attention,M04,Session1,0093,When when,when,2,0,1,0
+M3_gated_cross_attention,M04,Session1,0116,storm,drum,1,1,0,0
+M3_gated_cross_attention,M04,Session2,0137,back,back,1,0,0,0
+M3_gated_cross_attention,M04,Session2,0084,tip,dip,1,1,0,0
+M3_gated_cross_attention,M04,Session2,0213,urgent,ordant,1,1,0,0
+M3_gated_cross_attention,M04,Session2,0209,mut,mutt,1,1,0,0
+M3_gated_cross_attention,M04,Session1,0110,for,port,1,1,0,0
+M3_gated_cross_attention,M04,Session1,0024,fee,to be,1,1,0,1
+M3_gated_cross_attention,M04,Session2,0143,near,near,1,0,0,0
+M3_gated_cross_attention,M04,Session1,0007,weed,with,1,1,0,0
+M3_gated_cross_attention,M04,Session2,0297,bit,bit,1,0,0,0
+M3_gated_cross_attention,M04,Session1,0087,raid,rate,1,1,0,0
+M3_gated_cross_attention,M04,Session2,0061,grow,grow,1,0,0,0
+M3_gated_cross_attention,M04,Session2,0250,four,four,1,0,0,0
+M3_gated_cross_attention,M04,Session1,0079,beat,beat,1,0,0,0
+M3_gated_cross_attention,M04,Session2,0151,we're,we are,1,1,0,1
+M3_gated_cross_attention,M04,Session2,0080,goat,boat,1,1,0,0
+M3_gated_cross_attention,M04,Session1,0055,read,read,1,0,0,0
+M3_gated_cross_attention,M04,Session2,0252,dot,dud,1,1,0,0
+M3_gated_cross_attention,M04,Session2,0016,jacket,sack it,1,1,0,1
+M3_gated_cross_attention,M04,Session2,0173,knot,nut,1,1,0,0
+M3_gated_cross_attention,M04,Session1,0122,tip,tip,1,0,0,0
+M3_gated_cross_attention,M04,Session1,0083,jagged,day,1,1,0,0
+M3_gated_cross_attention,M04,Session2,0097,air,yeah,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0199,mitten,metem,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0248,side,side,1,0,0,0
+M3_gated_cross_attention,M05,Session2,0143,pitting,petting,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0267,sell,cell,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0257,seeds,seeds,1,0,0,0
+M3_gated_cross_attention,M05,Session2,0327,dread,dread,1,0,0,0
+M3_gated_cross_attention,M05,Session2,0326,chip,chip,1,0,0,0
+M3_gated_cross_attention,M05,Session2,0384,sink,sink,1,0,0,0
+M3_gated_cross_attention,M05,Session2,0334,meat,you,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0225,lair,their,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0134,snoop,he's a noop,1,1,0,2
+M3_gated_cross_attention,M05,Session2,0114,we're,weare,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0295,wicked,wicking,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0111,wish,wish,1,0,0,0
+M3_gated_cross_attention,M05,Session2,0340,nice,you,1,1,0,0
+M3_gated_cross_attention,M05,Session1,0123,rain,rain,1,0,0,0
+M3_gated_cross_attention,M05,Session2,0254,lick,rick,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0362,sell,sail,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0294,sierra,to you,1,1,0,1
+M3_gated_cross_attention,M05,Session2,0023,rocks,rock,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0121,troop,trope,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0059,pot,pot,1,0,0,0
+M3_gated_cross_attention,M05,Session2,0217,thorn,sowing,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0266,reek,week,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0383,You can ride stagecoach.,You can ride a stagecoach.,4,0,0,1
+M3_gated_cross_attention,M05,Session2,0191,cart,cord,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0099,select,select,1,0,0,0
+M3_gated_cross_attention,M05,Session2,0070,hate,hate,1,0,0,0
+M3_gated_cross_attention,M05,Session2,0010,light,right,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0373,witch,which,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0159,bitten,bitten,1,0,0,0
+M3_gated_cross_attention,M05,Session2,0223,november,nowremember,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0029,pat,cut,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0281,and,andy,1,1,0,0
+M3_gated_cross_attention,M05,Session2,0270,fitting,wetting,1,1,0,0

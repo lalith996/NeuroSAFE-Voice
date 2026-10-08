@@ -1,0 +1,234 @@
+{
+  "train_and_evaluation_stride": 3,
+  "validation_criterion": "mean of per-speaker mean valid-channel Pearson r",
+  "utterance_cepstral_mean_variance_normalization": true,
+  "target": "utterance-centered sagittal coordinates; target scale fitted on TORGO training speakers",
+  "transfer": "MOCHA train-only standardized ridge coefficients as a shrinkage prior",
+  "limitations": "sensor conventions and coordinate systems differ; this is an exploratory transfer pilot",
+  "folds": [
+    {
+      "fold": 0,
+      "method": "torgo_only",
+      "validation_score": 0.25480562442746746,
+      "alpha": 1000.0,
+      "prior_strength": 0.0,
+      "train_speakers": [
+        "F04",
+        "FC03",
+        "M03",
+        "M04",
+        "M05",
+        "MC03",
+        "MC04"
+      ],
+      "validation_speakers": [
+        "F03",
+        "FC02",
+        "M02",
+        "MC02"
+      ],
+      "test_speakers": [
+        "FC01",
+        "M01",
+        "MC01"
+      ],
+      "test_mean_channel_r": 0.2272443646188502
+    },
+    {
+      "fold": 0,
+      "method": "mocha_prior",
+      "validation_score": 0.2555498671183149,
+      "alpha": 1000.0,
+      "prior_strength": 10000.0,
+      "train_speakers": [
+        "F04",
+        "FC03",
+        "M03",
+        "M04",
+        "M05",
+        "MC03",
+        "MC04"
+      ],
+      "validation_speakers": [
+        "F03",
+        "FC02",
+        "M02",
+        "MC02"
+      ],
+      "test_speakers": [
+        "FC01",
+        "M01",
+        "MC01"
+      ],
+      "test_mean_channel_r": 0.2272791434050624
+    },
+    {
+      "fold": 1,
+      "method": "torgo_only",
+      "validation_score": 0.2850722436880946,
+      "alpha": 1000.0,
+      "prior_strength": 0.0,
+      "train_speakers": [
+        "FC01",
+        "M01",
+        "M04",
+        "M05",
+        "MC01",
+        "MC04"
+      ],
+      "validation_speakers": [
+        "F04",
+        "FC03",
+        "M03",
+        "MC03"
+      ],
+      "test_speakers": [
+        "F03",
+        "FC02",
+        "M02",
+        "MC02"
+      ],
+      "test_mean_channel_r": 0.2551418338456215
+    },
+    {
+      "fold": 1,
+      "method": "mocha_prior",
+      "validation_score": 0.288432801132848,
+      "alpha": 1000.0,
+      "prior_strength": 10000.0,
+      "train_speakers": [
+        "FC01",
+        "M01",
+        "M04",
+        "M05",
+        "MC01",
+        "MC04"
+      ],
+      "validation_speakers": [
+        "F04",
+        "FC03",
+        "M03",
+        "MC03"
+      ],
+      "test_speakers": [
+        "F03",
+        "FC02",
+        "M02",
+        "MC02"
+      ],
+      "test_mean_channel_r": 0.25530169149835275
+    },
+    {
+      "fold": 2,
+      "method": "torgo_only",
+      "validation_score": 0.25182055173295037,
+      "alpha": 1000.0,
+      "prior_strength": 0.0,
+      "train_speakers": [
+        "F03",
+        "FC01",
+        "FC02",
+        "M01",
+        "M02",
+        "MC01",
+        "MC02"
+      ],
+      "validation_speakers": [
+        "M04",
+        "M05",
+        "MC04"
+      ],
+      "test_speakers": [
+        "F04",
+        "FC03",
+        "M03",
+        "MC03"
+      ],
+      "test_mean_channel_r": 0.33302168880057853
+    },
+    {
+      "fold": 2,
+      "method": "mocha_prior",
+      "validation_score": 0.2521050777343319,
+      "alpha": 1000.0,
+      "prior_strength": 1000.0,
+      "train_speakers": [
+        "F03",
+        "FC01",
+        "FC02",
+        "M01",
+        "M02",
+        "MC01",
+        "MC02"
+      ],
+      "validation_speakers": [
+        "M04",
+        "M05",
+        "MC04"
+      ],
+      "test_speakers": [
+        "F04",
+        "FC03",
+        "M03",
+        "MC03"
+      ],
+      "test_mean_channel_r": 0.3330391610203938
+    },
+    {
+      "fold": 3,
+      "method": "torgo_only",
+      "validation_score": 0.23174762795616055,
+      "alpha": 1000.0,
+      "prior_strength": 0.0,
+      "train_speakers": [
+        "F03",
+        "F04",
+        "FC02",
+        "FC03",
+        "M02",
+        "M03",
+        "MC02",
+        "MC03"
+      ],
+      "validation_speakers": [
+        "FC01",
+        "M01",
+        "MC01"
+      ],
+      "test_speakers": [
+        "M04",
+        "M05",
+        "MC04"
+      ],
+      "test_mean_channel_r": 0.3234015457678277
+    },
+    {
+      "fold": 3,
+      "method": "mocha_prior",
+      "validation_score": 0.23200839062151193,
+      "alpha": 1000.0,
+      "prior_strength": 1000.0,
+      "train_speakers": [
+        "F03",
+        "F04",
+        "FC02",
+        "FC03",
+        "M02",
+        "M03",
+        "MC02",
+        "MC03"
+      ],
+      "validation_speakers": [
+        "FC01",
+        "M01",
+        "MC01"
+      ],
+      "test_speakers": [
+        "M04",
+        "M05",
+        "MC04"
+      ],
+      "test_mean_channel_r": 0.32379401243310296
+    }
+  ]
+}

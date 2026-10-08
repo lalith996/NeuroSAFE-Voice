@@ -1,0 +1,36 @@
+{
+  "audio_features": "same 40 band log mel, 25 ms window, 10 ms hop as MOCHA",
+  "target_channels": [
+    "li_x",
+    "ul_x",
+    "ll_x",
+    "tt_x",
+    "tb_x",
+    "td_x",
+    "li_vertical",
+    "ul_vertical",
+    "ll_vertical",
+    "tt_vertical",
+    "tb_vertical",
+    "td_vertical"
+  ],
+  "target_sensor_indices_1based": [
+    8,
+    6,
+    7,
+    3,
+    2,
+    1,
+    8,
+    6,
+    7,
+    3,
+    2,
+    1
+  ],
+  "target_coordinate_axes": "TORGO x and z sagittal, head corrected .pos",
+  "target_centering": "subtract each utterance's own target mean",
+  "mask": "session-unavailable, flat, large-step, and unambiguous publisher sensor-fault notes",
+  "speaker_splits": "torgo_speaker_splits.csv; no test speaker training data",
+  "source": "https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt"
+}

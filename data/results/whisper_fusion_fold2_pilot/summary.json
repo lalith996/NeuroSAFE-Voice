@@ -1,0 +1,64 @@
+{
+  "fold": 2,
+  "steps_each": 120,
+  "m1_adapter": "data/results/whisper_small_lora_fold2_pilot/adapter",
+  "aai_model": "fold2_torgo_only_train_only.npz",
+  "aai_train_only_normalization_mean": [
+    3.3089497808447277e-09,
+    -1.0334398892197783e-09,
+    -2.936122678320885e-09,
+    -9.739405726350014e-09,
+    -5.69686686713311e-10,
+    1.1995200388525973e-08,
+    1.042620745295153e-08,
+    3.8480334474400024e-09,
+    -1.691404349912773e-08,
+    1.75470704633085e-09,
+    -9.55637613486715e-09,
+    -4.9300261650842e-09
+  ],
+  "aai_train_only_normalization_std": [
+    0.4869588613510132,
+    0.7148145437240601,
+    1.0251668691635132,
+    1.5343999862670898,
+    1.4572293758392334,
+    1.3174597024917603,
+    1.0726996660232544,
+    0.39083731174468994,
+    1.5697944164276123,
+    1.3781731128692627,
+    1.704999566078186,
+    1.2325271368026733
+  ],
+  "train_utterances": 420,
+  "validation_utterances": 50,
+  "test_utterances": 70,
+  "target_status": "TORGO prompt-derived working targets",
+  "note": "Inferred AAI is derived from audio; these ablations test representation/fusion, not a new measured modality.",
+  "M2_additive": {
+    "initial_validation_loss": 2.000129552744329,
+    "final_validation_loss": 1.9844667146541177,
+    "train_last20_loss": 0.4785253496374935,
+    "train_seconds": 11.08667516708374,
+    "trainable_parameters": 9984,
+    "prompt_wer": 0.13636363636363635,
+    "errors": 15,
+    "reference_words": 110
+  },
+  "M3_gated_cross_attention": {
+    "initial_validation_loss": 2.000129552744329,
+    "final_validation_loss": 1.949103676872328,
+    "train_last20_loss": 0.47536973727401344,
+    "train_seconds": 12.566401291172951,
+    "trainable_parameters": 4143360,
+    "prompt_wer": 0.12727272727272726,
+    "errors": 14,
+    "reference_words": 110
+  },
+  "M1_cached_control": {
+    "prompt_wer": 0.13636363636363635,
+    "errors": 15,
+    "reference_words": 110
+  }
+}

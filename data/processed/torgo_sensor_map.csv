@@ -1,0 +1,13 @@
+sensor_index_1based,name,coordinate_fields,source,status
+1,tongue_back,x|y|z,https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt,official_default_except_where_session_notes_indicate_otherwise
+2,tongue_middle,x|y|z,https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt,official_default_except_where_session_notes_indicate_otherwise
+3,tongue_tip,x|y|z,https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt,official_default_except_where_session_notes_indicate_otherwise
+4,forehead_reference,x|y|z,https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt,official_default_except_where_session_notes_indicate_otherwise
+5,nose_bridge_reference,x|y|z,https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt,official_default_except_where_session_notes_indicate_otherwise
+6,upper_lip,x|y|z,https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt,official_default_except_where_session_notes_indicate_otherwise
+7,lower_lip,x|y|z,https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt,official_default_except_where_session_notes_indicate_otherwise
+8,lower_incisor_jaw,x|y|z,https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt,official_default_except_where_session_notes_indicate_otherwise
+9,left_mouth_corner,x|y|z,https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt,official_default_except_where_session_notes_indicate_otherwise
+10,right_mouth_corner,x|y|z,https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt,official_default_except_where_session_notes_indicate_otherwise
+11,left_ear_reference,x|y|z,https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt,official_default_except_where_session_notes_indicate_otherwise
+12,right_ear_reference,x|y|z,https://catalog.ldc.upenn.edu/docs/LDC2012S02/README.txt,official_default_except_where_session_notes_indicate_otherwise

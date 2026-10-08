@@ -1,0 +1,10 @@
+{
+  "screened_tracks": 6267,
+  "tracks_with_review_flags": 1024,
+  "normally_active_channel_flat": 13,
+  "large_position_step": 1014,
+  "high_priority_tracks": 159,
+  "medium_priority_tracks": 865,
+  "usually_unavailable_speaker_session_channels": 10,
+  "rule_note": "Flat: <0.001 position-unit total variation; usually unavailable: flat in >=90% of speaker/session recordings; large step: >20 position units in one 5 ms frame on a normally active channel. Flags require review and are not automatic exclusions."
+}

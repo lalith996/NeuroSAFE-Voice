@@ -1,0 +1,57 @@
+fold,split,option,model_variant,speaker,session,utterance_id,audio_path,reference,hypothesis,reference_words,substitutions,deletions,insertions,errors
+1,validation,default,full,F04,Session1,0005,data/extracted/torgo/F04/Session1/wav_arrayMic/0005.wav,fee,feet,1,1,0,0,1
+1,validation,default,full,F04,Session1,0007,data/extracted/torgo/F04/Session1/wav_arrayMic/0007.wav,sheet,shaked,1,1,0,0,1
+1,validation,default,full,F04,Session1,0045,data/extracted/torgo/F04/Session1/wav_arrayMic/0045.wav,rake,break,1,1,0,0,1
+1,validation,default,full,F04,Session1,0056,data/extracted/torgo/F04/Session1/wav_arrayMic/0056.wav,bit,fit,1,1,0,0,1
+1,validation,default,full,F04,Session1,0057,data/extracted/torgo/F04/Session1/wav_arrayMic/0057.wav,the,the,1,0,0,0,0
+1,validation,default,full,F04,Session1,0062,data/extracted/torgo/F04/Session1/wav_arrayMic/0062.wav,yes,yes,1,0,0,0,0
+1,validation,default,full,F04,Session1,0063,data/extracted/torgo/F04/Session1/wav_arrayMic/0063.wav,giving those who observe him a pronounced feeling of the utmost respect.,giving those who observe him a pronounced feeling of the utmost respect.,12,0,0,0,0
+1,validation,default,full,F04,Session1,0067,data/extracted/torgo/F04/Session1/wav_arrayMic/0067.wav,Twice each day he plays skillfully and with zest upon our small organ.,Twice each day he plays skillfully and with zest upon our small organ.,13,0,0,0,0
+1,validation,default,full,F04,Session1,0070,data/extracted/torgo/F04/Session1/wav_arrayMic/0070.wav,feed,feed,1,0,0,0,0
+1,validation,default,full,F04,Session1,0078,data/extracted/torgo/F04/Session1/wav_arrayMic/0078.wav,rate,rate,1,0,0,0,0
+1,validation,default,full,F04,Session1,0091,data/extracted/torgo/F04/Session1/wav_arrayMic/0091.wav,"Except in the winter when the ooze or snow or ice prevents,","Except in the winter when they oase or snow or ice prevents,",12,2,0,0,2
+1,validation,default,full,F04,Session1,0092,data/extracted/torgo/F04/Session1/wav_arrayMic/0092.wav,"Except in the winter when the ooze or snow or ice prevents,","Except in the winter when the ooze or snow or ice prevents,",12,0,0,0,0
+1,validation,default,full,F04,Session1,0093,data/extracted/torgo/F04/Session1/wav_arrayMic/0093.wav,trade,trade,1,0,0,0,0
+1,validation,default,full,F04,Session1,0100,data/extracted/torgo/F04/Session1/wav_arrayMic/0100.wav,"When he speaks, his voice is just a bit cracked and quivers a trifle.","When he speaks, his voice is just a bit cracked and quivers a trifle.",14,0,0,0,0
+1,validation,default,full,F04,Session1,0105,data/extracted/torgo/F04/Session1/wav_arrayMic/0105.wav,tear,tear,1,0,0,0,0
+1,validation,default,full,F04,Session1,0107,data/extracted/torgo/F04/Session1/wav_arrayMic/0107.wav,stick,stick,1,0,0,0,0
+1,validation,default,full,F04,Session1,0120,data/extracted/torgo/F04/Session1/wav_arrayMic/0120.wav,"A long, flowing beard clings to his chin,",A long flowing beard clings to his chin.,8,0,0,0,0
+1,validation,default,full,F04,Session1,0134,data/extracted/torgo/F04/Session1/wav_arrayMic/0134.wav,charlie,charlie,1,0,0,0,0
+1,validation,default,full,F04,Session1,0155,data/extracted/torgo/F04/Session1/wav_arrayMic/0155.wav,near,near,1,0,0,0,0
+1,validation,default,full,F04,Session1,0159,data/extracted/torgo/F04/Session1/wav_arrayMic/0159.wav,"If you destroy confidence in banks, you do something to the economy, he said.","If you destroy confidence in banks, you do something to the economy, he said.",14,0,0,0,0
+1,validation,default,full,F04,Session1,0163,data/extracted/torgo/F04/Session1/wav_arrayMic/0163.wav,write,right,1,1,0,0,1
+1,validation,default,full,F04,Session1,0165,data/extracted/torgo/F04/Session1/wav_arrayMic/0165.wav,no,no,1,0,0,0,0
+1,validation,default,full,F04,Session1,0184,data/extracted/torgo/F04/Session1/wav_arrayMic/0184.wav,Two other cases also were under advisement.,Two other cases also were under advisement.,7,0,0,0,0
+1,validation,default,full,F04,Session1,0190,data/extracted/torgo/F04/Session1/wav_arrayMic/0190.wav,rock,rock,1,0,0,0,0
+1,validation,default,full,F04,Session2,0104,data/extracted/torgo/F04/Session2/wav_headMic/0104.wav,pit,pit,1,0,0,0,0
+1,validation,default,full,F04,Session2,0130,data/extracted/torgo/F04/Session2/wav_headMic/0130.wav,papa,proper,1,1,0,0,1
+1,validation,default,full,F04,Session2,0143,data/extracted/torgo/F04/Session2/wav_headMic/0143.wav,This is not a program of socialized medicine.,This is not a program of socialized medicine.,8,0,0,0,0
+1,validation,default,full,F04,Session2,0151,data/extracted/torgo/F04/Session2/wav_headMic/0151.wav,kitten,kitchen,1,1,0,0,1
+1,validation,default,full,F04,Session2,0160,data/extracted/torgo/F04/Session2/wav_headMic/0160.wav,him,him,1,0,0,0,0
+1,validation,default,full,M03,Session2,0008,data/extracted/torgo/M03/Session2/wav_headMic/0008.wav,lead,lead as it,1,0,0,2,2
+1,validation,default,full,M03,Session2,0029,data/extracted/torgo/M03/Session2/wav_headMic/0029.wav,"Except in the winter when the ooze or snow or ice prevents,","Except in the winter when the ooze or snow or ice prevents,",12,0,0,0,0
+1,validation,default,full,M03,Session2,0035,data/extracted/torgo/M03/Session2/wav_headMic/0035.wav,trouble,trouble,1,0,0,0,0
+1,validation,default,full,M03,Session2,0042,data/extracted/torgo/M03/Session2/wav_headMic/0042.wav,chair,chair,1,0,0,0,0
+1,validation,default,full,M03,Session2,0059,data/extracted/torgo/M03/Session2/wav_headMic/0059.wav,park,park,1,0,0,0,0
+1,validation,default,full,M03,Session2,0066,data/extracted/torgo/M03/Session2/wav_headMic/0066.wav,beat,beat,1,0,0,0,0
+1,validation,default,full,M03,Session2,0096,data/extracted/torgo/M03/Session2/wav_headMic/0096.wav,Twice each day he plays skillfully and with zest upon our small organ.,Twice each day he plays skillfully and with zest upon our small organ.,13,0,0,0,0
+1,validation,default,full,M03,Session2,0101,data/extracted/torgo/M03/Session2/wav_headMic/0101.wav,"When he speaks, his voice is just a bit cracked and quivers a trifle.","When he speaks, his voice is just a bit crackled and quivers a trifle.",14,1,0,0,1
+1,validation,default,full,M03,Session2,0127,data/extracted/torgo/M03/Session2/wav_headMic/0127.wav,urgent,urgent,1,0,0,0,0
+1,validation,default,full,M03,Session2,0166,data/extracted/torgo/M03/Session2/wav_headMic/0166.wav,The islands are sparsely populated.,The islands are sparsely populated.,5,0,0,0,0
+1,validation,default,full,M03,Session2,0190,data/extracted/torgo/M03/Session2/wav_headMic/0190.wav,sprinkle,sprinkle,1,0,0,0,0
+1,validation,default,full,M03,Session2,0207,data/extracted/torgo/M03/Session2/wav_headMic/0207.wav,single,single,1,0,0,0,0
+1,validation,default,full,M03,Session2,0230,data/extracted/torgo/M03/Session2/wav_headMic/0230.wav,explore,explore,1,0,0,0,0
+1,validation,default,full,M03,Session2,0235,data/extracted/torgo/M03/Session2/wav_headMic/0235.wav,boot,boot,1,0,0,0,0
+1,validation,default,full,M03,Session2,0236,data/extracted/torgo/M03/Session2/wav_headMic/0236.wav,fate,fate,1,0,0,0,0
+1,validation,default,full,M03,Session2,0240,data/extracted/torgo/M03/Session2/wav_headMic/0240.wav,pot,pot,1,0,0,0,0
+1,validation,default,full,M03,Session2,0244,data/extracted/torgo/M03/Session2/wav_headMic/0244.wav,"If you destroy confidence in banks, you do something to the economy, he said.","If you destroy confidence in banks, you do something in the economy,"" he said.",14,1,0,0,1
+1,validation,default,full,M03,Session2,0245,data/extracted/torgo/M03/Session2/wav_headMic/0245.wav,"If you destroy confidence in banks, you do something to the economy, he said.","If you destroy confidence in banks, you do something to the economy, he said.",14,0,0,0,0
+1,validation,default,full,M03,Session2,0247,data/extracted/torgo/M03/Session2/wav_headMic/0247.wav,play,play,1,0,0,0,0
+1,validation,default,full,M03,Session2,0275,data/extracted/torgo/M03/Session2/wav_headMic/0275.wav,"Before Thursday's exam, review every formula.","Before Thursday's exam, review every formula.",6,0,0,0,0
+1,validation,default,full,M03,Session2,0307,data/extracted/torgo/M03/Session2/wav_headMic/0307.wav,november,November,1,0,0,0,0
+1,validation,default,full,M03,Session2,0325,data/extracted/torgo/M03/Session2/wav_headMic/0325.wav,liar,liar,1,0,0,0,0
+1,validation,default,full,M03,Session2,0326,data/extracted/torgo/M03/Session2/wav_headMic/0326.wav,lair,layer,1,1,0,0,1
+1,validation,default,full,M03,Session2,0334,data/extracted/torgo/M03/Session2/wav_headMic/0334.wav,league,league,1,0,0,0,0
+1,validation,default,full,M03,Session2,0344,data/extracted/torgo/M03/Session2/wav_headMic/0344.wav,It also provides for funds to clear slums and help colleges build dormitories.,It also provides for funds to clear slums and help colleges build dormitories.,13,0,0,0,0
+1,validation,default,full,M03,Session2,0382,data/extracted/torgo/M03/Session2/wav_headMic/0382.wav,hitting,hitting,1,0,0,0,0
+1,validation,default,full,M03,Session2,0392,data/extracted/torgo/M03/Session2/wav_headMic/0392.wav,sink,sink,1,0,0,0,0

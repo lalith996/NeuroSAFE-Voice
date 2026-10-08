@@ -1,0 +1,3 @@
+experiment,train_speaker,validation_speaker,unseen_test_speaker
+fsew0_to_msak0,fsew0,fsew0,msak0
+msak0_to_fsew0,msak0,msak0,fsew0

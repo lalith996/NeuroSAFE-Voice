@@ -1,0 +1,27 @@
+text,expected_intent,expected_risk,expected_contact
+What time is it?,read_time,low,
+Tell me the time,read_time,low,
+What is the time,read_time,low,
+Open the browser,open_app,low,
+Open notes,open_app,low,
+Open calendar,open_app,low,
+Show my calendar,read_calendar,low,
+Read my calendar,read_calendar,low,
+Turn on the bedroom light,set_light,medium,
+Turn off the kitchen light,set_light,medium,
+Turn on the living room light,set_light,medium,
+Call Asha,place_call,high,Asha
+Call mum,place_call,high,Asha
+Send a message to Sam saying I am home,send_message,high,Sam
+Send message to Asha saying Please call me,send_message,high,Asha
+Delete the old note,delete_note,high,
+Delete my old note,delete_note,high,
+Don't call Asha,none,,
+Call an unknown person,none,,
+The browser is open,none,,
+Turn on the oven,none,,
+Please delete everything,none,,
+Maybe send a message to Sam saying hello,none,,
+The kitchen light is on,none,,
+Nothing has been done yet to take advantage of the enabling legislation,none,,
+I want to cancel my subscription,none,,

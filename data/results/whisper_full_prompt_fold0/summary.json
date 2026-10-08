@@ -1,0 +1,48 @@
+{
+  "fold": 0,
+  "train_pool_count": 2992,
+  "validation_count": 60,
+  "test_count": 43,
+  "prior_m1": {
+    "utterances": 43,
+    "reference_words": 348,
+    "errors": 209,
+    "prompt_wer": 0.6005747126436781
+  },
+  "full_prompt_m1": {
+    "utterances": 43,
+    "reference_words": 348,
+    "errors": 191,
+    "prompt_wer": 0.5488505747126436
+  },
+  "by_speaker": {
+    "F01": {
+      "prior_m1": {
+        "utterances": 8,
+        "reference_words": 94,
+        "errors": 62,
+        "prompt_wer": 0.6595744680851063
+      },
+      "full_prompt_m1": {
+        "utterances": 8,
+        "reference_words": 94,
+        "errors": 55,
+        "prompt_wer": 0.5851063829787234
+      }
+    },
+    "M01": {
+      "prior_m1": {
+        "utterances": 35,
+        "reference_words": 254,
+        "errors": 147,
+        "prompt_wer": 0.5787401574803149
+      },
+      "full_prompt_m1": {
+        "utterances": 35,
+        "reference_words": 254,
+        "errors": 136,
+        "prompt_wer": 0.5354330708661418
+      }
+    }
+  }
+}

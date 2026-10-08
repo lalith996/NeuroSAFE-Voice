@@ -1,0 +1,31 @@
+# Local Python environment and operating-system files
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+
+# Temporary presentation builds and other scratch work
+.codex-build/
+.codex-finalizer/
+.chart-data-*/
+tmp/
+
+# Third-party corpora and participant recordings stay on the local machine.
+data/raw/
+data/extracted/
+data/new_recordings/
+data/results/new_recordings/
+data/results/assistant_core/synthetic_command_smoke.json
+
+# Regenerable acoustic and articulatory arrays, including decoded corpus data.
+data/processed/mocha_aai_decoded/
+data/processed/mocha_aai_features/
+data/processed/torgo_aai_features/
+data/processed/torgo_oof_aai_features/
+data/processed/torgo_oof_aai_features_cmvn/
+data/results/**/predictions/
+
+# Review archives contain copies of licensed recordings.
+data/exports/*.zip

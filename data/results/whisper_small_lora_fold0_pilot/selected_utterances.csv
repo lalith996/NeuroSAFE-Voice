@@ -1,0 +1,516 @@
+role,speaker,session,utterance_id,audio_path,reference,duration_seconds,target_status
+train,F04,Session1,0035,data/extracted/torgo/F04/Session1/wav_arrayMic/0035.wav,tip,1.95,working_target_not_individually_verified
+train,F04,Session1,0096,data/extracted/torgo/F04/Session1/wav_arrayMic/0096.wav,ship,1.95,working_target_not_individually_verified
+train,F04,Session1,0147,data/extracted/torgo/F04/Session1/wav_arrayMic/0147.wav,Mother sews yellow gingham aprons.,5.25,working_target_not_individually_verified
+train,F04,Session1,0150,data/extracted/torgo/F04/Session1/wav_arrayMic/0150.wav,Where were you while we were away?,3.6,working_target_not_individually_verified
+train,F04,Session1,0186,data/extracted/torgo/F04/Session1/wav_arrayMic/0186.wav,hate,1.2,working_target_not_individually_verified
+train,F04,Session1,0031,data/extracted/torgo/F04/Session1/wav_arrayMic/0031.wav,chair,1.95,working_target_not_individually_verified
+train,F04,Session1,0065,data/extracted/torgo/F04/Session1/wav_arrayMic/0065.wav,The quick brown fox jumps over the lazy dog.,5.25,working_target_not_individually_verified
+train,F04,Session1,0173,data/extracted/torgo/F04/Session1/wav_arrayMic/0173.wav,of,1.2,working_target_not_individually_verified
+train,F04,Session1,0179,data/extracted/torgo/F04/Session1/wav_arrayMic/0179.wav,pat,1.05,working_target_not_individually_verified
+train,F04,Session1,0162,data/extracted/torgo/F04/Session1/wav_arrayMic/0162.wav,coupe,1.95,working_target_not_individually_verified
+train,F04,Session1,0125,data/extracted/torgo/F04/Session1/wav_arrayMic/0125.wav,bat,1.5,working_target_not_individually_verified
+train,F04,Session1,0166,data/extracted/torgo/F04/Session1/wav_arrayMic/0166.wav,The islands are sparsely populated.,3.45,working_target_not_individually_verified
+train,F04,Session1,0160,data/extracted/torgo/F04/Session1/wav_arrayMic/0160.wav,bat,2.85,working_target_not_individually_verified
+train,F04,Session2,0114,data/extracted/torgo/F04/Session2/wav_headMic/0114.wav,reek,2.175,working_target_not_individually_verified
+train,F04,Session1,0144,data/extracted/torgo/F04/Session1/wav_arrayMic/0144.wav,slip,1.5,working_target_not_individually_verified
+train,F04,Session2,0132,data/extracted/torgo/F04/Session2/wav_headMic/0132.wav,brawn,3.38506,working_target_not_individually_verified
+train,F04,Session1,0170,data/extracted/torgo/F04/Session1/wav_arrayMic/0170.wav,select,1.65,working_target_not_individually_verified
+train,F04,Session1,0130,data/extracted/torgo/F04/Session1/wav_arrayMic/0130.wav,You'd be better off taking a cold shower.,4.05,working_target_not_individually_verified
+train,F04,Session1,0072,data/extracted/torgo/F04/Session1/wav_arrayMic/0072.wav,bug,1.35,working_target_not_individually_verified
+train,F04,Session1,0005,data/extracted/torgo/F04/Session1/wav_arrayMic/0005.wav,fee,2.85,working_target_not_individually_verified
+train,F04,Session1,0177,data/extracted/torgo/F04/Session1/wav_arrayMic/0177.wav,My sister made the flowered curtains.,4.05,working_target_not_individually_verified
+train,F04,Session1,0025,data/extracted/torgo/F04/Session1/wav_arrayMic/0025.wav,he dressed himself in an ancient black frock coat,4.5,working_target_not_individually_verified
+train,F04,Session1,0033,data/extracted/torgo/F04/Session1/wav_arrayMic/0033.wav,spark,1.5,working_target_not_individually_verified
+train,F04,Session1,0085,data/extracted/torgo/F04/Session1/wav_arrayMic/0085.wav,feet,1.8,working_target_not_individually_verified
+train,F04,Session1,0030,data/extracted/torgo/F04/Session1/wav_arrayMic/0030.wav,chair,0.9,working_target_not_individually_verified
+train,F04,Session1,0133,data/extracted/torgo/F04/Session1/wav_arrayMic/0133.wav,Both figures would go higher in later years.,3.75,working_target_not_individually_verified
+train,F04,Session1,0007,data/extracted/torgo/F04/Session1/wav_arrayMic/0007.wav,sheet,0.9,working_target_not_individually_verified
+train,F04,Session1,0196,data/extracted/torgo/F04/Session1/wav_arrayMic/0196.wav,we're,2.55,working_target_not_individually_verified
+train,F04,Session2,0135,data/extracted/torgo/F04/Session2/wav_headMic/0135.wav,tell,3.465,working_target_not_individually_verified
+train,F04,Session1,0194,data/extracted/torgo/F04/Session1/wav_arrayMic/0194.wav,fate,1.05,working_target_not_individually_verified
+train,F04,Session1,0095,data/extracted/torgo/F04/Session1/wav_arrayMic/0095.wav,bubble,1.5,working_target_not_individually_verified
+train,F04,Session1,0060,data/extracted/torgo/F04/Session1/wav_arrayMic/0060.wav,raid,1.8,working_target_not_individually_verified
+train,F04,Session1,0117,data/extracted/torgo/F04/Session1/wav_arrayMic/0117.wav,swore,1.8,working_target_not_individually_verified
+train,F04,Session1,0075,data/extracted/torgo/F04/Session1/wav_arrayMic/0075.wav,floor,0.9,working_target_not_individually_verified
+train,F04,Session1,0105,data/extracted/torgo/F04/Session1/wav_arrayMic/0105.wav,tear,0.75,working_target_not_individually_verified
+train,F04,Session1,0107,data/extracted/torgo/F04/Session1/wav_arrayMic/0107.wav,stick,2.55,working_target_not_individually_verified
+train,F04,Session1,0112,data/extracted/torgo/F04/Session1/wav_arrayMic/0112.wav,"We have often urged him to walk more and smoke less,",5.1,working_target_not_individually_verified
+train,F04,Session2,0156,data/extracted/torgo/F04/Session2/wav_headMic/0156.wav,leak,2.545,working_target_not_individually_verified
+train,F04,Session1,0183,data/extracted/torgo/F04/Session1/wav_arrayMic/0183.wav,light,1.65,working_target_not_individually_verified
+train,F04,Session1,0024,data/extracted/torgo/F04/Session1/wav_arrayMic/0024.wav,jacket,1.95,working_target_not_individually_verified
+train,F04,Session1,0103,data/extracted/torgo/F04/Session1/wav_arrayMic/0103.wav,sip,1.8,working_target_not_individually_verified
+train,F04,Session1,0027,data/extracted/torgo/F04/Session1/wav_arrayMic/0027.wav,usually minus several buttons;,4.65,working_target_not_individually_verified
+train,F04,Session2,0146,data/extracted/torgo/F04/Session2/wav_headMic/0146.wav,at,2.945,working_target_not_individually_verified
+train,F04,Session1,0156,data/extracted/torgo/F04/Session1/wav_arrayMic/0156.wav,cheer,1.8,working_target_not_individually_verified
+train,F04,Session1,0086,data/extracted/torgo/F04/Session1/wav_arrayMic/0086.wav,beta,2.4,working_target_not_individually_verified
+train,F04,Session2,0113,data/extracted/torgo/F04/Session2/wav_headMic/0113.wav,side,2.13,working_target_not_individually_verified
+train,F04,Session1,0135,data/extracted/torgo/F04/Session1/wav_arrayMic/0135.wav,mut,1.65,working_target_not_individually_verified
+train,F04,Session1,0041,data/extracted/torgo/F04/Session1/wav_arrayMic/0041.wav,two,1.35,working_target_not_individually_verified
+train,F04,Session1,0167,data/extracted/torgo/F04/Session1/wav_arrayMic/0167.wav,area,1.95,working_target_not_individually_verified
+train,F04,Session1,0094,data/extracted/torgo/F04/Session1/wav_arrayMic/0094.wav,alpha,1.5,working_target_not_individually_verified
+train,F04,Session1,0011,data/extracted/torgo/F04/Session1/wav_arrayMic/0011.wav,torn,1.35,working_target_not_individually_verified
+train,F04,Session1,0110,data/extracted/torgo/F04/Session1/wav_arrayMic/0110.wav,warm,1.05,working_target_not_individually_verified
+train,F04,Session1,0109,data/extracted/torgo/F04/Session1/wav_arrayMic/0109.wav,car,1.65,working_target_not_individually_verified
+train,F04,Session1,0136,data/extracted/torgo/F04/Session1/wav_arrayMic/0136.wav,troop,1.35,working_target_not_individually_verified
+train,F04,Session1,0126,data/extracted/torgo/F04/Session1/wav_arrayMic/0126.wav,up,1.35,working_target_not_individually_verified
+train,F04,Session1,0028,data/extracted/torgo/F04/Session1/wav_arrayMic/0028.wav,store,1.05,working_target_not_individually_verified
+train,F04,Session1,0118,data/extracted/torgo/F04/Session1/wav_arrayMic/0118.wav,feet,1.95,working_target_not_individually_verified
+train,F04,Session1,0169,data/extracted/torgo/F04/Session1/wav_arrayMic/0169.wav,tile,1.65,working_target_not_individually_verified
+train,F04,Session1,0161,data/extracted/torgo/F04/Session1/wav_arrayMic/0161.wav,tear,1.35,working_target_not_individually_verified
+train,F04,Session1,0146,data/extracted/torgo/F04/Session1/wav_arrayMic/0146.wav,white,1.5,working_target_not_individually_verified
+train,F04,Session1,0034,data/extracted/torgo/F04/Session1/wav_arrayMic/0034.wav,Grandfather likes to be modern in his language.,5.4,working_target_not_individually_verified
+train,F04,Session1,0175,data/extracted/torgo/F04/Session1/wav_arrayMic/0175.wav,forward,1.95,working_target_not_individually_verified
+train,F04,Session1,0148,data/extracted/torgo/F04/Session1/wav_arrayMic/0148.wav,I just try to do my best.,4.35,working_target_not_individually_verified
+train,F04,Session2,0076,data/extracted/torgo/F04/Session2/wav_headMic/0076.wav,seeds,2.015,working_target_not_individually_verified
+train,F04,Session1,0199,data/extracted/torgo/F04/Session1/wav_arrayMic/0199.wav,air,1.8,working_target_not_individually_verified
+train,F04,Session1,0153,data/extracted/torgo/F04/Session1/wav_arrayMic/0153.wav,group,1.5,working_target_not_individually_verified
+train,F04,Session1,0078,data/extracted/torgo/F04/Session1/wav_arrayMic/0078.wav,rate,1.8,working_target_not_individually_verified
+train,F04,Session2,0145,data/extracted/torgo/F04/Session2/wav_headMic/0145.wav,league,2.62,working_target_not_individually_verified
+train,F04,Session1,0141,data/extracted/torgo/F04/Session1/wav_arrayMic/0141.wav,hear,0.9,working_target_not_individually_verified
+train,F04,Session1,0193,data/extracted/torgo/F04/Session1/wav_arrayMic/0193.wav,knot,1.05,working_target_not_individually_verified
+train,F04,Session1,0151,data/extracted/torgo/F04/Session1/wav_arrayMic/0151.wav,deer,1.65,working_target_not_individually_verified
+train,F04,Session2,0150,data/extracted/torgo/F04/Session2/wav_headMic/0150.wav,take,2.065,working_target_not_individually_verified
+train,F04,Session2,0152,data/extracted/torgo/F04/Session2/wav_headMic/0152.wav,sitting,3.49,working_target_not_individually_verified
+train,F04,Session1,0038,data/extracted/torgo/F04/Session1/wav_arrayMic/0038.wav,She had your dark suit in greasy wash water all year.,5.85,working_target_not_individually_verified
+train,F04,Session1,0017,data/extracted/torgo/F04/Session1/wav_arrayMic/0017.wav,sticks,1.65,working_target_not_individually_verified
+train,F04,Session1,0152,data/extracted/torgo/F04/Session1/wav_arrayMic/0152.wav,droop,1.35,working_target_not_individually_verified
+train,F04,Session2,0153,data/extracted/torgo/F04/Session2/wav_headMic/0153.wav,no,3.53,working_target_not_individually_verified
+train,F04,Session1,0127,data/extracted/torgo/F04/Session1/wav_arrayMic/0127.wav,knew,1.95,working_target_not_individually_verified
+train,F04,Session1,0138,data/extracted/torgo/F04/Session1/wav_arrayMic/0138.wav,wish,1.35,working_target_not_individually_verified
+train,F04,Session1,0182,data/extracted/torgo/F04/Session1/wav_arrayMic/0182.wav,pay,1.5,working_target_not_individually_verified
+train,M03,Session2,0337,data/extracted/torgo/M03/Session2/wav_headMic/0337.wav,foxtrot,2.52,working_target_not_individually_verified
+train,M03,Session2,0168,data/extracted/torgo/M03/Session2/wav_headMic/0168.wav,This was easy for us.,3.33006,working_target_not_individually_verified
+train,M03,Session2,0092,data/extracted/torgo/M03/Session2/wav_headMic/0092.wav,share,2.25,working_target_not_individually_verified
+train,M03,Session2,0319,data/extracted/torgo/M03/Session2/wav_headMic/0319.wav,leak,2.27,working_target_not_individually_verified
+train,M03,Session2,0330,data/extracted/torgo/M03/Session2/wav_headMic/0330.wav,hat,2.23,working_target_not_individually_verified
+train,M03,Session2,0385,data/extracted/torgo/M03/Session2/wav_headMic/0385.wav,echo,1.73,working_target_not_individually_verified
+train,M03,Session2,0181,data/extracted/torgo/M03/Session2/wav_headMic/0181.wav,slay,2.08506,working_target_not_individually_verified
+train,M03,Session2,0394,data/extracted/torgo/M03/Session2/wav_headMic/0394.wav,victor,2.65,working_target_not_individually_verified
+train,M03,Session2,0281,data/extracted/torgo/M03/Session2/wav_headMic/0281.wav,pit,2.18,working_target_not_individually_verified
+train,M03,Session2,0217,data/extracted/torgo/M03/Session2/wav_headMic/0217.wav,shoot,2.79,working_target_not_individually_verified
+train,M03,Session2,0387,data/extracted/torgo/M03/Session2/wav_headMic/0387.wav,quebec,2.42,working_target_not_individually_verified
+train,M03,Session2,0352,data/extracted/torgo/M03/Session2/wav_headMic/0352.wav,him,2.515,working_target_not_individually_verified
+train,M03,Session2,0336,data/extracted/torgo/M03/Session2/wav_headMic/0336.wav,spain,2.32,working_target_not_individually_verified
+train,M03,Session2,0307,data/extracted/torgo/M03/Session2/wav_headMic/0307.wav,november,1.93,working_target_not_individually_verified
+train,M03,Session2,0149,data/extracted/torgo/M03/Session2/wav_headMic/0149.wav,hear,2.325,working_target_not_individually_verified
+train,M03,Session2,0210,data/extracted/torgo/M03/Session2/wav_headMic/0210.wav,knot,1.67,working_target_not_individually_verified
+train,M03,Session2,0195,data/extracted/torgo/M03/Session2/wav_headMic/0195.wav,lip,3.22,working_target_not_individually_verified
+train,M03,Session2,0008,data/extracted/torgo/M03/Session2/wav_headMic/0008.wav,lead,2.45,working_target_not_individually_verified
+train,M03,Session2,0030,data/extracted/torgo/M03/Session2/wav_headMic/0030.wav,feed,2.0,working_target_not_individually_verified
+train,M03,Session2,0118,data/extracted/torgo/M03/Session2/wav_headMic/0118.wav,giving those who observe him a pronounced feeling of the utmost respect.,5.37,working_target_not_individually_verified
+train,M03,Session2,0419,data/extracted/torgo/M03/Session2/wav_headMic/0419.wav,tin,2.38,working_target_not_individually_verified
+train,M03,Session2,0321,data/extracted/torgo/M03/Session2/wav_headMic/0321.wav,rich,2.315,working_target_not_individually_verified
+train,M03,Session2,0364,data/extracted/torgo/M03/Session2/wav_headMic/0364.wav,fill,2.675,working_target_not_individually_verified
+train,M03,Session2,0343,data/extracted/torgo/M03/Session2/wav_headMic/0343.wav,seeds,2.265,working_target_not_individually_verified
+train,M03,Session2,0252,data/extracted/torgo/M03/Session2/wav_headMic/0252.wav,brawn,2.135,working_target_not_individually_verified
+train,M03,Session2,0148,data/extracted/torgo/M03/Session2/wav_headMic/0148.wav,area,2.395,working_target_not_individually_verified
+train,M03,Session2,0188,data/extracted/torgo/M03/Session2/wav_headMic/0188.wav,tile,2.385,working_target_not_individually_verified
+train,M03,Session2,0341,data/extracted/torgo/M03/Session2/wav_headMic/0341.wav,seven,2.1,working_target_not_individually_verified
+train,M03,Session2,0327,data/extracted/torgo/M03/Session2/wav_headMic/0327.wav,him,2.21,working_target_not_individually_verified
+train,M03,Session2,0357,data/extracted/torgo/M03/Session2/wav_headMic/0357.wav,zero,2.655,working_target_not_individually_verified
+train,M03,Session2,0348,data/extracted/torgo/M03/Session2/wav_headMic/0348.wav,six,2.94,working_target_not_individually_verified
+train,M03,Session2,0308,data/extracted/torgo/M03/Session2/wav_headMic/0308.wav,bitten,2.21,working_target_not_individually_verified
+train,M03,Session2,0393,data/extracted/torgo/M03/Session2/wav_headMic/0393.wav,meat,2.66,working_target_not_individually_verified
+train,M03,Session2,0032,data/extracted/torgo/M03/Session2/wav_headMic/0032.wav,fair,2.045,working_target_not_individually_verified
+train,M03,Session2,0208,data/extracted/torgo/M03/Session2/wav_headMic/0208.wav,tie,1.91,working_target_not_individually_verified
+train,M03,Session2,0224,data/extracted/torgo/M03/Session2/wav_headMic/0224.wav,peer,1.88,working_target_not_individually_verified
+train,M03,Session2,0076,data/extracted/torgo/M03/Session2/wav_headMic/0076.wav,beat,2.2,working_target_not_individually_verified
+train,M03,Session2,0310,data/extracted/torgo/M03/Session2/wav_headMic/0310.wav,fitting,2.315,working_target_not_individually_verified
+train,M03,Session2,0359,data/extracted/torgo/M03/Session2/wav_headMic/0359.wav,darn,3.01,working_target_not_individually_verified
+train,M03,Session2,0187,data/extracted/torgo/M03/Session2/wav_headMic/0187.wav,"Everything went real smooth, the sheriff said.",4.575,working_target_not_individually_verified
+train,M03,Session2,0317,data/extracted/torgo/M03/Session2/wav_headMic/0317.wav,fat,2.115,working_target_not_individually_verified
+train,M03,Session2,0139,data/extracted/torgo/M03/Session2/wav_headMic/0139.wav,no,2.25,working_target_not_individually_verified
+train,M03,Session2,0298,data/extracted/torgo/M03/Session2/wav_headMic/0298.wav,oscar,2.28,working_target_not_individually_verified
+train,M03,Session2,0053,data/extracted/torgo/M03/Session2/wav_headMic/0053.wav,trait,2.03006,working_target_not_individually_verified
+train,M03,Session2,0194,data/extracted/torgo/M03/Session2/wav_headMic/0194.wav,I just try to do my best.,3.555,working_target_not_individually_verified
+train,M03,Session2,0350,data/extracted/torgo/M03/Session2/wav_headMic/0350.wav,bit,2.155,working_target_not_individually_verified
+train,M03,Session2,0257,data/extracted/torgo/M03/Session2/wav_headMic/0257.wav,It was a good win for us.,3.18,working_target_not_individually_verified
+train,M03,Session2,0075,data/extracted/torgo/M03/Session2/wav_headMic/0075.wav,beat,2.055,working_target_not_individually_verified
+train,M03,Session2,0145,data/extracted/torgo/M03/Session2/wav_headMic/0145.wav,suit,2.7,working_target_not_individually_verified
+train,M03,Session2,0288,data/extracted/torgo/M03/Session2/wav_headMic/0288.wav,pit,2.325,working_target_not_individually_verified
+train,M03,Session2,0114,data/extracted/torgo/M03/Session2/wav_headMic/0114.wav,the,2.345,working_target_not_individually_verified
+train,M03,Session2,0316,data/extracted/torgo/M03/Session2/wav_headMic/0316.wav,sitting,2.13506,working_target_not_individually_verified
+train,M03,Session2,0011,data/extracted/torgo/M03/Session2/wav_headMic/0011.wav,tip,2.345,working_target_not_individually_verified
+train,M03,Session2,0071,data/extracted/torgo/M03/Session2/wav_headMic/0071.wav,sticks,2.39,working_target_not_individually_verified
+train,M03,Session2,0002,data/extracted/torgo/M03/Session2/wav_headMic/0002.wav,now,5.19506,working_target_not_individually_verified
+train,M03,Session2,0409,data/extracted/torgo/M03/Session2/wav_headMic/0409.wav,uniform,2.43,working_target_not_individually_verified
+train,M03,Session2,0065,data/extracted/torgo/M03/Session2/wav_headMic/0065.wav,yet he still thinks as swiftly as ever.,4.555,working_target_not_individually_verified
+train,M03,Session2,0147,data/extracted/torgo/M03/Session2/wav_headMic/0147.wav,coupe,2.605,working_target_not_individually_verified
+train,M03,Session2,0179,data/extracted/torgo/M03/Session2/wav_headMic/0179.wav,I was conscious all the time.,3.425,working_target_not_individually_verified
+train,M03,Session2,0091,data/extracted/torgo/M03/Session2/wav_headMic/0091.wav,slip,2.17,working_target_not_individually_verified
+train,M03,Session2,0039,data/extracted/torgo/M03/Session2/wav_headMic/0039.wav,range,2.845,working_target_not_individually_verified
+train,M03,Session2,0250,data/extracted/torgo/M03/Session2/wav_headMic/0250.wav,Two other cases also were under advisement.,4.44,working_target_not_individually_verified
+train,M03,Session2,0123,data/extracted/torgo/M03/Session2/wav_headMic/0123.wav,select,2.82,working_target_not_individually_verified
+train,M03,Session2,0005,data/extracted/torgo/M03/Session2/wav_headMic/0005.wav,rain,1.86,working_target_not_individually_verified
+train,M03,Session2,0222,data/extracted/torgo/M03/Session2/wav_headMic/0222.wav,Nothing is as offensive as innocence.,5.535,working_target_not_individually_verified
+train,M03,Session2,0410,data/extracted/torgo/M03/Session2/wav_headMic/0410.wav,Beg that guard for one gallon of gas.,4.42,working_target_not_individually_verified
+train,M03,Session2,0403,data/extracted/torgo/M03/Session2/wav_headMic/0403.wav,sand,2.34,working_target_not_individually_verified
+train,M03,Session2,0345,data/extracted/torgo/M03/Session2/wav_headMic/0345.wav,written,2.35,working_target_not_individually_verified
+train,M03,Session2,0107,data/extracted/torgo/M03/Session2/wav_headMic/0107.wav,The quick brown fox jumps over the lazy dog.,4.625,working_target_not_individually_verified
+train,M03,Session2,0164,data/extracted/torgo/M03/Session2/wav_headMic/0164.wav,I looked up and noticed two old men.,3.87,working_target_not_individually_verified
+train,M03,Session2,0333,data/extracted/torgo/M03/Session2/wav_headMic/0333.wav,hem,2.41,working_target_not_individually_verified
+train,M03,Session2,0414,data/extracted/torgo/M03/Session2/wav_headMic/0414.wav,ham,2.35,working_target_not_individually_verified
+train,M03,Session2,0105,data/extracted/torgo/M03/Session2/wav_headMic/0105.wav,floor,2.495,working_target_not_individually_verified
+train,M03,Session2,0420,data/extracted/torgo/M03/Session2/wav_headMic/0420.wav,the prospect of cutting back spending is an unpleasant one for any governor,5.915,working_target_not_individually_verified
+train,M03,Session2,0354,data/extracted/torgo/M03/Session2/wav_headMic/0354.wav,side,1.49,working_target_not_individually_verified
+train,M03,Session2,0066,data/extracted/torgo/M03/Session2/wav_headMic/0066.wav,beat,2.11,working_target_not_individually_verified
+train,M03,Session2,0292,data/extracted/torgo/M03/Session2/wav_headMic/0292.wav,reek,2.775,working_target_not_individually_verified
+train,M03,Session2,0126,data/extracted/torgo/M03/Session2/wav_headMic/0126.wav,pad,2.325,working_target_not_individually_verified
+train,M03,Session2,0412,data/extracted/torgo/M03/Session2/wav_headMic/0412.wav,Ned,2.075,working_target_not_individually_verified
+train,M03,Session2,0216,data/extracted/torgo/M03/Session2/wav_headMic/0216.wav,slip,2.465,working_target_not_individually_verified
+train,M04,Session2,0079,data/extracted/torgo/M04/Session2/wav_headMic/0079.wav,feed,3.38,working_target_not_individually_verified
+train,M04,Session2,0019,data/extracted/torgo/M04/Session2/wav_headMic/0019.wav,sheet,3.1,working_target_not_individually_verified
+train,M04,Session2,0010,data/extracted/torgo/M04/Session2/wav_headMic/0010.wav,left,2.395,working_target_not_individually_verified
+train,M04,Session2,0250,data/extracted/torgo/M04/Session2/wav_headMic/0250.wav,four,2.615,working_target_not_individually_verified
+train,M04,Session1,0055,data/extracted/torgo/M04/Session1/wav_arrayMic/0055.wav,read,1.95,working_target_not_individually_verified
+train,M04,Session2,0084,data/extracted/torgo/M04/Session2/wav_headMic/0084.wav,tip,3.06,working_target_not_individually_verified
+train,M04,Session2,0287,data/extracted/torgo/M04/Session2/wav_headMic/0287.wav,spit,3.855,working_target_not_individually_verified
+train,M04,Session1,0071,data/extracted/torgo/M04/Session1/wav_arrayMic/0071.wav,bat,2.4,working_target_not_individually_verified
+train,M04,Session1,0127,data/extracted/torgo/M04/Session1/wav_arrayMic/0127.wav,train,2.4,working_target_not_individually_verified
+train,M04,Session1,0010,data/extracted/torgo/M04/Session1/wav_arrayMic/0010.wav,store,2.25,working_target_not_individually_verified
+train,M04,Session1,0039,data/extracted/torgo/M04/Session1/wav_arrayMic/0039.wav,up,1.8,working_target_not_individually_verified
+train,M04,Session2,0290,data/extracted/torgo/M04/Session2/wav_headMic/0290.wav,pitting,4.435,working_target_not_individually_verified
+train,M04,Session1,0028,data/extracted/torgo/M04/Session1/wav_arrayMic/0028.wav,trait,3.45,working_target_not_individually_verified
+train,M04,Session1,0022,data/extracted/torgo/M04/Session1/wav_arrayMic/0022.wav,beat,1.95,working_target_not_individually_verified
+train,M04,Session1,0117,data/extracted/torgo/M04/Session1/wav_arrayMic/0117.wav,warm,2.25,working_target_not_individually_verified
+train,M04,Session2,0140,data/extracted/torgo/M04/Session2/wav_headMic/0140.wav,bear,3.685,working_target_not_individually_verified
+train,M04,Session1,0119,data/extracted/torgo/M04/Session1/wav_arrayMic/0119.wav,race,3.15,working_target_not_individually_verified
+train,M04,Session2,0229,data/extracted/torgo/M04/Session2/wav_headMic/0229.wav,play,2.64,working_target_not_individually_verified
+train,M04,Session1,0014,data/extracted/torgo/M04/Session1/wav_arrayMic/0014.wav,knee,2.25,working_target_not_individually_verified
+train,M04,Session2,0275,data/extracted/torgo/M04/Session2/wav_headMic/0275.wav,juliet,2.89,working_target_not_individually_verified
+train,M04,Session2,0080,data/extracted/torgo/M04/Session2/wav_headMic/0080.wav,goat,2.82,working_target_not_individually_verified
+train,M04,Session2,0062,data/extracted/torgo/M04/Session2/wav_headMic/0062.wav,the,2.455,working_target_not_individually_verified
+train,M04,Session1,0112,data/extracted/torgo/M04/Session1/wav_arrayMic/0112.wav,swarm,0.60375,working_target_not_individually_verified
+train,M04,Session2,0159,data/extracted/torgo/M04/Session2/wav_headMic/0159.wav,pad,3.29,working_target_not_individually_verified
+train,M04,Session1,0105,data/extracted/torgo/M04/Session1/wav_arrayMic/0105.wav,usually min min,4.35,working_target_not_individually_verified
+train,M04,Session2,0050,data/extracted/torgo/M04/Session2/wav_headMic/0050.wav,feed,2.485,working_target_not_individually_verified
+train,M04,Session2,0243,data/extracted/torgo/M04/Session2/wav_headMic/0243.wav,fruit,2.68006,working_target_not_individually_verified
+train,M04,Session1,0046,data/extracted/torgo/M04/Session1/wav_arrayMic/0046.wav,storm,2.7,working_target_not_individually_verified
+train,M04,Session2,0075,data/extracted/torgo/M04/Session2/wav_headMic/0075.wav,swore,3.795,working_target_not_individually_verified
+train,M04,Session2,0059,data/extracted/torgo/M04/Session2/wav_headMic/0059.wav,chair,2.645,working_target_not_individually_verified
+train,M04,Session2,0105,data/extracted/torgo/M04/Session2/wav_headMic/0105.wav,corn,2.86,working_target_not_individually_verified
+train,M04,Session2,0131,data/extracted/torgo/M04/Session2/wav_headMic/0131.wav,wish,2.415,working_target_not_individually_verified
+train,M04,Session1,0060,data/extracted/torgo/M04/Session1/wav_arrayMic/0060.wav,park,2.4,working_target_not_individually_verified
+train,M04,Session1,0056,data/extracted/torgo/M04/Session1/wav_arrayMic/0056.wav,sip,3.0,working_target_not_individually_verified
+train,M04,Session2,0117,data/extracted/torgo/M04/Session2/wav_headMic/0117.wav,knew,2.49,working_target_not_individually_verified
+train,M04,Session2,0277,data/extracted/torgo/M04/Session2/wav_headMic/0277.wav,brawn,3.44,working_target_not_individually_verified
+train,M04,Session1,0073,data/extracted/torgo/M04/Session1/wav_arrayMic/0073.wav,dark,3.45,working_target_not_individually_verified
+train,M04,Session2,0040,data/extracted/torgo/M04/Session2/wav_headMic/0040.wav,read,2.395,working_target_not_individually_verified
+train,M04,Session2,0132,data/extracted/torgo/M04/Session2/wav_headMic/0132.wav,boot,3.485,working_target_not_individually_verified
+train,M04,Session1,0115,data/extracted/torgo/M04/Session1/wav_arrayMic/0115.wav,corn,4.35,working_target_not_individually_verified
+train,M04,Session2,0056,data/extracted/torgo/M04/Session2/wav_headMic/0056.wav,sip,2.22,working_target_not_individually_verified
+train,M04,Session2,0125,data/extracted/torgo/M04/Session2/wav_headMic/0125.wav,know,2.54,working_target_not_individually_verified
+train,M04,Session1,0083,data/extracted/torgo/M04/Session1/wav_arrayMic/0083.wav,jagged,4.05,working_target_not_individually_verified
+train,M04,Session2,0151,data/extracted/torgo/M04/Session2/wav_headMic/0151.wav,we're,2.85,working_target_not_individually_verified
+train,M04,Session1,0027,data/extracted/torgo/M04/Session1/wav_arrayMic/0027.wav,floor,2.4,working_target_not_individually_verified
+train,M04,Session2,0094,data/extracted/torgo/M04/Session2/wav_headMic/0094.wav,double,2.635,working_target_not_individually_verified
+train,M04,Session2,0016,data/extracted/torgo/M04/Session2/wav_headMic/0016.wav,jacket,3.115,working_target_not_individually_verified
+train,M04,Session1,0016,data/extracted/torgo/M04/Session1/wav_arrayMic/0016.wav,meat,2.4,working_target_not_individually_verified
+train,M04,Session2,0272,data/extracted/torgo/M04/Session2/wav_headMic/0272.wav,yes,2.48,working_target_not_individually_verified
+train,M04,Session2,0254,data/extracted/torgo/M04/Session2/wav_headMic/0254.wav,mere,2.68506,working_target_not_individually_verified
+train,M04,Session1,0061,data/extracted/torgo/M04/Session1/wav_arrayMic/0061.wav,chair,2.55,working_target_not_individually_verified
+train,M04,Session1,0019,data/extracted/torgo/M04/Session1/wav_arrayMic/0019.wav,stick,2.55,working_target_not_individually_verified
+train,M04,Session2,0161,data/extracted/torgo/M04/Session2/wav_headMic/0161.wav,group,2.885,working_target_not_individually_verified
+train,M04,Session2,0092,data/extracted/torgo/M04/Session2/wav_headMic/0092.wav,gadget,3.375,working_target_not_individually_verified
+train,M04,Session1,0021,data/extracted/torgo/M04/Session1/wav_arrayMic/0021.wav,goat,1.8,working_target_not_individually_verified
+train,M04,Session2,0232,data/extracted/torgo/M04/Session2/wav_headMic/0232.wav,suit,3.22,working_target_not_individually_verified
+train,M04,Session2,0139,data/extracted/torgo/M04/Session2/wav_headMic/0139.wav,bad,2.59,working_target_not_individually_verified
+train,M04,Session1,0069,data/extracted/torgo/M04/Session1/wav_arrayMic/0069.wav,pat,2.7,working_target_not_individually_verified
+train,M04,Session2,0066,data/extracted/torgo/M04/Session2/wav_headMic/0066.wav,beat,2.49,working_target_not_individually_verified
+train,M04,Session1,0013,data/extracted/torgo/M04/Session1/wav_arrayMic/0013.wav,knew,1.65,working_target_not_individually_verified
+train,M04,Session1,0049,data/extracted/torgo/M04/Session1/wav_arrayMic/0049.wav,right,2.55,working_target_not_individually_verified
+train,M04,Session2,0086,data/extracted/torgo/M04/Session2/wav_headMic/0086.wav,read,2.955,working_target_not_individually_verified
+train,M04,Session1,0078,data/extracted/torgo/M04/Session1/wav_arrayMic/0078.wav,air,2.85,working_target_not_individually_verified
+train,M04,Session2,0082,data/extracted/torgo/M04/Session2/wav_headMic/0082.wav,one,2.41,working_target_not_individually_verified
+train,M04,Session1,0051,data/extracted/torgo/M04/Session1/wav_arrayMic/0051.wav,knew,2.25,working_target_not_individually_verified
+train,M04,Session1,0058,data/extracted/torgo/M04/Session1/wav_arrayMic/0058.wav,go,2.85,working_target_not_individually_verified
+train,M04,Session1,0068,data/extracted/torgo/M04/Session1/wav_arrayMic/0068.wav,double,2.85,working_target_not_individually_verified
+train,M04,Session2,0265,data/extracted/torgo/M04/Session2/wav_headMic/0265.wav,shoot,3.07,working_target_not_individually_verified
+train,M04,Session1,0096,data/extracted/torgo/M04/Session1/wav_arrayMic/0096.wav,read,2.1,working_target_not_individually_verified
+train,M04,Session2,0026,data/extracted/torgo/M04/Session2/wav_headMic/0026.wav,stubble,3.065,working_target_not_individually_verified
+train,M04,Session2,0087,data/extracted/torgo/M04/Session2/wav_headMic/0087.wav,swarm,2.555,working_target_not_individually_verified
+train,M04,Session2,0022,data/extracted/torgo/M04/Session2/wav_headMic/0022.wav,fee,2.75,working_target_not_individually_verified
+train,M04,Session1,0030,data/extracted/torgo/M04/Session1/wav_arrayMic/0030.wav,range,2.4,working_target_not_individually_verified
+train,M04,Session2,0009,data/extracted/torgo/M04/Session2/wav_headMic/0009.wav,slip,3.13,working_target_not_individually_verified
+train,M04,Session1,0107,data/extracted/torgo/M04/Session1/wav_arrayMic/0107.wav,two,2.55,working_target_not_individually_verified
+train,M04,Session2,0213,data/extracted/torgo/M04/Session2/wav_headMic/0213.wav,urgent,3.51,working_target_not_individually_verified
+train,M04,Session2,0256,data/extracted/torgo/M04/Session2/wav_headMic/0256.wav,coupe,4.53506,working_target_not_individually_verified
+train,M04,Session2,0234,data/extracted/torgo/M04/Session2/wav_headMic/0234.wav,ate,2.215,working_target_not_individually_verified
+train,M04,Session1,0093,data/extracted/torgo/M04/Session1/wav_arrayMic/0093.wav,When when,2.25,working_target_not_individually_verified
+train,M04,Session2,0057,data/extracted/torgo/M04/Session2/wav_headMic/0057.wav,range,2.55,working_target_not_individually_verified
+train,M05,Session2,0348,data/extracted/torgo/M05/Session2/wav_headMic/0348.wav,"This is a good place, though small.",0.02531,working_target_not_individually_verified
+train,M05,Session2,0297,data/extracted/torgo/M05/Session2/wav_headMic/0297.wav,uniform,3.225,working_target_not_individually_verified
+train,M05,Session2,0206,data/extracted/torgo/M05/Session2/wav_headMic/0206.wav,heart,1.79,working_target_not_individually_verified
+train,M05,Session2,0331,data/extracted/torgo/M05/Session2/wav_headMic/0331.wav,walk,0.05969,working_target_not_individually_verified
+train,M05,Session2,0125,data/extracted/torgo/M05/Session2/wav_headMic/0125.wav,knew,3.5,working_target_not_individually_verified
+train,M05,Session2,0232,data/extracted/torgo/M05/Session2/wav_headMic/0232.wav,barn,2.78,working_target_not_individually_verified
+train,M05,Session2,0360,data/extracted/torgo/M05/Session2/wav_headMic/0360.wav,shell,0.00969,working_target_not_individually_verified
+train,M05,Session2,0338,data/extracted/torgo/M05/Session2/wav_headMic/0338.wav,sheet,0.02637,working_target_not_individually_verified
+train,M05,Session2,0317,data/extracted/torgo/M05/Session2/wav_headMic/0317.wav,bitter,2.64,working_target_not_individually_verified
+train,M05,Session2,0084,data/extracted/torgo/M05/Session2/wav_headMic/0084.wav,gnaw,2.54,working_target_not_individually_verified
+train,M05,Session2,0364,data/extracted/torgo/M05/Session2/wav_headMic/0364.wav,hand,2.195,working_target_not_individually_verified
+train,M05,Session2,0363,data/extracted/torgo/M05/Session2/wav_headMic/0363.wav,red,2.605,working_target_not_individually_verified
+train,M05,Session2,0198,data/extracted/torgo/M05/Session2/wav_headMic/0198.wav,dart,3.875,working_target_not_individually_verified
+train,M05,Session2,0065,data/extracted/torgo/M05/Session2/wav_headMic/0065.wav,thigh,2.835,working_target_not_individually_verified
+train,M05,Session2,0157,data/extracted/torgo/M05/Session2/wav_headMic/0157.wav,start,3.05,working_target_not_individually_verified
+train,M05,Session2,0168,data/extracted/torgo/M05/Session2/wav_headMic/0168.wav,mush,3.51006,working_target_not_individually_verified
+train,M05,Session1,0123,data/extracted/torgo/M05/Session1/wav_headMic/0123.wav,rain,3.06,working_target_not_individually_verified
+train,M05,Session2,0064,data/extracted/torgo/M05/Session2/wav_headMic/0064.wav,floor,2.665,working_target_not_individually_verified
+train,M05,Session2,0324,data/extracted/torgo/M05/Session2/wav_headMic/0324.wav,wicker,4.555,working_target_not_individually_verified
+train,M05,Session2,0235,data/extracted/torgo/M05/Session2/wav_headMic/0235.wav,quebec,3.205,working_target_not_individually_verified
+train,M05,Session2,0293,data/extracted/torgo/M05/Session2/wav_headMic/0293.wav,sin,2.665,working_target_not_individually_verified
+train,M05,Session2,0383,data/extracted/torgo/M05/Session2/wav_headMic/0383.wav,You can ride stagecoach.,5.765,working_target_not_individually_verified
+train,M05,Session2,0129,data/extracted/torgo/M05/Session2/wav_headMic/0129.wav,back,3.065,working_target_not_individually_verified
+train,M05,Session2,0016,data/extracted/torgo/M05/Session2/wav_headMic/0016.wav,whoop,2.36,working_target_not_individually_verified
+train,M05,Session2,0253,data/extracted/torgo/M05/Session2/wav_headMic/0253.wav,league,3.055,working_target_not_individually_verified
+train,M05,Session2,0113,data/extracted/torgo/M05/Session2/wav_headMic/0113.wav,were,4.82,working_target_not_individually_verified
+train,M05,Session2,0393,data/extracted/torgo/M05/Session2/wav_headMic/0393.wav,the pair of shoes was new,5.44,working_target_not_individually_verified
+train,M05,Session2,0375,data/extracted/torgo/M05/Session2/wav_headMic/0375.wav,no,2.245,working_target_not_individually_verified
+train,M05,Session2,0158,data/extracted/torgo/M05/Session2/wav_headMic/0158.wav,bit,2.52,working_target_not_individually_verified
+train,M05,Session2,0075,data/extracted/torgo/M05/Session2/wav_headMic/0075.wav,fruit,3.275,working_target_not_individually_verified
+train,M05,Session2,0201,data/extracted/torgo/M05/Session2/wav_headMic/0201.wav,It was a good win for us.,5.68,working_target_not_individually_verified
+train,M05,Session2,0390,data/extracted/torgo/M05/Session2/wav_headMic/0390.wav,The hotel owner shrugged.,5.435,working_target_not_individually_verified
+train,M05,Session2,0210,data/extracted/torgo/M05/Session2/wav_headMic/0210.wav,hark,2.715,working_target_not_individually_verified
+train,M05,Session2,0194,data/extracted/torgo/M05/Session2/wav_headMic/0194.wav,mike,2.725,working_target_not_individually_verified
+train,M05,Session2,0096,data/extracted/torgo/M05/Session2/wav_headMic/0096.wav,lip,2.71,working_target_not_individually_verified
+train,M05,Session2,0070,data/extracted/torgo/M05/Session2/wav_headMic/0070.wav,hate,2.665,working_target_not_individually_verified
+train,M05,Session2,0191,data/extracted/torgo/M05/Session2/wav_headMic/0191.wav,cart,3.445,working_target_not_individually_verified
+train,M05,Session2,0067,data/extracted/torgo/M05/Session2/wav_headMic/0067.wav,steer,3.405,working_target_not_individually_verified
+train,M05,Session2,0310,data/extracted/torgo/M05/Session2/wav_headMic/0310.wav,sit,1.99,working_target_not_individually_verified
+train,M05,Session2,0120,data/extracted/torgo/M05/Session2/wav_headMic/0120.wav,bad,2.735,working_target_not_individually_verified
+train,M05,Session2,0073,data/extracted/torgo/M05/Session2/wav_headMic/0073.wav,ate,3.275,working_target_not_individually_verified
+train,M05,Session2,0039,data/extracted/torgo/M05/Session2/wav_headMic/0039.wav,fate,3.39,working_target_not_individually_verified
+train,M05,Session2,0255,data/extracted/torgo/M05/Session2/wav_headMic/0255.wav,dark,2.975,working_target_not_individually_verified
+train,M05,Session2,0132,data/extracted/torgo/M05/Session2/wav_headMic/0132.wav,shoot,2.835,working_target_not_individually_verified
+train,M05,Session2,0353,data/extracted/torgo/M05/Session2/wav_headMic/0353.wav,You want him to do well.,0.00825,working_target_not_individually_verified
+train,M05,Session2,0226,data/extracted/torgo/M05/Session2/wav_headMic/0226.wav,eight,2.295,working_target_not_individually_verified
+train,M05,Session2,0199,data/extracted/torgo/M05/Session2/wav_headMic/0199.wav,mitten,5.655,working_target_not_individually_verified
+train,M05,Session2,0041,data/extracted/torgo/M05/Session2/wav_headMic/0041.wav,pile,3.39,working_target_not_individually_verified
+train,M05,Session2,0209,data/extracted/torgo/M05/Session2/wav_headMic/0209.wav,at,1.845,working_target_not_individually_verified
+train,M05,Session2,0227,data/extracted/torgo/M05/Session2/wav_headMic/0227.wav,park,2.405,working_target_not_individually_verified
+train,M05,Session2,0115,data/extracted/torgo/M05/Session2/wav_headMic/0115.wav,three,4.2,working_target_not_individually_verified
+train,M05,Session2,0188,data/extracted/torgo/M05/Session2/wav_headMic/0188.wav,rich,3.61,working_target_not_individually_verified
+train,M05,Session2,0185,data/extracted/torgo/M05/Session2/wav_headMic/0185.wav,hum,2.83,working_target_not_individually_verified
+train,M05,Session2,0007,data/extracted/torgo/M05/Session2/wav_headMic/0007.wav,sigh,2.1,working_target_not_individually_verified
+train,M05,Session2,0295,data/extracted/torgo/M05/Session2/wav_headMic/0295.wav,wicked,2.95,working_target_not_individually_verified
+train,M05,Session2,0037,data/extracted/torgo/M05/Session2/wav_headMic/0037.wav,group,2.175,working_target_not_individually_verified
+train,M05,Session2,0171,data/extracted/torgo/M05/Session2/wav_headMic/0171.wav,brawn,4.3,working_target_not_individually_verified
+train,M05,Session2,0012,data/extracted/torgo/M05/Session2/wav_headMic/0012.wav,know,2.605,working_target_not_individually_verified
+train,M05,Session2,0224,data/extracted/torgo/M05/Session2/wav_headMic/0224.wav,chop,3.23,working_target_not_individually_verified
+train,M05,Session2,0086,data/extracted/torgo/M05/Session2/wav_headMic/0086.wav,ate,3.36,working_target_not_individually_verified
+train,M05,Session2,0252,data/extracted/torgo/M05/Session2/wav_headMic/0252.wav,city,3.12,working_target_not_individually_verified
+train,M05,Session2,0325,data/extracted/torgo/M05/Session2/wav_headMic/0325.wav,Ned,2.665,working_target_not_individually_verified
+train,M05,Session2,0023,data/extracted/torgo/M05/Session2/wav_headMic/0023.wav,rocks,2.655,working_target_not_individually_verified
+train,M05,Session2,0289,data/extracted/torgo/M05/Session2/wav_headMic/0289.wav,right,3.275,working_target_not_individually_verified
+train,M05,Session2,0328,data/extracted/torgo/M05/Session2/wav_headMic/0328.wav,said,2.695,working_target_not_individually_verified
+train,M05,Session2,0304,data/extracted/torgo/M05/Session2/wav_headMic/0304.wav,down,2.46,working_target_not_individually_verified
+train,M05,Session2,0267,data/extracted/torgo/M05/Session2/wav_headMic/0267.wav,sell,3.245,working_target_not_individually_verified
+train,M05,Session2,0350,data/extracted/torgo/M05/Session2/wav_headMic/0350.wav,lock,0.00969,working_target_not_individually_verified
+train,M05,Session2,0181,data/extracted/torgo/M05/Session2/wav_headMic/0181.wav,tell,2.495,working_target_not_individually_verified
+train,M05,Session2,0278,data/extracted/torgo/M05/Session2/wav_headMic/0278.wav,xray,3.645,working_target_not_individually_verified
+train,M05,Session2,0014,data/extracted/torgo/M05/Session2/wav_headMic/0014.wav,suit,2.98506,working_target_not_individually_verified
+train,M05,Session2,0202,data/extracted/torgo/M05/Session2/wav_headMic/0202.wav,sign,2.16,working_target_not_individually_verified
+train,M05,Session2,0208,data/extracted/torgo/M05/Session2/wav_headMic/0208.wav,sitting,3.045,working_target_not_individually_verified
+train,M05,Session2,0214,data/extracted/torgo/M05/Session2/wav_headMic/0214.wav,him,2.63,working_target_not_individually_verified
+train,M05,Session2,0298,data/extracted/torgo/M05/Session2/wav_headMic/0298.wav,sand,3.29,working_target_not_individually_verified
+train,M05,Session2,0229,data/extracted/torgo/M05/Session2/wav_headMic/0229.wav,seed,2.59,working_target_not_individually_verified
+train,M05,Session2,0011,data/extracted/torgo/M05/Session2/wav_headMic/0011.wav,charlie,2.34,working_target_not_individually_verified
+train,M05,Session2,0379,data/extracted/torgo/M05/Session2/wav_headMic/0379.wav,knot,2.475,working_target_not_individually_verified
+train,M05,Session2,0248,data/extracted/torgo/M05/Session2/wav_headMic/0248.wav,side,2.62,working_target_not_individually_verified
+train,M05,Session2,0142,data/extracted/torgo/M05/Session2/wav_headMic/0142.wav,pitting,2.19,working_target_not_individually_verified
+train,FC03,Session2,0288,data/extracted/torgo/FC03/Session2/wav_headMic/0288.wav,member,1.745,working_target_not_individually_verified
+train,FC03,Session1,0068,data/extracted/torgo/FC03/Session1/wav_headMic/0068.wav,weed,2.17,working_target_not_individually_verified
+train,FC03,Session3,0075,data/extracted/torgo/FC03/Session3/wav_headMic/0075.wav,The legislature met to judge the state of public education.,5.42806,working_target_not_individually_verified
+train,FC03,Session1,0141,data/extracted/torgo/FC03/Session1/wav_headMic/0141.wav,ate,1.925,working_target_not_individually_verified
+train,FC03,Session1,0218,data/extracted/torgo/FC03/Session1/wav_headMic/0218.wav,knot,1.775,working_target_not_individually_verified
+train,FC03,Session2,0357,data/extracted/torgo/FC03/Session2/wav_headMic/0357.wav,I loved every minute of it.,2.695,working_target_not_individually_verified
+train,FC03,Session1,0156,data/extracted/torgo/FC03/Session1/wav_headMic/0156.wav,gnaw,2.435,working_target_not_individually_verified
+train,FC03,Session1,0150,data/extracted/torgo/FC03/Session1/wav_headMic/0150.wav,light,2.115,working_target_not_individually_verified
+train,FC03,Session1,0046,data/extracted/torgo/FC03/Session1/wav_headMic/0046.wav,warm,2.95,working_target_not_individually_verified
+train,FC03,Session1,0165,data/extracted/torgo/FC03/Session1/wav_headMic/0165.wav,thigh,2.34,working_target_not_individually_verified
+train,FC03,Session2,0239,data/extracted/torgo/FC03/Session2/wav_headMic/0239.wav,fork,1.975,working_target_not_individually_verified
+train,FC03,Session2,0039,data/extracted/torgo/FC03/Session2/wav_headMic/0039.wav,said,2.21,working_target_not_individually_verified
+train,FC03,Session2,0334,data/extracted/torgo/FC03/Session2/wav_headMic/0334.wav,zero,1.86,working_target_not_individually_verified
+train,FC03,Session2,0388,data/extracted/torgo/FC03/Session2/wav_headMic/0388.wav,forks,2.075,working_target_not_individually_verified
+train,FC03,Session3,0006,data/extracted/torgo/FC03/Session3/wav_headMic/0006.wav,lax,1.43006,working_target_not_individually_verified
+train,FC03,Session1,0378,data/extracted/torgo/FC03/Session1/wav_headMic/0378.wav,at,2.065,working_target_not_individually_verified
+train,FC03,Session1,0037,data/extracted/torgo/FC03/Session1/wav_headMic/0037.wav,range,2.37,working_target_not_individually_verified
+train,FC03,Session2,0129,data/extracted/torgo/FC03/Session2/wav_headMic/0129.wav,In fact our whole defensive unit did a good job.,5.05,working_target_not_individually_verified
+train,FC03,Session2,0312,data/extracted/torgo/FC03/Session2/wav_headMic/0312.wav,Her dark hair is combed casually.,3.365,working_target_not_individually_verified
+train,FC03,Session1,0166,data/extracted/torgo/FC03/Session1/wav_headMic/0166.wav,tile,2.145,working_target_not_individually_verified
+train,FC03,Session2,0041,data/extracted/torgo/FC03/Session2/wav_headMic/0041.wav,sip,2.29,working_target_not_individually_verified
+train,FC03,Session2,0118,data/extracted/torgo/FC03/Session2/wav_headMic/0118.wav,best,2.045,working_target_not_individually_verified
+train,FC03,Session2,0077,data/extracted/torgo/FC03/Session2/wav_headMic/0077.wav,sicker,1.68,working_target_not_individually_verified
+train,FC03,Session2,0070,data/extracted/torgo/FC03/Session2/wav_headMic/0070.wav,no,1.88,working_target_not_individually_verified
+train,FC03,Session1,0301,data/extracted/torgo/FC03/Session1/wav_headMic/0301.wav,"When all else fails, use force.",3.53,working_target_not_individually_verified
+train,MC03,Session2,0236,data/extracted/torgo/MC03/Session2/wav_arrayMic/0236.wav,rip,1.2,working_target_not_individually_verified
+train,MC03,Session1,0463,data/extracted/torgo/MC03/Session1/wav_headMic/0463.wav,nod,1.52,working_target_not_individually_verified
+train,MC03,Session2,0115,data/extracted/torgo/MC03/Session2/wav_headMic/0115.wav,bender,2.10125,working_target_not_individually_verified
+train,MC03,Session1,0247,data/extracted/torgo/MC03/Session1/wav_headMic/0247.wav,bad,1.735,working_target_not_individually_verified
+train,MC03,Session2,0234,data/extracted/torgo/MC03/Session2/wav_arrayMic/0234.wav,Any contributions will be greatly appreciated.,3.45,working_target_not_individually_verified
+train,MC03,Session1,0147,data/extracted/torgo/MC03/Session1/wav_headMic/0147.wav,slay,1.735,working_target_not_individually_verified
+train,MC03,Session1,0210,data/extracted/torgo/MC03/Session1/wav_headMic/0210.wav,loop,1.455,working_target_not_individually_verified
+train,MC03,Session1,0591,data/extracted/torgo/MC03/Session1/wav_headMic/0591.wav,bread,1.99,working_target_not_individually_verified
+train,MC03,Session1,0036,data/extracted/torgo/MC03/Session1/wav_headMic/0036.wav,grow,1.465,working_target_not_individually_verified
+train,MC03,Session2,0114,data/extracted/torgo/MC03/Session2/wav_headMic/0114.wav,beam,1.58431,working_target_not_individually_verified
+train,MC03,Session2,0173,data/extracted/torgo/MC03/Session2/wav_headMic/0173.wav,air,1.48456,working_target_not_individually_verified
+train,MC03,Session1,0589,data/extracted/torgo/MC03/Session1/wav_headMic/0589.wav,shop,1.675,working_target_not_individually_verified
+train,MC03,Session2,0137,data/extracted/torgo/MC03/Session2/wav_headMic/0137.wav,leap,1.82038,working_target_not_individually_verified
+train,MC03,Session2,0004,data/extracted/torgo/MC03/Session2/wav_headMic/0004.wav,sew,1.84381,working_target_not_individually_verified
+train,MC03,Session1,0437,data/extracted/torgo/MC03/Session1/wav_headMic/0437.wav,You can ride stagecoach.,2.855,working_target_not_individually_verified
+train,MC03,Session1,0287,data/extracted/torgo/MC03/Session1/wav_headMic/0287.wav,hill,1.59,working_target_not_individually_verified
+train,MC03,Session2,0247,data/extracted/torgo/MC03/Session2/wav_arrayMic/0247.wav,hatch,1.5,working_target_not_individually_verified
+train,MC03,Session1,0171,data/extracted/torgo/MC03/Session1/wav_headMic/0171.wav,single,1.59,working_target_not_individually_verified
+train,MC03,Session1,0257,data/extracted/torgo/MC03/Session1/wav_headMic/0257.wav,mike,1.6,working_target_not_individually_verified
+train,MC03,Session1,0030,data/extracted/torgo/MC03/Session1/wav_headMic/0030.wav,know,1.56,working_target_not_individually_verified
+train,MC03,Session1,0023,data/extracted/torgo/MC03/Session1/wav_headMic/0023.wav,swarm,1.91,working_target_not_individually_verified
+train,MC03,Session1,0312,data/extracted/torgo/MC03/Session1/wav_headMic/0312.wav,Alfalfa is healthy for you.,4.88506,working_target_not_individually_verified
+train,MC03,Session1,0523,data/extracted/torgo/MC03/Session1/wav_headMic/0523.wav,toe,1.44,working_target_not_individually_verified
+train,MC03,Session1,0459,data/extracted/torgo/MC03/Session1/wav_headMic/0459.wav,We have an excellent team.,2.79,working_target_not_individually_verified
+train,MC03,Session1,0297,data/extracted/torgo/MC03/Session1/wav_headMic/0297.wav,knitting,1.57,working_target_not_individually_verified
+train,MC04,Session1,0275,data/extracted/torgo/MC04/Session1/wav_headMic/0275.wav,hotel,1.925,working_target_not_individually_verified
+train,MC04,Session1,0135,data/extracted/torgo/MC04/Session1/wav_headMic/0135.wav,sway,1.55,working_target_not_individually_verified
+train,MC04,Session1,0070,data/extracted/torgo/MC04/Session1/wav_headMic/0070.wav,lead,2.02,working_target_not_individually_verified
+train,MC04,Session1,0163,data/extracted/torgo/MC04/Session1/wav_headMic/0163.wav,air,1.66,working_target_not_individually_verified
+train,MC04,Session1,0233,data/extracted/torgo/MC04/Session1/wav_headMic/0233.wav,menu,1.86,working_target_not_individually_verified
+train,MC04,Session1,0011,data/extracted/torgo/MC04/Session1/wav_headMic/0011.wav,yes,1.915,working_target_not_individually_verified
+train,MC04,Session1,0292,data/extracted/torgo/MC04/Session1/wav_headMic/0292.wav,shy,1.43,working_target_not_individually_verified
+train,MC04,Session1,0406,data/extracted/torgo/MC04/Session1/wav_headMic/0406.wav,liquor,1.795,working_target_not_individually_verified
+train,MC04,Session1,0390,data/extracted/torgo/MC04/Session1/wav_headMic/0390.wav,yes,1.995,working_target_not_individually_verified
+train,MC04,Session1,0222,data/extracted/torgo/MC04/Session1/wav_headMic/0222.wav,snoop,1.75,working_target_not_individually_verified
+train,MC04,Session1,0389,data/extracted/torgo/MC04/Session1/wav_headMic/0389.wav,seeds,1.96,working_target_not_individually_verified
+train,MC04,Session1,0121,data/extracted/torgo/MC04/Session1/wav_headMic/0121.wav,read,1.59,working_target_not_individually_verified
+train,MC04,Session1,0144,data/extracted/torgo/MC04/Session1/wav_headMic/0144.wav,This was easy for us.,2.355,working_target_not_individually_verified
+train,MC04,Session1,0279,data/extracted/torgo/MC04/Session1/wav_headMic/0279.wav,seed,1.36,working_target_not_individually_verified
+train,MC04,Session1,0223,data/extracted/torgo/MC04/Session1/wav_headMic/0223.wav,dot,1.765,working_target_not_individually_verified
+train,MC04,Session1,0349,data/extracted/torgo/MC04/Session1/wav_headMic/0349.wav,mike,1.585,working_target_not_individually_verified
+train,MC04,Session1,0345,data/extracted/torgo/MC04/Session1/wav_headMic/0345.wav,knitting,1.70994,working_target_not_individually_verified
+train,MC04,Session1,0140,data/extracted/torgo/MC04/Session1/wav_headMic/0140.wav,knot,1.45,working_target_not_individually_verified
+train,MC04,Session1,0020,data/extracted/torgo/MC04/Session1/wav_headMic/0020.wav,rain,2.03,working_target_not_individually_verified
+train,MC04,Session1,0294,data/extracted/torgo/MC04/Session1/wav_headMic/0294.wav,harp,1.355,working_target_not_individually_verified
+train,MC04,Session1,0397,data/extracted/torgo/MC04/Session1/wav_headMic/0397.wav,tango,1.905,working_target_not_individually_verified
+train,MC04,Session1,0006,data/extracted/torgo/MC04/Session1/wav_headMic/0006.wav,swarm,2.125,working_target_not_individually_verified
+train,MC04,Session1,0643,data/extracted/torgo/MC04/Session1/wav_headMic/0643.wav,geese,1.58,working_target_not_individually_verified
+train,MC04,Session1,0112,data/extracted/torgo/MC04/Session1/wav_headMic/0112.wav,race,1.685,working_target_not_individually_verified
+train,MC04,Session1,0208,data/extracted/torgo/MC04/Session1/wav_headMic/0208.wav,mut,1.765,working_target_not_individually_verified
+validation,F03,Session1,0042,data/extracted/torgo/F03/Session1/wav_headMic/0042.wav,lead,1.90187,working_target_not_individually_verified
+validation,F03,Session3,0200,data/extracted/torgo/F03/Session3/wav_headMic/0200.wav,no,1.32006,working_target_not_individually_verified
+validation,F03,Session1,0136,data/extracted/torgo/F03/Session1/wav_headMic/0136.wav,of,0.65056,working_target_not_individually_verified
+validation,F03,Session3,0041,data/extracted/torgo/F03/Session3/wav_headMic/0041.wav,Most young rise early every morning.,4.49,working_target_not_individually_verified
+validation,F03,Session2,0094,data/extracted/torgo/F03/Session2/wav_headMic/0094.wav,hum,1.52,working_target_not_individually_verified
+validation,F03,Session3,0139,data/extracted/torgo/F03/Session3/wav_headMic/0139.wav,court,1.565,working_target_not_individually_verified
+validation,F03,Session1,0093,data/extracted/torgo/F03/Session1/wav_headMic/0093.wav,car,1.06044,working_target_not_individually_verified
+validation,F03,Session3,0174,data/extracted/torgo/F03/Session3/wav_headMic/0174.wav,You want him to do well.,2.095,working_target_not_individually_verified
+validation,F03,Session3,0076,data/extracted/torgo/F03/Session3/wav_headMic/0076.wav,hat,1.46006,working_target_not_individually_verified
+validation,F03,Session3,0163,data/extracted/torgo/F03/Session3/wav_headMic/0163.wav,knot,1.305,working_target_not_individually_verified
+validation,F03,Session3,0144,data/extracted/torgo/F03/Session3/wav_headMic/0144.wav,bill,1.58,working_target_not_individually_verified
+validation,F03,Session2,0034,data/extracted/torgo/F03/Session2/wav_headMic/0034.wav,pay,2.92,working_target_not_individually_verified
+validation,F03,Session3,0057,data/extracted/torgo/F03/Session3/wav_headMic/0057.wav,said,1.865,working_target_not_individually_verified
+validation,F03,Session3,0203,data/extracted/torgo/F03/Session3/wav_headMic/0203.wav,sheet,1.99,working_target_not_individually_verified
+validation,F03,Session2,0004,data/extracted/torgo/F03/Session2/wav_headMic/0004.wav,droop,4.145,working_target_not_individually_verified
+validation,F03,Session3,0189,data/extracted/torgo/F03/Session3/wav_headMic/0189.wav,spit,1.475,working_target_not_individually_verified
+validation,F03,Session3,0099,data/extracted/torgo/F03/Session3/wav_headMic/0099.wav,The hotel owner shrugged.,2.2,working_target_not_individually_verified
+validation,F03,Session1,0142,data/extracted/torgo/F03/Session1/wav_headMic/0142.wav,Just one side got wet.,2.28575,working_target_not_individually_verified
+validation,F03,Session2,0135,data/extracted/torgo/F03/Session2/wav_headMic/0135.wav,barn,1.175,working_target_not_individually_verified
+validation,F03,Session3,0120,data/extracted/torgo/F03/Session3/wav_headMic/0120.wav,sort,1.34,working_target_not_individually_verified
+validation,F03,Session1,0165,data/extracted/torgo/F03/Session1/wav_headMic/0165.wav,yes,1.25513,working_target_not_individually_verified
+validation,F03,Session1,0199,data/extracted/torgo/F03/Session1/wav_headMic/0199.wav,tie,1.09344,working_target_not_individually_verified
+validation,F03,Session3,0138,data/extracted/torgo/F03/Session3/wav_headMic/0138.wav,slicker,1.64,working_target_not_individually_verified
+validation,F03,Session1,0125,data/extracted/torgo/F03/Session1/wav_headMic/0125.wav,fee,1.00225,working_target_not_individually_verified
+validation,F03,Session2,0015,data/extracted/torgo/F03/Session2/wav_headMic/0015.wav,deer,1.94,working_target_not_individually_verified
+validation,M02,Session1,0116,data/extracted/torgo/M02/Session1/wav_headMic/0116.wav,feed,2.89006,working_target_not_individually_verified
+validation,M02,Session1,0149,data/extracted/torgo/M02/Session1/wav_headMic/0149.wav,shoot,1.93613,working_target_not_individually_verified
+validation,M02,Session1,0205,data/extracted/torgo/M02/Session1/wav_headMic/0205.wav,jungle,2.13581,working_target_not_individually_verified
+validation,M02,Session2,0241,data/extracted/torgo/M02/Session2/wav_headMic/0241.wav,said,1.965,working_target_not_individually_verified
+validation,M02,Session1,0179,data/extracted/torgo/M02/Session1/wav_headMic/0179.wav,near,2.44094,working_target_not_individually_verified
+validation,M02,Session2,0192,data/extracted/torgo/M02/Session2/wav_headMic/0192.wav,top,3.02,working_target_not_individually_verified
+validation,M02,Session1,0157,data/extracted/torgo/M02/Session1/wav_headMic/0157.wav,boot,2.69519,working_target_not_individually_verified
+validation,M02,Session2,0144,data/extracted/torgo/M02/Session2/wav_headMic/0144.wav,eight,2.145,working_target_not_individually_verified
+validation,M02,Session1,0214,data/extracted/torgo/M02/Session1/wav_headMic/0214.wav,delta,2.40587,working_target_not_individually_verified
+validation,M02,Session1,0188,data/extracted/torgo/M02/Session1/wav_headMic/0188.wav,ate,2.44094,working_target_not_individually_verified
+validation,M02,Session1,0102,data/extracted/torgo/M02/Session1/wav_headMic/0102.wav,air,3.08656,working_target_not_individually_verified
+validation,M02,Session1,0065,data/extracted/torgo/M02/Session1/wav_headMic/0065.wav,no,2.23894,working_target_not_individually_verified
+validation,M02,Session1,0056,data/extracted/torgo/M02/Session1/wav_headMic/0056.wav,horn,3.43556,working_target_not_individually_verified
+validation,M02,Session1,0202,data/extracted/torgo/M02/Session1/wav_headMic/0202.wav,rocks,2.69519,working_target_not_individually_verified
+validation,M02,Session1,0136,data/extracted/torgo/M02/Session1/wav_headMic/0136.wav,hear,2.66562,working_target_not_individually_verified
+validation,M02,Session1,0054,data/extracted/torgo/M02/Session1/wav_headMic/0054.wav,trait,2.29562,working_target_not_individually_verified
+validation,M02,Session1,0160,data/extracted/torgo/M02/Session1/wav_headMic/0160.wav,sprinkle,2.74606,working_target_not_individually_verified
+validation,M02,Session1,0007,data/extracted/torgo/M02/Session1/wav_headMic/0007.wav,feed,2.266,working_target_not_individually_verified
+validation,M02,Session1,0114,data/extracted/torgo/M02/Session1/wav_headMic/0114.wav,spark,2.60956,working_target_not_individually_verified
+validation,M02,Session1,0171,data/extracted/torgo/M02/Session1/wav_headMic/0171.wav,cheer,2.46631,working_target_not_individually_verified
+validation,M02,Session1,0221,data/extracted/torgo/M02/Session1/wav_headMic/0221.wav,back,2.00856,working_target_not_individually_verified
+validation,M02,Session1,0134,data/extracted/torgo/M02/Session1/wav_headMic/0134.wav,area,2.66562,working_target_not_individually_verified
+validation,M02,Session1,0017,data/extracted/torgo/M02/Session1/wav_headMic/0017.wav,feet,1.64094,working_target_not_individually_verified
+validation,M02,Session2,0231,data/extracted/torgo/M02/Session2/wav_headMic/0231.wav,knot,3.86,working_target_not_individually_verified
+validation,M02,Session1,0060,data/extracted/torgo/M02/Session1/wav_headMic/0060.wav,slip,3.1075,working_target_not_individually_verified
+test,F01,Session1,0018,data/extracted/torgo/F01/Session1/wav_headMic/0018.wav,no,2.07494,working_target_not_individually_verified
+test,F01,Session1,0051,data/extracted/torgo/F01/Session1/wav_headMic/0051.wav,rage,1.38419,working_target_not_individually_verified
+test,F01,Session1,0062,data/extracted/torgo/F01/Session1/wav_headMic/0062.wav,sip,1.06737,working_target_not_individually_verified
+test,F01,Session1,0088,data/extracted/torgo/F01/Session1/wav_headMic/0088.wav,left,1.42969,working_target_not_individually_verified
+test,F01,Session1,0113,data/extracted/torgo/F01/Session1/wav_headMic/0113.wav,knew,1.83262,working_target_not_individually_verified
+test,F01,Session1,0046,data/extracted/torgo/F01/Session1/wav_headMic/0046.wav,chair,1.38419,working_target_not_individually_verified
+test,F01,Session1,0026,data/extracted/torgo/F01/Session1/wav_headMic/0026.wav,train,2.06131,working_target_not_individually_verified
+test,F01,Session1,0111,data/extracted/torgo/F01/Session1/wav_headMic/0111.wav,corn,1.6345,working_target_not_individually_verified
+test,F01,Session1,0114,data/extracted/torgo/F01/Session1/wav_headMic/0114.wav,"Well, he is nearly ninety three years old",5.10169,working_target_not_individually_verified
+test,F01,Session1,0020,data/extracted/torgo/F01/Session1/wav_headMic/0020.wav,Usually minus several buttons.,4.87362,working_target_not_individually_verified
+test,F01,Session1,0009,data/extracted/torgo/F01/Session1/wav_headMic/0009.wav,pat,1.25463,working_target_not_individually_verified
+test,F01,Session1,0087,data/extracted/torgo/F01/Session1/wav_headMic/0087.wav,alpha,1.59112,working_target_not_individually_verified
+test,F01,Session1,0040,data/extracted/torgo/F01/Session1/wav_headMic/0040.wav,rave,1.35613,working_target_not_individually_verified
+test,F01,Session1,0109,data/extracted/torgo/F01/Session1/wav_headMic/0109.wav,born,1.6345,working_target_not_individually_verified
+test,F01,Session1,0093,data/extracted/torgo/F01/Session1/wav_headMic/0093.wav,"A long, flowing beard clings to his chin,",4.15062,working_target_not_individually_verified
+test,F01,Session1,0052,data/extracted/torgo/F01/Session1/wav_headMic/0052.wav,spark,1.46756,working_target_not_individually_verified
+test,F01,Session1,0092,data/extracted/torgo/F01/Session1/wav_headMic/0092.wav,read,1.153,working_target_not_individually_verified
+test,F01,Session1,0012,data/extracted/torgo/F01/Session1/wav_headMic/0012.wav,meat,1.64062,working_target_not_individually_verified
+test,F01,Session1,0065,data/extracted/torgo/F01/Session1/wav_headMic/0065.wav,fee,1.16738,working_target_not_individually_verified
+test,F01,Session1,0063,data/extracted/torgo/F01/Session1/wav_headMic/0063.wav,farm,1.21744,working_target_not_individually_verified
+test,F01,Session1,0119,data/extracted/torgo/F01/Session1/wav_headMic/0119.wav,rain,1.83262,working_target_not_individually_verified
+test,F01,Session1,0085,data/extracted/torgo/F01/Session1/wav_headMic/0085.wav,sip,1.59106,working_target_not_individually_verified
+test,F01,Session1,0102,data/extracted/torgo/F01/Session1/wav_headMic/0102.wav,bug,0.94288,working_target_not_individually_verified
+test,F01,Session1,0104,data/extracted/torgo/F01/Session1/wav_headMic/0104.wav,yet he still thinks as swiftly as ever.,4.40631,working_target_not_individually_verified
+test,F01,Session1,0029,data/extracted/torgo/F01/Session1/wav_headMic/0029.wav,beat,1.57306,working_target_not_individually_verified
+test,F01,Session1,0084,data/extracted/torgo/F01/Session1/wav_headMic/0084.wav,trace,1.98306,working_target_not_individually_verified
+test,F01,Session1,0021,data/extracted/torgo/F01/Session1/wav_headMic/0021.wav,dug,1.84431,working_target_not_individually_verified
+test,F01,Session1,0134,data/extracted/torgo/F01/Session1/wav_headMic/0134.wav,yes,1.98125,working_target_not_individually_verified
+test,F01,Session1,0027,data/extracted/torgo/F01/Session1/wav_headMic/0027.wav,"but he always answers, Banana oil!",5.26163,working_target_not_individually_verified
+test,F01,Session1,0064,data/extracted/torgo/F01/Session1/wav_headMic/0064.wav,raid,1.53425,working_target_not_individually_verified
+test,F01,Session1,0057,data/extracted/torgo/F01/Session1/wav_headMic/0057.wav,race,1.56763,working_target_not_individually_verified
+test,F01,Session1,0089,data/extracted/torgo/F01/Session1/wav_headMic/0089.wav,sticks,1.59106,working_target_not_individually_verified
+test,F01,Session1,0128,data/extracted/torgo/F01/Session1/wav_headMic/0128.wav,storm,2.27844,working_target_not_individually_verified
+test,F01,Session1,0123,data/extracted/torgo/F01/Session1/wav_headMic/0123.wav,down,1.68406,working_target_not_individually_verified
+test,F01,Session1,0112,data/extracted/torgo/F01/Session1/wav_headMic/0112.wav,right,1.6345,working_target_not_individually_verified
+test,M01,Session2_3,0229,data/extracted/torgo/M01/Session2_3/wav_headMic/0229.wav,mitten,1.70044,working_target_not_individually_verified
+test,M01,Session2_3,0186,data/extracted/torgo/M01/Session2_3/wav_headMic/0186.wav,oscar,2.073,working_target_not_individually_verified
+test,M01,Session2_3,0210,data/extracted/torgo/M01/Session2_3/wav_headMic/0210.wav,reek,1.61594,working_target_not_individually_verified
+test,M01,Session2_3,0245,data/extracted/torgo/M01/Session2_3/wav_headMic/0245.wav,thought,3.64281,working_target_not_individually_verified
+test,M01,Session2_3,0053,data/extracted/torgo/M01/Session2_3/wav_headMic/0053.wav,peer,1.75544,working_target_not_individually_verified
+test,M01,Session2_3,0044,data/extracted/torgo/M01/Session2_3/wav_headMic/0044.wav,back,1.39044,working_target_not_individually_verified
+test,M01,Session2_3,0274,data/extracted/torgo/M01/Session2_3/wav_headMic/0274.wav,witty,1.9405,working_target_not_individually_verified
+test,M01,Session2_3,0086,data/extracted/torgo/M01/Session2_3/wav_headMic/0086.wav,Just one side got wet.,4.47719,working_target_not_individually_verified
+test,M01,Session2_3,0087,data/extracted/torgo/M01/Session2_3/wav_headMic/0087.wav,thigh,1.59462,working_target_not_individually_verified
+test,M01,Session2_3,0166,data/extracted/torgo/M01/Session2_3/wav_headMic/0166.wav,The little schoolhouse stood empty.,4.97319,working_target_not_individually_verified
+test,M01,Session2_3,0085,data/extracted/torgo/M01/Session2_3/wav_headMic/0085.wav,here,1.73263,working_target_not_individually_verified
+test,M01,Session2_3,0105,data/extracted/torgo/M01/Session2_3/wav_headMic/0105.wav,This was easy for us.,3.35237,working_target_not_individually_verified
+test,M01,Session2_3,0035,data/extracted/torgo/M01/Session2_3/wav_headMic/0035.wav,Where were you while we were away?,4.95075,working_target_not_individually_verified
+test,M01,Session2_3,0116,data/extracted/torgo/M01/Session2_3/wav_headMic/0116.wav,near,1.86456,working_target_not_individually_verified
+test,M01,Session2_3,0282,data/extracted/torgo/M01/Session2_3/wav_headMic/0282.wav,seed,1.84581,working_target_not_individually_verified
+test,M01,Session2_3,0233,data/extracted/torgo/M01/Session2_3/wav_headMic/0233.wav,dart,1.44237,working_target_not_individually_verified
+test,M01,Session2_3,0198,data/extracted/torgo/M01/Session2_3/wav_headMic/0198.wav,hem,1.7465,working_target_not_individually_verified
+test,M01,Session2_3,0001,data/extracted/torgo/M01/Session2_3/wav_headMic/0001.wav,one,1.51406,working_target_not_individually_verified
+test,M01,Session2_3,0260,data/extracted/torgo/M01/Session2_3/wav_headMic/0260.wav,sitting,2.17713,working_target_not_individually_verified
+test,M01,Session2_3,0192,data/extracted/torgo/M01/Session2_3/wav_headMic/0192.wav,blow,1.73019,working_target_not_individually_verified
+test,M01,Session2_3,0203,data/extracted/torgo/M01/Session2_3/wav_headMic/0203.wav,cake,1.81181,working_target_not_individually_verified
+test,M01,Session2_3,0145,data/extracted/torgo/M01/Session2_3/wav_headMic/0145.wav,You're used to being on the field.,4.97981,working_target_not_individually_verified
+test,M01,Session2_3,0130,data/extracted/torgo/M01/Session2_3/wav_headMic/0130.wav,write,2.20175,working_target_not_individually_verified
+test,M01,Session2_3,0280,data/extracted/torgo/M01/Session2_3/wav_headMic/0280.wav,six,2.03512,working_target_not_individually_verified
+test,M01,Session2_3,0251,data/extracted/torgo/M01/Session2_3/wav_headMic/0251.wav,brawn,1.92725,working_target_not_individually_verified
+test,M01,Session2_3,0241,data/extracted/torgo/M01/Session2_3/wav_headMic/0241.wav,kilo,1.98025,working_target_not_individually_verified
+test,M01,Session2_3,0242,data/extracted/torgo/M01/Session2_3/wav_headMic/0242.wav,I have had my bell rung.,5.08294,working_target_not_individually_verified
+test,M01,Session2_3,0164,data/extracted/torgo/M01/Session2_3/wav_headMic/0164.wav,echo,1.77687,working_target_not_individually_verified
+test,M01,Session2_3,0047,data/extracted/torgo/M01/Session2_3/wav_headMic/0047.wav,forward,1.91181,working_target_not_individually_verified
+test,M01,Session2_3,0225,data/extracted/torgo/M01/Session2_3/wav_headMic/0225.wav,take,1.36031,working_target_not_individually_verified
+test,M01,Session2_3,0157,data/extracted/torgo/M01/Session2_3/wav_headMic/0157.wav,darn,1.57713,working_target_not_individually_verified
+test,M01,Session2_3,0006,data/extracted/torgo/M01/Session2_3/wav_headMic/0006.wav,torn,1.40781,working_target_not_individually_verified
+test,M01,Session2_3,0049,data/extracted/torgo/M01/Session2_3/wav_headMic/0049.wav,shear,2.06825,working_target_not_individually_verified
+test,M01,Session2_3,0093,data/extracted/torgo/M01/Session2_3/wav_headMic/0093.wav,group,1.73269,working_target_not_individually_verified
+test,M01,Session2_3,0276,data/extracted/torgo/M01/Session2_3/wav_headMic/0276.wav,mush,1.8695,working_target_not_individually_verified

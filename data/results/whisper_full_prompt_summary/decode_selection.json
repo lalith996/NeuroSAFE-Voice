@@ -1,0 +1,24 @@
+{
+  "validation_totals": {
+    "default": {
+      "clips": 233,
+      "words": 889,
+      "errors": 304,
+      "long_clips": 73,
+      "long_words": 633,
+      "long_errors": 188
+    },
+    "guard": {
+      "clips": 233,
+      "words": 889,
+      "errors": 305,
+      "long_clips": 73,
+      "long_words": 633,
+      "long_errors": 189
+    }
+  },
+  "selected_decoder": "default",
+  "selection_rule": "lower pooled validation WER; default on a tie",
+  "candidate_motivated_by_prior_test_error": true,
+  "numeric_selection_uses_validation_only": true
+}

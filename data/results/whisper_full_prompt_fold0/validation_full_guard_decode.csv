@@ -1,0 +1,61 @@
+fold,split,option,model_variant,speaker,session,utterance_id,audio_path,reference,hypothesis,reference_words,substitutions,deletions,insertions,errors
+0,validation,guard,full,F03,Session1,0025,data/extracted/torgo/F03/Session1/wav_headMic/0025.wav,Twice each day he plays skillfully and with zest upon our small organ.,Twice each day he plays skillfully and was set upon our small organ.,13,2,0,0,2
+0,validation,guard,full,F03,Session1,0028,data/extracted/torgo/F03/Session1/wav_headMic/0028.wav,"We have often urged him to walk more and smoke less,",We have often urged him to walk more and smoke less.,11,0,0,0,0
+0,validation,guard,full,F03,Session1,0070,data/extracted/torgo/F03/Session1/wav_headMic/0070.wav,giving those who observe him a pronounced feeling of the utmost respect.,Giving those who observe him pronounced feeling of the utmost respect.,12,0,1,0,1
+0,validation,guard,full,F03,Session1,0097,data/extracted/torgo/F03/Session1/wav_headMic/0097.wav,pat,pat,1,0,0,0,0
+0,validation,guard,full,F03,Session1,0135,data/extracted/torgo/F03/Session1/wav_headMic/0135.wav,I looked up and noticed two old men.,I looked up and noticed two old men.,8,0,0,0,0
+0,validation,guard,full,F03,Session1,0139,data/extracted/torgo/F03/Session1/wav_headMic/0139.wav,back,back,1,0,0,0,0
+0,validation,guard,full,F03,Session1,0154,data/extracted/torgo/F03/Session1/wav_headMic/0154.wav,shoot,shoe,1,1,0,0,1
+0,validation,guard,full,F03,Session1,0196,data/extracted/torgo/F03/Session1/wav_headMic/0196.wav,They carried me off on the stretcher.,they carry me off on the stretcher.,7,1,0,0,1
+0,validation,guard,full,F03,Session1,0201,data/extracted/torgo/F03/Session1/wav_headMic/0201.wav,air,air,1,0,0,0,0
+0,validation,guard,full,F03,Session2,0007,data/extracted/torgo/F03/Session2/wav_headMic/0007.wav,"If you destroy confidence in banks, you do something to the economy, he said.","If you destroy confidence in banks, you do something to the economy.",14,0,2,0,2
+0,validation,guard,full,F03,Session2,0020,data/extracted/torgo/F03/Session2/wav_headMic/0020.wav,The islands are sparsely populated.,The islands are sparsely populated.,5,0,0,0,0
+0,validation,guard,full,F03,Session2,0021,data/extracted/torgo/F03/Session2/wav_headMic/0021.wav,Bright sunshine shimmers on the ocean.,Bright sunshine shimmers on the ocean.,6,0,0,0,0
+0,validation,guard,full,F03,Session2,0029,data/extracted/torgo/F03/Session2/wav_headMic/0029.wav,"Everything went real smooth, the sheriff said.","Everything that reals means, the shirt says.",7,5,0,0,5
+0,validation,guard,full,F03,Session2,0033,data/extracted/torgo/F03/Session2/wav_headMic/0033.wav,Two other cases were also under advisement.,Two other cases were also under advisement.,7,0,0,0,0
+0,validation,guard,full,F03,Session2,0048,data/extracted/torgo/F03/Session2/wav_headMic/0048.wav,group,group,1,0,0,0,0
+0,validation,guard,full,F03,Session2,0065,data/extracted/torgo/F03/Session2/wav_headMic/0065.wav,fat,fucked,1,1,0,0,1
+0,validation,guard,full,F03,Session2,0093,data/extracted/torgo/F03/Session2/wav_headMic/0093.wav,golf,cough,1,1,0,0,1
+0,validation,guard,full,F03,Session2,0118,data/extracted/torgo/F03/Session2/wav_headMic/0118.wav,Nothing has been done yet to take advantage of the enabling legislation.,Nothing has been done yet to take advantage of the enabling legislation.,12,0,0,0,0
+0,validation,guard,full,F03,Session2,0133,data/extracted/torgo/F03/Session2/wav_headMic/0133.wav,It eventually became a rather proud claim.,It eventually became a rather proud claim.,7,0,0,0,0
+0,validation,guard,full,F03,Session3,0025,data/extracted/torgo/F03/Session3/wav_headMic/0025.wav,White-capped waves covered the entire bay.,White caps waste covered in tire bay.,7,4,0,0,4
+0,validation,guard,full,F03,Session3,0070,data/extracted/torgo/F03/Session3/wav_headMic/0070.wav,kilo,killer,1,1,0,0,1
+0,validation,guard,full,F03,Session3,0079,data/extracted/torgo/F03/Session3/wav_headMic/0079.wav,snake,snake,1,0,0,0,0
+0,validation,guard,full,F03,Session3,0119,data/extracted/torgo/F03/Session3/wav_headMic/0119.wav,He is definitely a notch above us.,He's definitely a match above us.,7,2,1,0,3
+0,validation,guard,full,F03,Session3,0127,data/extracted/torgo/F03/Session3/wav_headMic/0127.wav,We selected places where families will be welcome.,We selected places where families were welcomed.,8,2,1,0,3
+0,validation,guard,full,F03,Session3,0137,data/extracted/torgo/F03/Session3/wav_headMic/0137.wav,Critical equipment needs proper maintenance.,Critical equipment needs proper maintenance.,5,0,0,0,0
+0,validation,guard,full,F03,Session3,0147,data/extracted/torgo/F03/Session3/wav_headMic/0147.wav,up,up,1,0,0,0,0
+0,validation,guard,full,F03,Session3,0182,data/extracted/torgo/F03/Session3/wav_headMic/0182.wav,He played basketball there while working toward a law degree.,He played basketball there while working towards a law degree.,10,1,0,0,1
+0,validation,guard,full,F03,Session3,0185,data/extracted/torgo/F03/Session3/wav_headMic/0185.wav,goose,goose,1,0,0,0,0
+0,validation,guard,full,F03,Session3,0189,data/extracted/torgo/F03/Session3/wav_headMic/0189.wav,spit,spit,1,0,0,0,0
+0,validation,guard,full,F03,Session3,0209,data/extracted/torgo/F03/Session3/wav_headMic/0209.wav,He further proposed grants of an unspecified sum for experimental hospitals.,He further proposed grants of an unspecified thumb for experimental hospitals.,11,1,0,0,1
+0,validation,guard,full,M02,Session1,0025,data/extracted/torgo/M02/Session1/wav_headMic/0025.wav,chair,chair,1,0,0,0,0
+0,validation,guard,full,M02,Session1,0029,data/extracted/torgo/M02/Session1/wav_headMic/0029.wav,one,run,1,1,0,0,1
+0,validation,guard,full,M02,Session1,0033,data/extracted/torgo/M02/Session1/wav_headMic/0033.wav,share,show,1,1,0,0,1
+0,validation,guard,full,M02,Session1,0049,data/extracted/torgo/M02/Session1/wav_headMic/0049.wav,swarm,slown,1,1,0,0,1
+0,validation,guard,full,M02,Session1,0055,data/extracted/torgo/M02/Session1/wav_headMic/0055.wav,She had your dark suit in greasy wash water all year.,She had a doctor in the garage for a year.,11,6,1,0,7
+0,validation,guard,full,M02,Session1,0059,data/extracted/torgo/M02/Session1/wav_headMic/0059.wav,beta,prada,1,1,0,0,1
+0,validation,guard,full,M02,Session1,0065,data/extracted/torgo/M02/Session1/wav_headMic/0065.wav,no,no,1,0,0,0,0
+0,validation,guard,full,M02,Session1,0066,data/extracted/torgo/M02/Session1/wav_headMic/0066.wav,yet he still thinks as swiftly as ever.,Yet he still thinks that's worth the other.,8,4,0,0,4
+0,validation,guard,full,M02,Session1,0071,data/extracted/torgo/M02/Session1/wav_headMic/0071.wav,"We have often urged him to walk more and smoke less,",We have all the newsroom to walk more and smoke glass.,11,4,0,0,4
+0,validation,guard,full,M02,Session1,0073,data/extracted/torgo/M02/Session1/wav_headMic/0073.wav,born,born,1,0,0,0,0
+0,validation,guard,full,M02,Session1,0080,data/extracted/torgo/M02/Session1/wav_headMic/0080.wav,he slowly takes a short walk in the open air each day.,She slowly takes a short walk in the open air each day.,12,1,0,0,1
+0,validation,guard,full,M02,Session1,0083,data/extracted/torgo/M02/Session1/wav_headMic/0083.wav,double,dartball,1,1,0,0,1
+0,validation,guard,full,M02,Session1,0117,data/extracted/torgo/M02/Session1/wav_headMic/0117.wav,The quick brown fox jumps over the lazy dog.,The group's arm fox turns over the lazy dog.,9,3,0,0,3
+0,validation,guard,full,M02,Session1,0128,data/extracted/torgo/M02/Session1/wav_headMic/0128.wav,menu,man,1,1,0,0,1
+0,validation,guard,full,M02,Session1,0135,data/extracted/torgo/M02/Session1/wav_headMic/0135.wav,Why yell or worry over silly items?,Wires have a worry of silly items.,7,4,0,0,4
+0,validation,guard,full,M02,Session1,0137,data/extracted/torgo/M02/Session1/wav_headMic/0137.wav,"Everything went real smooth, the sheriff said.","Everything went real smooth, the sheriff said.",7,0,0,0,0
+0,validation,guard,full,M02,Session1,0148,data/extracted/torgo/M02/Session1/wav_headMic/0148.wav,shout,shout,1,0,0,0,0
+0,validation,guard,full,M02,Session1,0149,data/extracted/torgo/M02/Session1/wav_headMic/0149.wav,shoot,shoot,1,0,0,0,0
+0,validation,guard,full,M02,Session1,0152,data/extracted/torgo/M02/Session1/wav_headMic/0152.wav,You'd be better off taking a cold shower.,You'd be better off taking a cold shower.,8,0,0,0,0
+0,validation,guard,full,M02,Session1,0159,data/extracted/torgo/M02/Session1/wav_headMic/0159.wav,play,play,1,0,0,0,0
+0,validation,guard,full,M02,Session1,0164,data/extracted/torgo/M02/Session1/wav_headMic/0164.wav,dot,start,1,1,0,0,1
+0,validation,guard,full,M02,Session1,0175,data/extracted/torgo/M02/Session1/wav_headMic/0175.wav,write,right,1,1,0,0,1
+0,validation,guard,full,M02,Session1,0183,data/extracted/torgo/M02/Session1/wav_headMic/0183.wav,Bright sunshine shimmers on the ocean.,"Pright, center, and shimms on the ocean.",6,3,0,1,4
+0,validation,guard,full,M02,Session1,0184,data/extracted/torgo/M02/Session1/wav_headMic/0184.wav,We gathered shells on the beach.,Forgathers house on the beach.,6,2,1,0,3
+0,validation,guard,full,M02,Session1,0198,data/extracted/torgo/M02/Session1/wav_headMic/0198.wav,Nothing is as offensive as innocence.,Nothing has been to bad for the nuisance.,6,5,0,2,7
+0,validation,guard,full,M02,Session1,0205,data/extracted/torgo/M02/Session1/wav_headMic/0205.wav,jungle,jango,1,1,0,0,1
+0,validation,guard,full,M02,Session1,0207,data/extracted/torgo/M02/Session1/wav_headMic/0207.wav,suit,soup,1,1,0,0,1
+0,validation,guard,full,M02,Session1,0224,data/extracted/torgo/M02/Session1/wav_headMic/0224.wav,fate,fake,1,1,0,0,1
+0,validation,guard,full,M02,Session2,0199,data/extracted/torgo/M02/Session2/wav_headMic/0199.wav,six,six,1,0,0,0,0
+0,validation,guard,full,M02,Session2,0205,data/extracted/torgo/M02/Session2/wav_headMic/0205.wav,heart,heart,1,0,0,0,0

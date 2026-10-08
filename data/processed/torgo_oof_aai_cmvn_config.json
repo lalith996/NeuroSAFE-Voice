@@ -1,0 +1,21 @@
+{
+  "model": "speaker-held-out TORGO-only ridge AAI with utterance CMVN",
+  "utterance_cmvn": true,
+  "units": "estimated utterance-centered TORGO positional units",
+  "target_channels": [
+    "li_x",
+    "ul_x",
+    "ll_x",
+    "tt_x",
+    "tb_x",
+    "td_x",
+    "li_vertical",
+    "ul_vertical",
+    "ll_vertical",
+    "tt_vertical",
+    "tb_vertical",
+    "td_vertical"
+  ],
+  "intended_use": "exploratory M2/M3 ASR fusion inputs; AAI validation correlation is modest",
+  "leakage_rule": "each speaker uses only the fold in which that speaker is test"
+}

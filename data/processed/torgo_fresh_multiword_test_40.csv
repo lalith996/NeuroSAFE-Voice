@@ -1,0 +1,41 @@
+fold,speaker,session,utterance_id,audio_path,duration_seconds,written_prompt,scoring_target,target_status
+0,F01,Session1,0022,data/extracted/torgo/F01/Session1/wav_headMic/0022.wav,4.99038,You wished to know all about my grandfather.,You wished to know all about my grandfather.,project_prompt_target
+0,F01,Session1,0028,data/extracted/torgo/F01/Session1/wav_headMic/0028.wav,3.60712,"but he always answers, Banana oil!","but he always answers, Banana oil!",project_prompt_target
+0,F01,Session1,0031,data/extracted/torgo/F01/Session1/wav_headMic/0031.wav,4.61069,The quick brown fox jumps over the lazy dog.,The quick brown fox jumps over the lazy dog.,project_prompt_target
+0,F01,Session1,0106,data/extracted/torgo/F01/Session1/wav_headMic/0106.wav,5.69606,yet he still thinks as swiftly as ever.,yet he still thinks as swiftly as ever.,project_prompt_target
+0,F01,Session1,0130,data/extracted/torgo/F01/Session1/wav_headMic/0130.wav,5.74556,Grandfather likes to be modern in his language.,Grandfather likes to be modern in his language.,project_prompt_target
+0,M01,Session2_3,0061,data/extracted/torgo/M01/Session2_3/wav_headMic/0061.wav,5.47475,I feel I can play this weekend.,I feel I can play this weekend.,project_prompt_target
+0,M01,Session2_3,0115,data/extracted/torgo/M01/Session2_3/wav_headMic/0115.wav,5.34869,Will Robin wear a yellow lily?,Will Robin wear a yellow lily?,project_prompt_target
+0,M01,Session2_3,0152,data/extracted/torgo/M01/Session2_3/wav_headMic/0152.wav,4.31081,He will allow a rare lie.,He will allow a rare lie.,project_prompt_target
+0,M01,Session2_3,0254,data/extracted/torgo/M01/Session2_3/wav_headMic/0254.wav,4.46875,Students watched as he got out.,Students watched as he got out.,project_prompt_target
+0,M01,Session2_3,0271,data/extracted/torgo/M01/Session2_3/wav_headMic/0271.wav,5.0405,He wrapped the package hastily.,He wrapped the package hastily.,project_prompt_target
+1,F03,Session1,0170,data/extracted/torgo/F03/Session1/wav_headMic/0170.wav,3.99794,All the big baseball players get traded.,All the big baseball players get traded.,project_prompt_target
+1,F03,Session1,0175,data/extracted/torgo/F03/Session1/wav_headMic/0175.wav,2.9045,You're used to being on the field.,You're used to being on the field.,project_prompt_target
+1,F03,Session2,0147,data/extracted/torgo/F03/Session2/wav_headMic/0147.wav,4.26,The misguided souls have lost their way.,The misguided souls have lost their way.,project_prompt_target
+1,F03,Session3,0023,data/extracted/torgo/F03/Session3/wav_headMic/0023.wav,4.35,She doesn't like to have it hanging around.,She doesn't like to have it hanging around.,project_prompt_target
+1,F03,Session3,0082,data/extracted/torgo/F03/Session3/wav_headMic/0082.wav,4.565,Those musicians harmonize marvelously.,Those musicians harmonize marvelously.,project_prompt_target
+1,M02,Session1,0067,data/extracted/torgo/M02/Session1/wav_headMic/0067.wav,5.53944,usually minus several buttons;,usually minus several buttons;,project_prompt_target
+1,M02,Session1,0141,data/extracted/torgo/M02/Session1/wav_headMic/0141.wav,4.0125,This was easy for us.,This was easy for us.,project_prompt_target
+1,M02,Session1,0176,data/extracted/torgo/M02/Session1/wav_headMic/0176.wav,5.5175,Will Robin wear a yellow lily?,Will Robin wear a yellow lily?,project_prompt_target
+1,M02,Session1,0208,data/extracted/torgo/M02/Session1/wav_headMic/0208.wav,4.55131,Just one side got wet.,Just one side got wet.,project_prompt_target
+1,M02,Session1,0217,data/extracted/torgo/M02/Session1/wav_headMic/0217.wav,4.48062,I was conscious all the time.,I was conscious all the time.,project_prompt_target
+2,F04,Session1,0025,data/extracted/torgo/F04/Session1/wav_arrayMic/0025.wav,4.5,he dressed himself in an ancient black frock coat,he dressed himself in an ancient black frock coat,project_prompt_target
+2,F04,Session1,0065,data/extracted/torgo/F04/Session1/wav_arrayMic/0065.wav,5.25,The quick brown fox jumps over the lazy dog.,The quick brown fox jumps over the lazy dog.,project_prompt_target
+2,F04,Session1,0166,data/extracted/torgo/F04/Session1/wav_arrayMic/0166.wav,3.45,The islands are sparsely populated.,The islands are sparsely populated.,project_prompt_target
+2,F04,Session1,0180,data/extracted/torgo/F04/Session1/wav_arrayMic/0180.wav,3.45,Bright sunshine shimmers on the ocean.,Bright sunshine shimmers on the ocean.,project_prompt_target
+2,F04,Session1,0198,data/extracted/torgo/F04/Session1/wav_arrayMic/0198.wav,3.45,Just one side got wet.,Just one side got wet.,project_prompt_target
+2,M03,Session2,0107,data/extracted/torgo/M03/Session2/wav_headMic/0107.wav,4.625,The quick brown fox jumps over the lazy dog.,The quick brown fox jumps over the lazy dog.,project_prompt_target
+2,M03,Session2,0135,data/extracted/torgo/M03/Session2/wav_headMic/0135.wav,4.35,Jane may earn more money by working hard.,Jane may earn more money by working hard.,project_prompt_target
+2,M03,Session2,0168,data/extracted/torgo/M03/Session2/wav_headMic/0168.wav,3.33006,This was easy for us.,This was easy for us.,project_prompt_target
+2,M03,Session2,0300,data/extracted/torgo/M03/Session2/wav_headMic/0300.wav,4.575,The museum hires musicians every evening.,The museum hires musicians every evening.,project_prompt_target
+2,M03,Session2,0420,data/extracted/torgo/M03/Session2/wav_headMic/0420.wav,5.915,the prospect of cutting back spending is an unpleasant one for any governor,the prospect of cutting back spending is an unpleasant one for any governor,project_prompt_target
+3,M04,Session1,0052,data/extracted/torgo/M04/Session1/wav_arrayMic/0052.wav,14.55,"he dresses himself in an ancient black frock coat,","he dresses himself in an ancient black frock coat,",project_prompt_target
+3,M04,Session1,0063,data/extracted/torgo/M04/Session1/wav_arrayMic/0063.wav,15.75,"Except in the winter when the ooze or snow or ice prevents,","Except in the winter when the ooze or snow or ice prevents,",project_prompt_target
+3,M04,Session1,0084,data/extracted/torgo/M04/Session1/wav_arrayMic/0084.wav,12.6,You wished to know all about my grandfather.,You wished to know all about my grandfather.,project_prompt_target
+3,M04,Session2,0156,data/extracted/torgo/M04/Session2/wav_headMic/0156.wav,7.51,I was conscious all the time.,I was conscious all the time.,project_prompt_target
+3,M04,Session2,0183,data/extracted/torgo/M04/Session2/wav_headMic/0183.wav,5.695,He will allow a rare lie.,He will allow a rare lie.,project_prompt_target
+3,M05,Session2,0049,data/extracted/torgo/M05/Session2/wav_headMic/0049.wav,8.885,The islands are sparsely populated.,The islands are sparsely populated.,project_prompt_target
+3,M05,Session2,0057,data/extracted/torgo/M05/Session2/wav_headMic/0057.wav,7.88,We gathered shells on the beach.,We gathered shells on the beach.,project_prompt_target
+3,M05,Session2,0189,data/extracted/torgo/M05/Session2/wav_headMic/0189.wav,13.335,"Before Thursday's exam, review every formula.","Before Thursday's exam, review every formula.",project_prompt_target
+3,M05,Session2,0246,data/extracted/torgo/M05/Session2/wav_headMic/0246.wav,11.78006,A roll of wire lay near the wall.,A roll of wire lay near the wall.,project_prompt_target
+3,M05,Session2,0279,data/extracted/torgo/M05/Session2/wav_headMic/0279.wav,8.385,A good attitude is unbeatable.,A good attitude is unbeatable.,project_prompt_target

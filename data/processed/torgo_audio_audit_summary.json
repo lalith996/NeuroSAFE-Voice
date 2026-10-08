@@ -1,0 +1,9 @@
+{
+  "screened_recordings": 9104,
+  "recordings_with_review_flags": 2084,
+  "flag_counts": {
+    "clipped_samples_at_least_0.1_percent": 1717,
+    "very_low_average_level": 367
+  },
+  "rule_note": "Very low average level: full-recording RMS below -45 dBFS. Clipping: at least 0.1% of samples equal the 16-bit maximum or minimum. These are triage rules, not automatic exclusions; quiet speech, background sound, and recording gain require listening review."
+}

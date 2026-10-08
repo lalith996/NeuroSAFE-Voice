@@ -1,0 +1,14 @@
+{
+  "fold": 1,
+  "split": "validation",
+  "option": "guard",
+  "model_variant": "full",
+  "clips": 56,
+  "words": 230,
+  "errors": 14,
+  "wer": 0.06086956521739131,
+  "long_clips": 16,
+  "long_words": 186,
+  "long_errors": 4,
+  "long_wer": 0.021505376344086023
+}

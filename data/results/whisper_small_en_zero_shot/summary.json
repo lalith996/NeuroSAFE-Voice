@@ -1,0 +1,198 @@
+{
+  "completed_utterances": 9104,
+  "expected_utterances": 9104,
+  "complete": true,
+  "overall": {
+    "utterances": 9104,
+    "reference_words": 22984,
+    "substitutions": 4417,
+    "deletions": 296,
+    "insertions": 2685,
+    "wer": 0.32187608771319176
+  },
+  "dysarthric": {
+    "utterances": 3150,
+    "reference_words": 7861,
+    "substitutions": 2865,
+    "deletions": 208,
+    "insertions": 2532,
+    "wer": 0.7130136114998091
+  },
+  "control": {
+    "utterances": 5954,
+    "reference_words": 15123,
+    "substitutions": 1552,
+    "deletions": 88,
+    "insertions": 153,
+    "wer": 0.11856113205051907
+  },
+  "short_references_1_to_3_words": {
+    "utterances": 6835,
+    "reference_words": 6865,
+    "substitutions": 2707,
+    "deletions": 56,
+    "insertions": 1675,
+    "wer": 0.6464675892206846
+  },
+  "longer_references_4_plus_words": {
+    "utterances": 2269,
+    "reference_words": 16119,
+    "substitutions": 1710,
+    "deletions": 240,
+    "insertions": 1010,
+    "wer": 0.18363422048514175
+  },
+  "per_speaker": [
+    {
+      "speaker": "F01",
+      "condition": "dysarthric",
+      "utterances": 118,
+      "reference_words": 282,
+      "substitutions": 159,
+      "deletions": 12,
+      "insertions": 34,
+      "wer": 0.7269503546099291
+    },
+    {
+      "speaker": "F03",
+      "condition": "dysarthric",
+      "utterances": 546,
+      "reference_words": 1397,
+      "substitutions": 361,
+      "deletions": 17,
+      "insertions": 200,
+      "wer": 0.41374373657838226
+    },
+    {
+      "speaker": "F04",
+      "condition": "dysarthric",
+      "utterances": 429,
+      "reference_words": 1064,
+      "substitutions": 139,
+      "deletions": 3,
+      "insertions": 23,
+      "wer": 0.1550751879699248
+    },
+    {
+      "speaker": "FC01",
+      "condition": "control",
+      "utterances": 151,
+      "reference_words": 341,
+      "substitutions": 31,
+      "deletions": 2,
+      "insertions": 1,
+      "wer": 0.09970674486803519
+    },
+    {
+      "speaker": "FC02",
+      "condition": "control",
+      "utterances": 1221,
+      "reference_words": 3087,
+      "substitutions": 245,
+      "deletions": 3,
+      "insertions": 21,
+      "wer": 0.08713961775186264
+    },
+    {
+      "speaker": "FC03",
+      "condition": "control",
+      "utterances": 964,
+      "reference_words": 2503,
+      "substitutions": 245,
+      "deletions": 7,
+      "insertions": 29,
+      "wer": 0.1122652816620056
+    },
+    {
+      "speaker": "M01",
+      "condition": "dysarthric",
+      "utterances": 372,
+      "reference_words": 928,
+      "substitutions": 570,
+      "deletions": 20,
+      "insertions": 465,
+      "wer": 1.136853448275862
+    },
+    {
+      "speaker": "M02",
+      "condition": "dysarthric",
+      "utterances": 388,
+      "reference_words": 952,
+      "substitutions": 507,
+      "deletions": 23,
+      "insertions": 260,
+      "wer": 0.8298319327731093
+    },
+    {
+      "speaker": "M03",
+      "condition": "dysarthric",
+      "utterances": 406,
+      "reference_words": 1016,
+      "substitutions": 60,
+      "deletions": 2,
+      "insertions": 19,
+      "wer": 0.0797244094488189
+    },
+    {
+      "speaker": "M04",
+      "condition": "dysarthric",
+      "utterances": 391,
+      "reference_words": 970,
+      "substitutions": 616,
+      "deletions": 37,
+      "insertions": 994,
+      "wer": 1.6979381443298969
+    },
+    {
+      "speaker": "M05",
+      "condition": "dysarthric",
+      "utterances": 500,
+      "reference_words": 1252,
+      "substitutions": 453,
+      "deletions": 94,
+      "insertions": 537,
+      "wer": 0.865814696485623
+    },
+    {
+      "speaker": "MC01",
+      "condition": "control",
+      "utterances": 1078,
+      "reference_words": 2756,
+      "substitutions": 263,
+      "deletions": 5,
+      "insertions": 39,
+      "wer": 0.1113933236574746
+    },
+    {
+      "speaker": "MC02",
+      "condition": "control",
+      "utterances": 677,
+      "reference_words": 1705,
+      "substitutions": 298,
+      "deletions": 15,
+      "insertions": 26,
+      "wer": 0.19882697947214076
+    },
+    {
+      "speaker": "MC03",
+      "condition": "control",
+      "utterances": 870,
+      "reference_words": 2191,
+      "substitutions": 226,
+      "deletions": 22,
+      "insertions": 19,
+      "wer": 0.12186216339570972
+    },
+    {
+      "speaker": "MC04",
+      "condition": "control",
+      "utterances": 993,
+      "reference_words": 2540,
+      "substitutions": 244,
+      "deletions": 34,
+      "insertions": 18,
+      "wer": 0.11653543307086614
+    }
+  ],
+  "interpretation": "WER is against TORGO elicitation prompts, which were not independently verified as verbatim transcripts."
+}

@@ -1,0 +1,19 @@
+{
+  "model": "openai/whisper-small.en",
+  "fold": 1,
+  "seed": 2033,
+  "steps": 900,
+  "checkpoints": [
+    300,
+    600,
+    900
+  ],
+  "train_max_seconds": 12,
+  "train_pool_count": 2341,
+  "validation_count": 56,
+  "test_count": 58,
+  "sampling": "75% dysarthric, 30% >6 second, uniform speaker within stratum",
+  "checkpoint_selection": "minimum mean teacher-forced validation loss; test unused",
+  "learning_rate": "cosine 1e-4 to 1e-5",
+  "target_file": "data/exports/torgo_asr_targets.csv"
+}

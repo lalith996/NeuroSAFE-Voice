@@ -1,0 +1,58 @@
+fold,split,option,model_variant,speaker,session,utterance_id,audio_path,reference,hypothesis,reference_words,substitutions,deletions,insertions,errors
+3,validation,default,full,F01,Session1,0008,data/extracted/torgo/F01/Session1/wav_headMic/0008.wav,"Except in the winter when the ooze or snow or ice prevents,","I slept in the rain, the roofs also were ice-plagued.",12,6,2,1,9
+3,validation,default,full,F01,Session1,0011,data/extracted/torgo/F01/Session1/wav_headMic/0011.wav,meat,me,1,1,0,0,1
+3,validation,default,full,F01,Session1,0014,data/extracted/torgo/F01/Session1/wav_headMic/0014.wav,he slowly takes a short walk in the open air each day.,He slowly kicks a slight walk in the open area again.,12,4,1,0,5
+3,validation,default,full,F01,Session1,0021,data/extracted/torgo/F01/Session1/wav_headMic/0021.wav,dug,dug,1,0,0,0,0
+3,validation,default,full,F01,Session1,0022,data/extracted/torgo/F01/Session1/wav_headMic/0022.wav,You wished to know all about my grandfather.,You wish me all about my grandfather.,8,2,1,0,3
+3,validation,default,full,F01,Session1,0032,data/extracted/torgo/F01/Session1/wav_headMic/0032.wav,She had your dark suit in greasy wash water all year.,She had even got to an increasingly small audience.,11,7,2,0,9
+3,validation,default,full,F01,Session1,0036,data/extracted/torgo/F01/Session1/wav_headMic/0036.wav,"We have often urged him to walk more and smoke less,",We have often learned to walk more slowly and smoke less.,11,1,1,1,3
+3,validation,default,full,F01,Session1,0039,data/extracted/torgo/F01/Session1/wav_headMic/0039.wav,swore,woe,1,1,0,0,1
+3,validation,default,full,F01,Session1,0042,data/extracted/torgo/F01/Session1/wav_headMic/0042.wav,for,four,1,1,0,0,1
+3,validation,default,full,F01,Session1,0045,data/extracted/torgo/F01/Session1/wav_headMic/0045.wav,bit,bit,1,0,0,0,0
+3,validation,default,full,F01,Session1,0058,data/extracted/torgo/F01/Session1/wav_headMic/0058.wav,the,the,1,0,0,0,0
+3,validation,default,full,F01,Session1,0062,data/extracted/torgo/F01/Session1/wav_headMic/0062.wav,sip,sip,1,0,0,0,0
+3,validation,default,full,F01,Session1,0065,data/extracted/torgo/F01/Session1/wav_headMic/0065.wav,fee,be,1,1,0,0,1
+3,validation,default,full,F01,Session1,0066,data/extracted/torgo/F01/Session1/wav_headMic/0066.wav,weed,with,1,1,0,0,1
+3,validation,default,full,F01,Session1,0076,data/extracted/torgo/F01/Session1/wav_headMic/0076.wav,ship,simp,1,1,0,0,1
+3,validation,default,full,F01,Session1,0085,data/extracted/torgo/F01/Session1/wav_headMic/0085.wav,sip,sip,1,0,0,0,0
+3,validation,default,full,F01,Session1,0089,data/extracted/torgo/F01/Session1/wav_headMic/0089.wav,sticks,skicks,1,1,0,0,1
+3,validation,default,full,F01,Session1,0091,data/extracted/torgo/F01/Session1/wav_headMic/0091.wav,dagger,danger,1,1,0,0,1
+3,validation,default,full,F01,Session1,0098,data/extracted/torgo/F01/Session1/wav_headMic/0098.wav,range,link,1,1,0,0,1
+3,validation,default,full,F01,Session1,0116,data/extracted/torgo/F01/Session1/wav_headMic/0116.wav,Twice each day he plays skillfully and with zest upon our small organ.,"When he sees it, he plays skillful and wins the best upon a small organ.",13,7,0,2,9
+3,validation,default,full,F01,Session1,0123,data/extracted/torgo/F01/Session1/wav_headMic/0123.wav,down,go,1,1,0,0,1
+3,validation,default,full,F01,Session1,0124,data/extracted/torgo/F01/Session1/wav_headMic/0124.wav,gadget,gandhoo,1,1,0,0,1
+3,validation,default,full,F01,Session1,0125,data/extracted/torgo/F01/Session1/wav_headMic/0125.wav,store,school,1,1,0,0,1
+3,validation,default,full,F01,Session1,0126,data/extracted/torgo/F01/Session1/wav_headMic/0126.wav,"he dresses himself in an ancient black frock coat,",He grishes himself in a drinking black bottle.,9,4,1,0,5
+3,validation,default,full,F01,Session1,0128,data/extracted/torgo/F01/Session1/wav_headMic/0128.wav,storm,slow,1,1,0,0,1
+3,validation,default,full,F01,Session1,0132,data/extracted/torgo/F01/Session1/wav_headMic/0132.wav,"When he speaks, his voice is just a bit cracked and quivers a trifle.","When he speaks, his voice is just a bit cracked and he moves just a bit",14,2,0,2,4
+3,validation,default,full,F01,Session1,0134,data/extracted/torgo/F01/Session1/wav_headMic/0134.wav,yes,yes,1,0,0,0,0
+3,validation,default,full,M01,Session2_3,0001,data/extracted/torgo/M01/Session2_3/wav_headMic/0001.wav,one,one,1,0,0,0,0
+3,validation,default,full,M01,Session2_3,0019,data/extracted/torgo/M01/Session2_3/wav_headMic/0019.wav,dark,dark,1,0,0,0,0
+3,validation,default,full,M01,Session2_3,0029,data/extracted/torgo/M01/Session2_3/wav_headMic/0029.wav,I was conscious all the time.,I was counted all the time.,6,1,0,0,1
+3,validation,default,full,M01,Session2_3,0031,data/extracted/torgo/M01/Session2_3/wav_headMic/0031.wav,fate,paint,1,1,0,0,1
+3,validation,default,full,M01,Session2_3,0046,data/extracted/torgo/M01/Session2_3/wav_headMic/0046.wav,knew,new,1,1,0,0,1
+3,validation,default,full,M01,Session2_3,0063,data/extracted/torgo/M01/Session2_3/wav_headMic/0063.wav,rock,rug,1,1,0,0,1
+3,validation,default,full,M01,Session2_3,0066,data/extracted/torgo/M01/Session2_3/wav_headMic/0066.wav,Two other cases also were under advisement.,do other kids always over under an advisement?,7,4,0,1,5
+3,validation,default,full,M01,Session2_3,0103,data/extracted/torgo/M01/Session2_3/wav_headMic/0103.wav,Their house is grey and white.,They're out in gray and white.,6,4,0,0,4
+3,validation,default,full,M01,Session2_3,0109,data/extracted/torgo/M01/Session2_3/wav_headMic/0109.wav,You'd be better off taking a cold shower.,youth be better off taking a shower.,8,1,1,0,2
+3,validation,default,full,M01,Session2_3,0121,data/extracted/torgo/M01/Session2_3/wav_headMic/0121.wav,All the big baseball players get traded.,All the big baseball players can train.,7,2,0,0,2
+3,validation,default,full,M01,Session2_3,0129,data/extracted/torgo/M01/Session2_3/wav_headMic/0129.wav,The train approached the depot slowly.,"the drain of blood, the body of the",6,4,0,2,6
+3,validation,default,full,M01,Session2_3,0132,data/extracted/torgo/M01/Session2_3/wav_headMic/0132.wav,They carried me off on the stretcher.,"They carried me up and under, stretching.",7,4,0,0,4
+3,validation,default,full,M01,Session2_3,0140,data/extracted/torgo/M01/Session2_3/wav_headMic/0140.wav,we're,wear,1,1,0,0,1
+3,validation,default,full,M01,Session2_3,0154,data/extracted/torgo/M01/Session2_3/wav_headMic/0154.wav,select,seric,1,1,0,0,1
+3,validation,default,full,M01,Session2_3,0174,data/extracted/torgo/M01/Session2_3/wav_headMic/0174.wav,The dolphins swam around our boat.,they dove in to everyone in our boat.,6,4,0,2,6
+3,validation,default,full,M01,Session2_3,0176,data/extracted/torgo/M01/Session2_3/wav_headMic/0176.wav,zero,zero,1,0,0,0,0
+3,validation,default,full,M01,Session2_3,0183,data/extracted/torgo/M01/Session2_3/wav_headMic/0183.wav,sergeant,sarjant,1,1,0,0,1
+3,validation,default,full,M01,Session2_3,0185,data/extracted/torgo/M01/Session2_3/wav_headMic/0185.wav,The misguided souls have lost their way.,Amigae did not have a lighter weight.,7,6,0,0,6
+3,validation,default,full,M01,Session2_3,0187,data/extracted/torgo/M01/Session2_3/wav_headMic/0187.wav,There is a treehouse up above.,They're eating three hours of butter.,6,6,0,0,6
+3,validation,default,full,M01,Session2_3,0200,data/extracted/torgo/M01/Session2_3/wav_headMic/0200.wav,rich,rage,1,1,0,0,1
+3,validation,default,full,M01,Session2_3,0205,data/extracted/torgo/M01/Session2_3/wav_headMic/0205.wav,"If you are losing water, replace it immediately.","If you are doing what replaces immediately,",8,3,1,0,4
+3,validation,default,full,M01,Session2_3,0232,data/extracted/torgo/M01/Session2_3/wav_headMic/0232.wav,"Before Thursday's exam, review every formula.","they bore their days again, leaving every formula.",6,4,0,2,6
+3,validation,default,full,M01,Session2_3,0235,data/extracted/torgo/M01/Session2_3/wav_headMic/0235.wav,The museum hires musicians every evening.,"The beauty of art, beauty in every evening,",6,3,0,2,5
+3,validation,default,full,M01,Session2_3,0237,data/extracted/torgo/M01/Session2_3/wav_headMic/0237.wav,nine,nigh,1,1,0,0,1
+3,validation,default,full,M01,Session2_3,0249,data/extracted/torgo/M01/Session2_3/wav_headMic/0249.wav,The books are very expensive.,The book are very independent.,5,2,0,0,2
+3,validation,default,full,M01,Session2_3,0250,data/extracted/torgo/M01/Session2_3/wav_headMic/0250.wav,side,side,1,0,0,0,0
+3,validation,default,full,M01,Session2_3,0256,data/extracted/torgo/M01/Session2_3/wav_headMic/0256.wav,no,no,1,0,0,0,0
+3,validation,default,full,M01,Session2_3,0277,data/extracted/torgo/M01/Session2_3/wav_headMic/0277.wav,heart,art,1,1,0,0,1
+3,validation,default,full,M01,Session2_3,0283,data/extracted/torgo/M01/Session2_3/wav_headMic/0283.wav,hat,help,1,1,0,0,1
+3,validation,default,full,M01,Session2_3,0286,data/extracted/torgo/M01/Session2_3/wav_headMic/0286.wav,brought,bride,1,1,0,0,1

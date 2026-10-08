@@ -1,0 +1,28 @@
+{
+  "audio_rate_hz": 16000,
+  "output_rate_hz": 100,
+  "window_samples": 400,
+  "fft_size": 512,
+  "mel_bands": 40,
+  "mel_upper_hz": 7600,
+  "target_channels": [
+    "li_x",
+    "ul_x",
+    "ll_x",
+    "tt_x",
+    "tb_x",
+    "td_x",
+    "v_x",
+    "li_y",
+    "ul_y",
+    "ll_y",
+    "tt_y",
+    "tb_y",
+    "td_y",
+    "v_y"
+  ],
+  "target_reference": "upper_incisor_same_axis",
+  "alignment": "Use supplied synchronous timestamps, zero lag, truncate trailing audio to EMA coverage",
+  "normalization": "Not applied; fit from train examples only in the model run",
+  "source": "https://www.cstr.ed.ac.uk/research/projects/artic/mocha.html"
+}

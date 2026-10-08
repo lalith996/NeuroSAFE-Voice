@@ -1,0 +1,33 @@
+{
+  "selection_seed": 2040,
+  "clips": 40,
+  "per_speaker": {
+    "F01": 5,
+    "F03": 5,
+    "F04": 5,
+    "M01": 5,
+    "M02": 5,
+    "M03": 5,
+    "M04": 5,
+    "M05": 5
+  },
+  "held_out_fold_by_speaker": {
+    "F01": 0,
+    "F03": 1,
+    "F04": 2,
+    "M01": 0,
+    "M02": 1,
+    "M03": 2,
+    "M04": 3,
+    "M05": 3
+  },
+  "exclusions": [
+    "data/exports/torgo_long_test_targets.csv",
+    "reports/transcript_review_queue.csv",
+    "prior short pilot test IDs"
+  ],
+  "selection": "five per dysarthric speaker, four or more prompt words, no audio audit flag, 0.3-30 seconds",
+  "source_sha256": "fa8659025e24230ecde00c4c7276f002ca7527658c7ac934596546dedcd83057",
+  "csv_sha256": "50533cbd13f786a5c05d903182d87fead22ac2375622a5556e38f6308ef01589",
+  "status": "frozen_before_targeted_training"
+}

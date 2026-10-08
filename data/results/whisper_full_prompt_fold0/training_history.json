@@ -1,0 +1,26 @@
+{
+  "checkpoints": [
+    {
+      "step": 300,
+      "train_loss_recent": 0.7025683999317698,
+      "validation_mean_loss": 0.7381202855690693,
+      "elapsed_seconds": 66.54502816614695
+    },
+    {
+      "step": 600,
+      "train_loss_recent": 0.5582681251631584,
+      "validation_mean_loss": 0.7125668358639814,
+      "elapsed_seconds": 132.01500362507068
+    },
+    {
+      "step": 900,
+      "train_loss_recent": 0.37839662546408365,
+      "validation_mean_loss": 0.7162543447921053,
+      "elapsed_seconds": 197.89440637500957
+    }
+  ],
+  "best_step": 600,
+  "best_validation_mean_loss": 0.7125668358639814,
+  "unique_training_clips_sampled": 738,
+  "training_seconds": 197.89444729103707
+}

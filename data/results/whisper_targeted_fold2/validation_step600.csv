@@ -1,0 +1,61 @@
+speaker,session,utterance_id,reference_words,errors,multiword,hypothesis
+M04,Session1,0030,1,1,False,rent
+M04,Session1,0032,1,1,False,dumble
+M04,Session1,0035,1,1,False,dear
+M04,Session1,0036,9,5,True,The quick build pass just over that lady dog.
+M04,Session1,0039,1,0,False,up
+M04,Session1,0058,1,0,False,go
+M04,Session1,0059,1,2,False,got it
+M04,Session1,0069,1,1,False,bat
+M04,Session1,0083,1,1,False,day
+M04,Session1,0085,1,1,False,no
+M04,Session1,0090,1,1,False,bit bitch
+M04,Session1,0105,3,4,False,You eat men's mens.
+M04,Session2,0017,1,1,False,dorm
+M04,Session2,0059,1,1,False,jail
+M04,Session2,0077,8,3,True,You want to know all about my good grandpa.
+M04,Session2,0086,1,0,False,read
+M04,Session2,0087,1,1,False,swim
+M04,Session2,0103,1,1,False,dwarf
+M04,Session2,0121,1,0,False,warm
+M04,Session2,0155,6,3,True,All the time.
+M04,Session2,0156,6,2,True,I would continue all the time.
+M04,Session2,0157,6,5,True,To eat what would thinner dinner I am.
+M04,Session2,0176,1,1,False,together
+M04,Session2,0183,6,2,True,he will allow a other rare life.
+M04,Session2,0185,1,1,False,bear
+M04,Session2,0187,7,8,True,Why here or where we went over and for the item?
+M04,Session2,0188,1,0,False,no
+M04,Session2,0246,6,7,True,"Nothing ends in an affectionous end, as the inguins."
+M04,Session2,0253,5,5,True,The twine is your breath.
+M04,Session2,0295,6,1,True,There is a drill up above.
+M05,Session2,0013,6,3,True,He will allow his rear lies.
+M05,Session2,0017,1,0,False,prior
+M05,Session2,0021,1,1,False,nut
+M05,Session2,0041,1,0,False,pile
+M05,Session2,0050,1,3,False,in a royal
+M05,Session2,0066,6,0,True,Bright sunshine shimmers on the ocean.
+M05,Session2,0076,6,0,True,She is thinner than I am.
+M05,Session2,0083,1,0,False,toot
+M05,Session2,0086,1,1,False,eight
+M05,Session2,0090,1,1,False,say
+M05,Session2,0091,6,1,True,Nothing is as offensive as image.
+M05,Session2,0119,1,1,False,seize
+M05,Session2,0121,1,1,False,troupe
+M05,Session2,0140,1,0,False,pretty
+M05,Session2,0147,5,2,True,Our salsa is healthy for you.
+M05,Session2,0151,5,2,True,He wrapped the package in string.
+M05,Session2,0152,5,0,True,The box contained three sweaters.
+M05,Session2,0153,1,0,False,hill
+M05,Session2,0163,5,0,True,The little schoolhouse stood empty.
+M05,Session2,0172,1,0,False,much
+M05,Session2,0198,1,0,False,dart
+M05,Session2,0199,1,0,False,mitten
+M05,Session2,0210,1,1,False,heart
+M05,Session2,0228,1,0,False,seven
+M05,Session2,0250,1,1,False,him
+M05,Session2,0265,6,1,True,Corey lives in a lively home.
+M05,Session2,0282,4,2,True,Those musicians homie nice marvelously.
+M05,Session2,0289,1,1,False,rate
+M05,Session2,0327,1,1,False,dead
+M05,Session2,0390,4,2,True,The hotel only served.

@@ -1,0 +1,71 @@
+speaker,session,utterance_id,reference,stage,hypothesis,reference_words,substitutions,deletions,insertions
+M04,Session2,0134,sprinkle,before_lora,Big gone. Big gone.,1,1,0,3
+M04,Session2,0117,knew,before_lora,Noof,1,1,0,0
+M04,Session1,0032,stubble,before_lora,Dumbo Dumbo,1,1,0,1
+M04,Session2,0267,know,before_lora,No! No!,1,1,0,1
+M04,Session1,0062,grow,before_lora,Go! Go!,1,1,0,1
+M04,Session2,0095,beta,before_lora,Better,1,1,0,0
+M04,Session1,0017,jacket,before_lora,Jack Gazer. Jack Gazer.,1,1,0,3
+M04,Session2,0141,bear,before_lora,Bear Bear,1,0,0,1
+M04,Session2,0256,coupe,before_lora,kub,1,1,0,0
+M04,Session2,0081,born,before_lora,born born,1,0,0,1
+M04,Session2,0254,mere,before_lora,Bier,1,1,0,0
+M04,Session1,0093,When when,before_lora,When,2,0,1,0
+M04,Session1,0116,storm,before_lora,DUMB!,1,1,0,0
+M04,Session2,0137,back,before_lora,back,1,0,0,0
+M04,Session2,0084,tip,before_lora,clip,1,1,0,0
+M04,Session2,0213,urgent,before_lora,urgent,1,0,0,0
+M04,Session2,0209,mut,before_lora,but,1,1,0,0
+M04,Session1,0110,for,before_lora,Four Four,1,1,0,1
+M04,Session1,0024,fee,before_lora,I finished it.,1,1,0,2
+M04,Session2,0143,near,before_lora,Yeah Yeah,1,1,0,1
+M04,Session1,0007,weed,before_lora,Where is... Where is... Where is... Where is... Where is... Where is... Where is... Where is... Where is... Where is... Where is... Where is... Where is... Where is... Where is... Where is...,1,1,0,31
+M04,Session2,0297,bit,before_lora,But...,1,1,0,0
+M04,Session1,0087,raid,before_lora,the lake,1,1,0,1
+M04,Session2,0061,grow,before_lora,grow grow,1,0,0,1
+M04,Session2,0250,four,before_lora,Four Four,1,0,0,1
+M04,Session1,0079,beat,before_lora,The peach.,1,1,0,1
+M04,Session2,0151,we're,before_lora,We are,1,1,0,1
+M04,Session2,0080,goat,before_lora,vote,1,1,0,0
+M04,Session1,0055,read,before_lora,Breathe,1,1,0,0
+M04,Session2,0252,dot,before_lora,DUD!,1,1,0,0
+M04,Session2,0016,jacket,before_lora,That good? That good?,1,1,0,3
+M04,Session2,0173,knot,before_lora,Not. Not.,1,1,0,1
+M04,Session1,0122,tip,before_lora,tip,1,0,0,0
+M04,Session1,0083,jagged,before_lora,Day. Day.,1,1,0,1
+M04,Session2,0097,air,before_lora,"Yeah, yeah.",1,1,0,1
+M05,Session2,0199,mitten,before_lora,"Metem,",1,1,0,0
+M05,Session2,0248,side,before_lora,the side,1,0,0,1
+M05,Session2,0143,pitting,before_lora,petting petting,1,1,0,1
+M05,Session2,0267,sell,before_lora,cell cell,1,1,0,1
+M05,Session2,0257,seeds,before_lora,Seeds Seeds Seeds,1,0,0,2
+M05,Session2,0327,dread,before_lora,Dred.,1,1,0,0
+M05,Session2,0326,chip,before_lora,Chip Chip,1,0,0,1
+M05,Session2,0384,sink,before_lora,Sink Sink,1,0,0,1
+M05,Session2,0334,meat,before_lora,you,1,1,0,0
+M05,Session2,0225,lair,before_lora,there,1,1,0,0
+M05,Session2,0134,snoop,before_lora,It's a noop.,1,1,0,2
+M05,Session2,0114,we're,before_lora,We're...,1,0,0,0
+M05,Session2,0295,wicked,before_lora,WICKING! WICKING!,1,1,0,1
+M05,Session2,0111,wish,before_lora,Wish,1,0,0,0
+M05,Session2,0340,nice,before_lora,you,1,1,0,0
+M05,Session1,0123,rain,before_lora,Rain. Rain.,1,0,0,1
+M05,Session2,0254,lick,before_lora,Lake,1,1,0,0
+M05,Session2,0362,sell,before_lora,sell,1,0,0,0
+M05,Session2,0294,sierra,before_lora,See you! See you!,1,1,0,3
+M05,Session2,0023,rocks,before_lora,rock rock,1,1,0,1
+M05,Session2,0121,troop,before_lora,troop troop,1,0,0,1
+M05,Session2,0059,pot,before_lora,pot pot,1,0,0,1
+M05,Session2,0217,thorn,before_lora,It's so windy.,1,1,0,2
+M05,Session2,0266,reek,before_lora,weak weak,1,1,0,1
+M05,Session2,0383,You can ride stagecoach.,before_lora,You can ride stagecoach.,4,0,0,0
+M05,Session2,0191,cart,before_lora,coat coat,1,1,0,1
+M05,Session2,0099,select,before_lora,select,1,0,0,0
+M05,Session2,0070,hate,before_lora,hate,1,0,0,0
+M05,Session2,0010,light,before_lora,in the right,1,1,0,2
+M05,Session2,0373,witch,before_lora,which,1,1,0,0
+M05,Session2,0159,bitten,before_lora,betind betind betind betind betind betind betind betind betind betind betind betind betind betind betind betind betind betind betind betind betind betind betind betind,1,1,0,23
+M05,Session2,0223,november,before_lora,"Now, remember,",1,1,0,1
+M05,Session2,0029,pat,before_lora,Cut Cut,1,1,0,1
+M05,Session2,0281,and,before_lora,and,1,0,0,0
+M05,Session2,0270,fitting,before_lora,Waiting,1,1,0,0

@@ -1,0 +1,58 @@
+speaker,session,utterance_id,reference_words,errors,multiword,hypothesis
+F01,Session1,0008,12,9,True,"And some in the rain, the roots also were ice-pint."
+F01,Session1,0011,1,1,False,me
+F01,Session1,0014,12,5,True,He slowly kicks a slight walk in the open area again.
+F01,Session1,0021,1,0,False,dug
+F01,Session1,0022,8,3,True,You whisper all about my grandfather.
+F01,Session1,0032,11,10,True,She had even got to an angry-she-was-one-of-all-years.
+F01,Session1,0036,11,3,True,We have often learned to walk more slowly and smoke less.
+F01,Session1,0039,1,1,False,slower
+F01,Session1,0042,1,0,False,for
+F01,Session1,0045,1,0,False,bit
+F01,Session1,0058,1,0,False,the
+F01,Session1,0062,1,0,False,sip
+F01,Session1,0065,1,1,False,be
+F01,Session1,0066,1,1,False,with
+F01,Session1,0076,1,1,False,simp
+F01,Session1,0085,1,0,False,sip
+F01,Session1,0089,1,1,False,skicks
+F01,Session1,0091,1,1,False,dinner
+F01,Session1,0098,1,1,False,link
+F01,Session1,0116,13,6,True,"Wat an evening, he plays skillful and with rest upon a small organ."
+F01,Session1,0123,1,1,False,go
+F01,Session1,0124,1,1,False,gagnu
+F01,Session1,0125,1,1,False,slow
+F01,Session1,0126,9,5,True,He grishes himself in a raging black black hole.
+F01,Session1,0128,1,1,False,slower
+F01,Session1,0132,14,6,True,"When he speaks, his voice is disobeyed, cracked, and removes the subscriber."
+F01,Session1,0134,1,0,False,yes
+M01,Session2_3,0001,1,0,False,one
+M01,Session2_3,0019,1,0,False,dark
+M01,Session2_3,0029,6,1,True,I was counted all the time.
+M01,Session2_3,0031,1,1,False,paint
+M01,Session2_3,0046,1,1,False,new
+M01,Session2_3,0063,1,1,False,rug
+M01,Session2_3,0066,7,4,True,"to other keys, all over, under advisement."
+M01,Session2_3,0103,6,4,True,They're out in gray and white.
+M01,Session2_3,0109,8,1,True,You'd be better off taking a shower.
+M01,Session2_3,0121,7,2,True,All the big baseball players can train.
+M01,Session2_3,0129,6,4,True,"the drain abroad, the by-day,"
+M01,Session2_3,0132,7,4,True,"They carried me up and under, stretching."
+M01,Session2_3,0140,1,1,False,wear
+M01,Session2_3,0154,1,1,False,seract
+M01,Session2_3,0174,6,5,True,They dove in to hang around our boat.
+M01,Session2_3,0176,1,0,False,zero
+M01,Session2_3,0183,1,1,False,sarjan
+M01,Session2_3,0185,7,5,True,The medallion throws at the other way.
+M01,Session2_3,0187,6,5,True,There even three hours at bubble.
+M01,Session2_3,0200,1,1,False,rage
+M01,Session2_3,0205,8,3,True,"If you are learning water replaces immediately,"
+M01,Session2_3,0232,6,7,True,"they bought their days again, they knew every formula."
+M01,Session2_3,0235,6,7,True,"The beauty of I, beauty in every of me,"
+M01,Session2_3,0237,1,1,False,night
+M01,Session2_3,0249,5,0,True,The books are very expensive.
+M01,Session2_3,0250,1,0,False,side
+M01,Session2_3,0256,1,0,False,no
+M01,Session2_3,0277,1,1,False,art
+M01,Session2_3,0283,1,1,False,help
+M01,Session2_3,0286,1,1,False,bright
