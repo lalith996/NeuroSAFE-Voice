@@ -2,6 +2,8 @@
 
 This workspace prepares TORGO and MOCHA-TIMIT, checks audio/EMA alignment and sensor quality, and runs the proposal's first AAI and ASR ablations. It is a research prototype; no end-user voice assistant is deployed yet.
 
+The [detailed Phase 1 project report](reports/NeuroSAFE_Voice_Detailed_Project_Report.md) includes dataset EDA, the full experimental pipeline, model inputs and outputs, results, limitations, and requirement status. A [shareable PDF](output/pdf/NeuroSAFE_Voice_Detailed_Project_Report.pdf) is also available.
+
 ## Repository layout
 
 | Location | Contents |
